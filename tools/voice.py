@@ -135,12 +135,13 @@ def main():
     # episodes.json：新しい順。その日の、その言語の題と長さ
     lst_path = os.path.join(root, station.get("episodes", "episodes.json"))
     lst = json.load(open(lst_path, encoding="utf-8")) if os.path.exists(lst_path) else []
-    entry = next((e for e in lst if e["date"] == ep["date"]), None)
+    key = ep.get("id") or ep["date"]          # a second episode that day has "id": "<date>-2"
+    entry = next((e for e in lst if (e.get("id") or e["date"]) == key), None)
     if entry is None:
-        entry = {"date": ep["date"]}
+        entry = {"date": ep["date"], **({"id": ep["id"]} if ep.get("id") else {})}
         lst.append(entry)
     entry[ep["lang"]] = {"title": ep["title"], "seconds": seconds}
-    lst.sort(key=lambda e: e["date"], reverse=True)
+    lst.sort(key=lambda e: (e["date"], int((e.get("id") or "")[11:] or 1)), reverse=True)
     json.dump(lst, open(lst_path, "w", encoding="utf-8"), ensure_ascii=False)
     print("台本と episodes.json を更新しました")
 

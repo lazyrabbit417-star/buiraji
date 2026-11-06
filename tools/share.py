@@ -99,7 +99,7 @@ def card(station, st, ep, lang, char, logo, fpath):
     d.rectangle([x0, 102, x0 + 110, 106], fill=YELLOW)
     y = 124
     if st("tagline"): d.text((x0, y), st("tagline"), font=font(fpath, 24, 700), fill=TEAL); y += 36
-    d.text((x0, y), date_text(ep["date"], lang), font=font(fpath, 24, 600), fill=MUTED); y += 54
+    d.text((x0, y), date_text(ep["date"], lang) + (f" #{ep['id'][11:]}" if ep.get("id") else ""), font=font(fpath, 24, 600), fill=MUTED); y += 54
 
     # the episode title, then its topics
     ft = font(fpath, 48, 800)
@@ -214,7 +214,7 @@ def main():
     os.makedirs(os.path.join(root, "share"), exist_ok=True)
     made, newest = 0, None
     for entry in json.load(open(os.path.join(root, station.get("episodes", "episodes.json")))):   # newest first
-        date = entry["date"]
+        date = entry.get("id") or entry["date"]   # a second episode that day: <date>-2
         langs = [k for k in entry if k != "date" and isinstance(entry[k], dict)] or [None]
         for lang in langs:
             stem = f"{date}-{lang}" if lang else date
