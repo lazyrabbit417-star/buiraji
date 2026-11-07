@@ -1,0 +1,661 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-07",
+ "lang": "ja",
+ "title": "深海ライド「TARTARUS」、Questにシアター",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月七日、土曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月7日土曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "深海ライド「TARTARUS」公開",
+   "points": [
+    "水深8,000mの研究所を目指すライド",
+    "所要15〜20分、日本語と英語に対応",
+    "告知ポストは16万回以上表示"
+   ],
+   "url": "https://x.com/BinaryEdge_Dev/status/2118651172131365278",
+   "lines": [
+    {
+     "say": "まずは、きのうの夜、ブイアールチャットに公開されたワールドの話題です。",
+     "show": "まずは、きのうの夜にVRChatで公開されたワールド。"
+    },
+    {
+     "say": "タルタロスは、水深八千メートルの研究所を目指す、ライド型のアトラクション。所要時間は十五分から二十分で、日本語と英語に対応しています。",
+     "show": "「TARTARUS」は、水深8,000mの研究所を目指すライド型アトラクション。所要15〜20分、日本語・英語対応。"
+    },
+    {
+     "say": "座席は六つですが、立ち乗りなら、もっと大勢で乗れます。エックスでは、音響がすごい、もう一回行きたい、という声が相次いでいます。クエスト単体では遊べないので、ご注意を。",
+     "show": "座席は6つ、立ち乗りならもっと大勢で。Xでは「音響がすごい」と評判。Quest単体は非対応です。"
+    }
+   ],
+   "details": [
+    "Qollyn（コリン）さんが、11月6日19時半ごろにXで公開を知らせました。VRChatのワールドページでの作者名はIO_sanです。",
+    "座席は6席。立ち乗りなら、それ以上の人数でも同時に乗れます。所要時間は約15〜20分で、日本語と英語に対応。Quest単体では遊べません。",
+    "告知ポストは、7日午前の時点で3,600以上のいいねと、16万回以上の表示。体験した人からは、音響や演出をほめる声が多く出ています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_63a3921b-4412-4858-ae96-d38a7edc95d0/info",
+    "title": "TARTARUS by IO_san",
+    "site": "VRChat",
+    "description": "人類は、深海の最深部を「HADAL（冥府）」と呼んだ。 そこが世界の底であり、それ以上深い場所など存在しないと信じていた。 もし冥府の底に広がる深淵があるならば、その場所を目にした人類は誰もがこう呼ぶだろう。 TARTARUS - 奈落の深淵 座席6席／立ち乗りなら6人以上も可 （所要時間：約20分） 日本語・English 対応 Humanity named the deepest reaches of the sea ＂HADAL‚＂ after Hades․ They believed it was the bottom of the world‚ and that nothing lay deeper․ But if an abyss opens beneath the underworld‚ all who see it will call it by one name˸ TARTARUS 6 seats ⁄ more riders can join standing （Duration˸ 20min） Japanese ＆ English supported",
+    "image": "https://api.vrchat.cloud/api/1/file/file_82ca72eb-3664-4ac2-ba74-41d935b777fa/5/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/BinaryEdge_Dev/status/2118651172131365278",
+    "site": "X",
+    "title": "Qollyn / コリン（@BinaryEdge_Dev）：VRChatワールド「TARTARUS」を公開しました"
+   }
+  },
+  {
+   "label": "Questに「シアター」の空間",
+   "points": [
+    "Horizon OS v2.10のテスト版で登場",
+    "YouTubeやブラウザを大画面の部屋で",
+    "ランチャーも3つのタブに整理"
+   ],
+   "url": "https://www.uploadvr.com/quests-latest-ptc-brings-streamlined-interface-theater-environment/",
+   "lines": [
+    {
+     "say": "つぎは、メタクエストの、次のシステムアップデートです。",
+     "show": "つぎは、Meta Questの次のシステム更新。"
+    },
+    {
+     "say": "ホライゾンオーエスの、ブイ二百十というテスト版で、シアターという新しい空間が登場しました。ユーチューブやブラウザの画面を、ホームシアターのような部屋の、大きなスクリーンで見られます。",
+     "show": "テスト版のHorizon OS v210に、新しい空間「シアター」。YouTubeやブラウザを、ホームシアター風の大画面で。"
+    },
+    {
+     "say": "一部の人には、検索、ライブラリ、通知の、三つのタブに整理した、新しいランチャーも届いています。",
+     "show": "一部の人には、検索・ライブラリ・通知の3タブに整理した新しいランチャーも。"
+    }
+   ],
+   "details": [
+    "UploadVRによると、Horizon OS 2.10（v210）がPTC（パブリックテストチャンネル）で配信され始めました。PTCは、希望した人に先行版を届けるベータ版の仕組みです。",
+    "「シアター」には、見たいウィンドウのコントロールバーにある新しいボタンから入ります。UploadVRの確認では、メディアプレーヤー、ブラウザ、YouTube、Disney+、Prime Videoで使え、映像に合わせて部屋の明かりが変わります。",
+    "新しいランチャー（Navigator）は、9月のMeta Connectで見せたデザインに近いもので、リリースノートには載っていません。いまは一部の人にだけ届いています。"
+   ],
+   "link": {
+    "url": "https://www.uploadvr.com/quests-latest-ptc-brings-streamlined-interface-theater-environment/",
+    "title": "Quest's Latest PTC Brings Streamlined OS Interface & Theater Environment",
+    "site": "UploadVR",
+    "description": "Quest's Horizon OS 2.10 PTC update is rolling out now, introducing a new Theater environment for watching media and a streamlined redesign of the Navigator launcher.",
+    "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/11/thumbtheater-2.png",
+    "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
+   }
+  },
+  {
+   "label": "夢展望のVRChat衣装、売上84倍",
+   "points": [
+    "「ばーちゃるゆめてんぼう」9月の売上が2月の84倍",
+    "TOKYO AVATAR GATEでも販売開始",
+    "衣装と靴の6アイテム、各6〜18アバター対応"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000000201.000049339.html",
+   "lines": [
+    {
+     "say": "つぎは、アパレルブランドの、バーチャル衣装の話題です。",
+     "show": "つぎは、アパレルブランドのバーチャル衣装。"
+    },
+    {
+     "say": "量産型や地雷系のファッションで知られる、夢展望の、ブイアールチャット向けの衣装、ばーちゃるゆめてんぼう。九月の売上が、二月の八十四倍になったそうです。",
+     "show": "夢展望のVRChat向け衣装「ばーちゃるゆめてんぼう」。9月の売上が、2月の84倍に。"
+    },
+    {
+     "say": "五日からは、トーキョーアバターゲートでも売り始めました。衣装と靴の六つで、それぞれ六から十八のアバターに対応しています。",
+     "show": "5日からTOKYO AVATAR GATEでも販売。衣装と靴の6アイテム、各6〜18アバター対応。"
+    }
+   ],
+   "details": [
+    "夢展望のブランドを株式会社Vがライセンスして、企画・制作・販売をしています。協業は2026年2月に始まり、9月の月間売上は2月の84倍になりました。",
+    "11月5日15時30分から、ARROVAが運営するマーケットプレイス「TOKYO AVATAR GATE」でも取り扱いが始まりました。",
+    "6アイテムは、Ribbon Sailor Setup、Millefeuille Lace Dress、CrossSailor、BijouLaceFrillDress、CatEarPunk（18アバター対応）、Heart Pearl Pumps。アバター本体は含まれません。"
+   ],
+   "link": {
+    "url": "https://prtimes.jp/main/html/rd/p/000000201.000049339.html",
+    "title": "株式会社Vとの協業開始後、夢展望「ばーちゃるゆめてんぼう」の月間売上が84倍に。TOKYO AVATAR GATEへ販路拡大",
+    "site": "PR TIMES",
+    "description": "株式会社Vのプレスリリース（2026年11月5日 15時30分）株式会社Vとの協業開始後、夢展望「ばーちゃるゆめてんぼう」の月間売上が84倍に。TOKYO AVATAR GATEへ販路拡大",
+    "image": "https://prcdn.freetls.fastly.net/release_image/49339/201/49339-201-d94f9bcd6489faa389de1b17946562c8-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "icon": "https://prtimes.jp/common/v4.1/images/html/favicon/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "初音ミク、VRChatで無料ライブ",
+   "points": [
+    "12月5日から3週の土曜に開催",
+    "2023〜2026年の「夜空プログラム」を振り返る",
+    "スマホ版やQuest単体でも参加予定"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000000391.000074603.html",
+   "lines": [
+    {
+     "say": "つぎは、初音ミクの、ブイアールチャットでのライブです。",
+     "show": "つぎは、初音ミクのVRChatライブ。"
+    },
+    {
+     "say": "初音ミク 夜空プログラムの、二〇二三年からの歩みを振り返るプレイバックライブが、十二月五日から、三週の土曜日に開かれます。入場は無料です。",
+     "show": "「夜空プログラム」の2023年からの歩みを振り返るライブを、12月5日から3週の土曜に。入場無料。"
+    },
+    {
+     "say": "スマホ版のブイアールチャットや、クエスト単体でも参加できる予定。十二月一日からは、記念のアイテムも売り出されます。",
+     "show": "スマホ版やQuest単体でも参加予定。12月1日からは記念アイテムも販売。"
+    }
+   ],
+   "details": [
+    "主催はGugenka。「初音ミク 夜空プログラム PLAYBACK LIVE in VRChat」は、12月5日・12日・19日の土曜に、VRChatの特設ワールドで開かれます。公演は各日9時・14時・22時の3回（日本時間）。",
+    "2023年から2026年までの「夜空プログラム」のテーマソングを、それぞれの年のメインビジュアルの初音ミクが歌います。",
+    "12月1日から、歴代メインビジュアルをモチーフにした新しいVRChat用アイテムの販売と、「夜空プログラム 2026」のアイテムの一部再販が始まります。"
+   ],
+   "link": {
+    "url": "https://prtimes.jp/main/html/rd/p/000000391.000074603.html",
+    "title": "『初音ミク 夜空プログラム』VRChatにて無料バーチャルライブが開催決定　12月5日（土）より歴代楽曲とモデルで魅せる「PLAYBACK LIVE」がスタート　限定アイテムも販売",
+    "site": "PR TIMES",
+    "description": "株式会社Gugenkaのプレスリリース（2026年11月2日 12時00分）『初音ミク 夜空プログラム』VRChatにて無料バーチャルライブが開催決定　12月5日（土）より歴代楽曲とモデルで魅せる「PLAYBACK LIVE」がスタート　限定アイテムも販売",
+    "image": "https://prcdn.freetls.fastly.net/release_image/74603/391/74603-391-b65414d50cda1888da31c9cb7e2af308-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "icon": "https://prtimes.jp/common/v4.1/images/html/favicon/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "VRの「PAYDAY」が発売",
+   "points": [
+    "QuestとSteamで11月5日に発売",
+    "4人で協力する強盗ミッションが6つ",
+    "Steam版は3,150円"
+   ],
+   "url": "https://www.uploadvr.com/payday-aces-high-review/",
+   "lines": [
+    {
+     "say": "ニュースの最後は、ブイアールのゲームです。",
+     "show": "ニュースの最後は、VRゲーム。"
+    },
+    {
+     "say": "強盗ゲームのシリーズ、ペイデイの、初めてのブイアール専用作品、ペイデイ エーシズハイが、五日に発売されました。クエストと、スチームで遊べます。",
+     "show": "強盗ゲーム「PAYDAY」初のVR専用作『PAYDAY: Aces High』が5日に発売。QuestとSteamで。"
+    },
+    {
+     "say": "四人で協力する六つのミッションは、それぞれに違う仕掛けがあります。海外のレビューでは、敵の動きに不満の声もありますが、仲間と遊べば楽しい、と評価されています。",
+     "show": "4人で協力する6つのミッションは、仕掛けがそれぞれ違う。海外レビューは「敵AIに難あり、でも仲間となら楽しい」。"
+    }
+   ],
+   "details": [
+    "開発・販売はFast Travel Games。Quest と SteamVR（Steam Frame版を含む）で11月5日に発売しました。Steamでの価格は3,150円。",
+    "1回の仕事は4人で。空いた枠はボットが埋めます。クロスプレイに対応し、Meta Horizon+の加入者は発売日から遊べます（UploadVR）。",
+    "Road to VRは、ミッションごとの仕掛けを評価する一方、敵のAIには厳しい評価。UploadVRは「VRで最高の新しい協力シューター」と呼んでいます。"
+   ],
+   "link": {
+    "url": "https://www.uploadvr.com/payday-aces-high-review/",
+    "title": "Payday Aces High Review: Lootin' & Scootin' In VR's Best New Co-Op Shooter",
+    "site": "UploadVR",
+    "description": "With Payday: Aces High, Fast Travel Games has combined the most thrilling parts of the best heist films with the most hectic parts of the Payday series to make a truly invigorating VR Payday.",
+    "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/11/payday-aces-high-screen.png",
+    "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "新作アバター「季夏」",
+   "points": [
+    "枯れたひまわりがモチーフの青年",
+    "発売初週は半額の3,000円",
+    "Xでは3名に当たるプレゼント企画"
+   ],
+   "url": "https://booth.pm/ja/items/9079131",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、きのう発売された男性アバターです。",
+     "show": "ここからは新作・セールのコーナー。まずは、きのう発売の男性アバター。"
+    },
+    {
+     "say": "季夏は、枯れたひまわりがモチーフの、痩せた青年のアバター。発売から一週間は、半額の三千円です。",
+     "show": "DAPPIさんの新作「季夏」は、枯れたひまわりがモチーフの青年。発売初週は半額の3,000円。"
+    },
+    {
+     "say": "エックスでは、三人に当たるプレゼント企画も、十九日まで開かれています。",
+     "show": "Xでは、3名に当たるプレゼント企画を19日まで。"
+    }
+   ],
+   "details": [
+    "ショップはDAPPI。11月6日18時に発売。通常版は発売初週が半額の3,000円で、作者支援版は8,000円（内容は同じ）。",
+    "「やせぎすくん素体」を使った共通素体のアバターで、もちふぃった〜のプロファイルもあります。試着用のアバターと、製作過程を展示した試着ワールドがあります。",
+    "Xのプレゼント企画は、フォローとリポストで応募、11月19日23時59分まで。BOOTHのスキが100増えるごとに、当選枠が1名増えます。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9079131",
+    "title": "季夏 -Kika- - DAPPI - BOOTH",
+    "site": "booth.pm",
+    "description": "枯れたひまわりがモチーフの青年「季夏」のオリジナル3Dアバターです。痩せています。 VRChatでの使用を想定して製作いたしましたが、配信用アバターなどにもご利用いただけます。 試着はこちら→ https://vrchat.com/home/avatar/avtr_5e1eba3a-1aca-40ed-a439-608b03e8bd59 試着ワールドもあります（製作過程なども展示しています）→ https://vrchat.com/home/world/wrld_f02122ad-61fb-4ac5-9862-b4ece45d9c08/info",
+    "image": "https://booth.pximg.net/c/620x620/5f5b6070-aa79-46df-a8db-e6191629ac02/i/9079131/72d91b6e-1672-4946-b9f6-17043c522af1_base_resized.jpg",
+    "icon": "https://dappi.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "17体対応「ピスターシュ」半額",
+   "points": [
+    "13日20時まで1,400円→750円",
+    "セレスティア、ルルネ、まよなど17体",
+    "BOOTHのスキは1日で990超え"
+   ],
+   "url": "https://booth.pm/ja/items/9105975",
+   "lines": [
+    {
+     "say": "つぎは、十七体のアバターに対応した衣装、ピスターシュ。",
+     "show": "つぎは、17体対応の衣装「ピスターシュ」。"
+    },
+    {
+     "say": "十三日の夜八時まではセール中で、千四百円が、七百五十円。セレスティアやルルネ、まよなど、人気のアバターに幅広く対応しています。",
+     "show": "13日20時まで1,400円→750円。セレスティア、ルルネ、まよなど幅広く対応。"
+    }
+   ],
+   "details": [
+    "ショップはCocoBerry。セールは11月13日20時（韓国時間＝日本時間）まで。17体のフルセットも、各アバター用も750円です。",
+    "対応は、セレスティア、マヌカ、ライム、シフォン、ショコラ、プラム、瑞希、ルルネ、輝夜、愛莉、しなの、ミルティナ、ミルフィ、エク、イチゴ、しお、まよ。",
+    "公開から1日で、BOOTHのスキは990を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9105975",
+    "title": "【50% OFF】 ピスターシュ 【17アバター対応】 - CocoBerry - BOOTH",
+    "site": "booth.pm",
+    "description": "Special Sale⏰ ~ 2026.11.13 (KST 20:00) 1400円 -> 750円 2200円 -> 1200円 [Selestia-セレスティア] https://booth.pm/ko/items/4035411 [Manuka-マヌカ] https://booth.pm/ko/items/5058077 [Lime-ライム] https://komado.booth.pm/items/4876459 [Chiffon-シフォン] https://komado.booth.pm/items/5354471 [Chocolat-ショコラ]",
+    "image": "https://booth.pximg.net/c/620x620/feeff32e-f17d-4d30-a788-196717da2c5e/i/9105975/088c3106-f184-49d7-aa96-891299df8b04_base_resized.jpg",
+    "icon": "https://cocoberry.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "キプフェル衣装、8日まで無料",
+   "points": [
+    "ショップ初リリースの記念",
+    "8日23:59まで0円、その後600円",
+    "ゆるかわストリート系の衣装"
+   ],
+   "url": "https://booth.pm/ja/items/9104420",
+   "lines": [
+    {
+     "say": "キプフェル向けの衣装、スイートフラッターは、あした八日の夜まで、無料で配られています。",
+     "show": "キプフェル向け衣装「Sweet Flutter」は、8日の夜まで無料。"
+    },
+    {
+     "say": "ショップの初めてのリリースを記念したもので、期間が終わると六百円になります。",
+     "show": "ショップ初リリースの記念。期間後は600円に。"
+    }
+   ],
+   "details": [
+    "ショップは「うみんちゅぽけっと」。ゆるかわストリート系の衣装で、Modular Avatarに対応しています。",
+    "無料配布は11月6日から8日23時59分まで。その後は600円の通常販売に切り替わります。",
+    "公開から1日で、BOOTHのスキは860を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9104420",
+    "title": "【3日間限定無料！】『Sweet Flutter』 / Kipfel（キプフェル）対応衣装【MA対応】 - うみんちゅぽけっと - BOOTH",
+    "site": "booth.pm",
+    "description": "🦋甘くてふわふわ、ときめきが舞うゆるかわストリート オリジナル3D衣装『Sweet Flutter』 🎉初リリース記念！3日間限定 無料配布キャンペーン ショップ初リリースを記念して、公開から3日間限定（11月6日（金）～11月8日（日）23:59まで）で無料（0円）でダウンロードいただけます！ （※期間終了後は 600円 での通常販売に切り替わります） ぜひこの機会にお迎えして、たくさん着ていただけると嬉しいです！",
+    "image": "https://booth.pximg.net/c/620x620/6cad57d8-13ab-4a9e-9301-14fe8fe658e5/i/9104420/6e02f877-b284-42b6-9fb9-056b18733887_base_resized.jpg",
+    "icon": "https://um16tami.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "アクセ作りの「LilyCraft」",
+   "points": [
+    "ワールドで作ったアクセをUnityで再現",
+    "発売から2週間は半額の1,500円",
+    "対応パーツが1日で8つ"
+   ],
+   "url": "https://booth.pm/ja/items/9087596",
+   "lines": [
+    {
+     "say": "つぎは、アクセサリーを作れるワールド、リリークラフトのツールです。",
+     "show": "つぎは、アクセサリー作りのワールド「LilyCraft」のツール。"
+    },
+    {
+     "say": "ワールドで作ったアクセサリーを、ユニティで、そのまま再現できます。発売から二週間は、半額の千五百円。",
+     "show": "ワールドで作ったアクセを、Unityでそのまま再現。発売から2週間は半額の1,500円。"
+    },
+    {
+     "say": "いま作れるのはブレスレットだけですが、ほかのショップからも、対応するパーツが、きのう一日で八つ出ています。",
+     "show": "今はブレスレットのみ。ほかのショップから対応パーツが、きのう1日で8つ。"
+    }
+   ],
+   "details": [
+    "ショップはMelty Lily。VRChatワールド「LilyCraft」で作ったアクセサリーを、Unityで再現するツールです。",
+    "発売から2週間は1,500円、その後は3,000円。ネックレス、イヤリング、指輪も、今後のアップデートで作れるようにする予定です。",
+    "11月6日には、NUE「Oriens」、nullの足音「null Relics」、BLVK「Bracelet Parts」など、#LilyCraft 対応のパーツが、ほかの6つのショップから8つ出ました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9087596",
+    "title": "LilyCraft Builder｜HandmadeAccessoryTool 【#LilyCraft】 - Melty Lily - BOOTH",
+    "site": "booth.pm",
+    "description": "✨💎 発売記念セール 💎✨ 発売から2週間は 1,500円 でお届けします🗽 （セール終了後は 3,000円 になります） VRChatワールド「LilyCraft」で作ったアクセサリーを、 Unityでそのまま再現するためのツールです。 発売時点では、ワールドで作れるアクセサリーはブレスレットのみとなっております。 今後のアップデートで、ネックレス・イヤリング・指輪など、作れるアイテムを順次追加していく予定です。 ▼ ワールドはこちら https://vrchat.com/home/world/wrld_d9aa36df-8e86-492a-881d-398cdf2a08a5",
+    "image": "https://booth.pximg.net/c/620x620/f2703a01-cc79-4ced-a6fd-515b771de978/i/9087596/d611aa7e-d0e6-4176-b9f8-7bb58b73792e_base_resized.jpg",
+    "icon": "https://meltylily.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "ミュートするとカニを食べる",
+   "points": [
+    "ミュートすると、アバターがカニを食べる",
+    "右手でカニを持てるおまけ付き",
+    "300円"
+   ],
+   "url": "https://booth.pm/ja/items/9105947",
+   "lines": [
+    {
+     "say": "最後は、ちょっと笑えるギミック。カニ食ってろ、は、ミュートすると、アバターがカニを食べはじめます。",
+     "show": "最後は「カニ食ってろ！」。ミュートすると、アバターがカニを食べます。"
+    },
+    {
+     "say": "急にミュートしても、カニを食べているなら、許される。そんなギミックで、三百円です。",
+     "show": "急なミュートも、カニを食べてるなら許される。300円。"
+    }
+   ],
+   "details": [
+    "ショップは「金曜雑貨」。毎週金曜日にアイテムを追加しているお店で、11月6日に v1.0.0 を公開しました。",
+    "おまけで、右手でカニを持てます。手をグーにして、口元のカニを引き抜けます。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9105947",
+    "title": "【Simple】カニ食ってろ！🦀【ミュートギミック】 - 金曜雑貨 - BOOTH",
+    "site": "booth.pm",
+    "description": "･･━━･･━━･･　更新履歴　･･━━･･━━･･ 2026/11/06 v1.0.0公開！ ･･━━･･━━･･━━････━━･･━━･･━━･･ ミュートするとカニを食べます。それだけ。 突然のミュートも許されるようになります。だってカニ食ってるんだもん。 おまけで右手でカニを持てるようにしました。 口元のカニを思いっきり引き抜いてください。(手はFist) せっかくなんで身の部分は気持ち大きくしています。 あー美味いカニ食べたい ◌⑅⃝……………………………………………………………………………………………….⑅⃝◌ 金曜雑貨は毎週金曜日にアイテムを追加する雑貨店です！ ハッシュタグ",
+    "image": "https://booth.pximg.net/c/620x620/dd88a2d5-b38e-43b2-983b-7795f7149538/i/9105947/9110b7f6-799b-4279-8e7f-eaac76ee0bfd_base_resized.jpg",
+    "icon": "https://kinyouzakka.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、深海へ向かうライド、タルタロスの話題から始まりました。",
+   "show": "今日は、深海ライド「TARTARUS」から始まりました。"
+  },
+  {
+   "say": "スイートフラッターの無料配布は、あした八日の夜までです。気になる人は、お早めに。",
+   "show": "「Sweet Flutter」の無料配布は、8日23:59まで。お早めに。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 233.6,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.548,
+   "show": "ぶいらじです。11月7日土曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 5.798,
+   "end": 11.026,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 11.826,
+   "end": 16.53,
+   "show": "まずは、きのうの夜にVRChatで公開されたワールド。",
+   "part": 1
+  },
+  {
+   "start": 16.78,
+   "end": 26.826,
+   "show": "「TARTARUS」は、水深8,000mの研究所を目指すライド型アトラクション。所要15〜20分、日本語・英語対応。",
+   "part": 1
+  },
+  {
+   "start": 27.076,
+   "end": 39.153,
+   "show": "座席は6つ、立ち乗りならもっと大勢で。Xでは「音響がすごい」と評判。Quest単体は非対応です。",
+   "part": 1
+  },
+  {
+   "start": 39.953,
+   "end": 43.543,
+   "show": "つぎは、Meta Questの次のシステム更新。",
+   "part": 2
+  },
+  {
+   "start": 43.793,
+   "end": 55.835,
+   "show": "テスト版のHorizon OS v210に、新しい空間「シアター」。YouTubeやブラウザを、ホームシアター風の大画面で。",
+   "part": 2
+  },
+  {
+   "start": 56.085,
+   "end": 63.75,
+   "show": "一部の人には、検索・ライブラリ・通知の3タブに整理した新しいランチャーも。",
+   "part": 2
+  },
+  {
+   "start": 64.55,
+   "end": 68.175,
+   "show": "つぎは、アパレルブランドのバーチャル衣装。",
+   "part": 3
+  },
+  {
+   "start": 68.425,
+   "end": 79.167,
+   "show": "夢展望のVRChat向け衣装「ばーちゃるゆめてんぼう」。9月の売上が、2月の84倍に。",
+   "part": 3
+  },
+  {
+   "start": 79.417,
+   "end": 87.883,
+   "show": "5日からTOKYO AVATAR GATEでも販売。衣装と靴の6アイテム、各6〜18アバター対応。",
+   "part": 3
+  },
+  {
+   "start": 88.683,
+   "end": 92.192,
+   "show": "つぎは、初音ミクのVRChatライブ。",
+   "part": 4
+  },
+  {
+   "start": 92.442,
+   "end": 103.59,
+   "show": "「夜空プログラム」の2023年からの歩みを振り返るライブを、12月5日から3週の土曜に。入場無料。",
+   "part": 4
+  },
+  {
+   "start": 103.84,
+   "end": 111.587,
+   "show": "スマホ版やQuest単体でも参加予定。12月1日からは記念アイテムも販売。",
+   "part": 4
+  },
+  {
+   "start": 112.387,
+   "end": 115.06,
+   "show": "ニュースの最後は、VRゲーム。",
+   "part": 5
+  },
+  {
+   "start": 115.31,
+   "end": 125.622,
+   "show": "強盗ゲーム「PAYDAY」初のVR専用作『PAYDAY: Aces High』が5日に発売。QuestとSteamで。",
+   "part": 5
+  },
+  {
+   "start": 125.872,
+   "end": 137.241,
+   "show": "4人で協力する6つのミッションは、仕掛けがそれぞれ違う。海外レビューは「敵AIに難あり、でも仲間となら楽しい」。",
+   "part": 5
+  },
+  {
+   "start": 138.041,
+   "end": 143.964,
+   "show": "ここからは新作・セールのコーナー。まずは、きのう発売の男性アバター。",
+   "part": 6
+  },
+  {
+   "start": 144.214,
+   "end": 151.647,
+   "show": "DAPPIさんの新作「季夏」は、枯れたひまわりがモチーフの青年。発売初週は半額の3,000円。",
+   "part": 6
+  },
+  {
+   "start": 151.897,
+   "end": 156.997,
+   "show": "Xでは、3名に当たるプレゼント企画を19日まで。",
+   "part": 6
+  },
+  {
+   "start": 157.797,
+   "end": 161.805,
+   "show": "つぎは、17体対応の衣装「ピスターシュ」。",
+   "part": 7
+  },
+  {
+   "start": 162.055,
+   "end": 172.251,
+   "show": "13日20時まで1,400円→750円。セレスティア、ルルネ、まよなど幅広く対応。",
+   "part": 7
+  },
+  {
+   "start": 173.051,
+   "end": 178.824,
+   "show": "キプフェル向け衣装「Sweet Flutter」は、8日の夜まで無料。",
+   "part": 8
+  },
+  {
+   "start": 179.074,
+   "end": 184.022,
+   "show": "ショップ初リリースの記念。期間後は600円に。",
+   "part": 8
+  },
+  {
+   "start": 184.822,
+   "end": 189.016,
+   "show": "つぎは、アクセサリー作りのワールド「LilyCraft」のツール。",
+   "part": 9
+  },
+  {
+   "start": 189.266,
+   "end": 197.198,
+   "show": "ワールドで作ったアクセを、Unityでそのまま再現。発売から2週間は半額の1,500円。",
+   "part": 9
+  },
+  {
+   "start": 197.448,
+   "end": 204.649,
+   "show": "今はブレスレットのみ。ほかのショップから対応パーツが、きのう1日で8つ。",
+   "part": 9
+  },
+  {
+   "start": 205.449,
+   "end": 212.081,
+   "show": "最後は「カニ食ってろ！」。ミュートすると、アバターがカニを食べます。",
+   "part": 10
+  },
+  {
+   "start": 212.331,
+   "end": 218.092,
+   "show": "急なミュートも、カニを食べてるなら許される。300円。",
+   "part": 10
+  },
+  {
+   "start": 218.892,
+   "end": 223.226,
+   "show": "今日は、深海ライド「TARTARUS」から始まりました。",
+   "part": 11
+  },
+  {
+   "start": 223.476,
+   "end": 229.167,
+   "show": "「Sweet Flutter」の無料配布は、8日23:59まで。お早めに。",
+   "part": 11
+  },
+  {
+   "start": 229.417,
+   "end": 232.798,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 11.826
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.826,
+   "end": 39.953
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 39.953,
+   "end": 64.55
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 64.55,
+   "end": 88.683
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 88.683,
+   "end": 112.387
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 112.387,
+   "end": 138.041
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 138.041,
+   "end": 157.797
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 157.797,
+   "end": 173.051
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 173.051,
+   "end": 184.822
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 184.822,
+   "end": 205.449
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 205.449,
+   "end": 218.892
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 218.892,
+   "end": 233.598
+  }
+ ],
+ "made_at": "2026-11-07T11:27:50"
+}
