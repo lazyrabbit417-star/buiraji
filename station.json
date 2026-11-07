@@ -1,0 +1,38 @@
+{
+ "format": "myradio/station-1",
+ "name": "ぶいらじ",
+ "description": "VRChat・VR機器・XRのニュースと、アバター・衣装・ギミックの新作とセールを、毎日お届け。",
+ "tagline": "VR・VRChat ニュース",
+ "logo": "logo.svg",
+ "url": "https://lazyrabbit417-star.github.io/buiraji/",
+ "repo": "https://github.com/lazyrabbit417-star/buiraji",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "corners": {
+  "shop": {
+   "name": "新作・セール",
+   "tag": "SHOP"
+  }
+ },
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "AIで生成したキャラクターです（myradio のお手本のキャラ）"
+ },
+ "credits": [
+  "声：COEIROINK:リリンちゃん"
+ ],
+ "caster": "声：COEIROINK:リリンちゃん",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true
+}
