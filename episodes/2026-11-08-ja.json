@@ -48,7 +48,18 @@
     "description": "熱狂も、くつろぎも、音楽と一緒に♪ 2026年11月7日〜15日、VRChat で開催。",
     "image": "https://event.virtualparty.jp/assets/images/og.png",
     "icon": "https://event.virtualparty.jp/assets/images/favicon.png"
-   }
+   },
+   "youtube": [
+    "E4m7K39Rmys"
+   ],
+   "videos": [
+    {
+     "youtube": "E4m7K39Rmys",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/E4m7K39Rmys/hqdefault.jpg",
+     "name": "バーチャルダイスパーティー2026 with 冒険企画局PV"
+    }
+   ]
   },
   {
    "label": "Publicのオーナー、VRChatが補足",
@@ -168,7 +179,18 @@
     "url": "https://x.com/VRCFins/status/2119080521628303665",
     "site": "X",
     "title": "Fins（@VRCFins）：Nel Bluが完成しました！ 11月13日に公開予定"
-   }
+   },
+   "youtube": [
+    "8DkxYmPHHUk"
+   ],
+   "videos": [
+    {
+     "youtube": "8DkxYmPHHUk",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/8DkxYmPHHUk/hqdefault.jpg",
+     "name": "Venice Immersive 2026 - Nel Blu"
+    }
+   ]
   },
   {
    "label": "「ヘイル・メアリー」がMRに",
@@ -204,7 +226,18 @@
     "description": "The release date for Project Hail Mary: Journey Among the Stars has been revealed, and it's very soon.",
     "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/11/PHM_JATS_KEYARTWORK-16-9-_Text.png",
     "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
-   }
+   },
+   "youtube": [
+    "dvLI5f6s584"
+   ],
+   "videos": [
+    {
+     "youtube": "dvLI5f6s584",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/dvLI5f6s584/hqdefault.jpg",
+     "name": "Project Hail Mary: Journey Among the Stars | Gameplay Reveal Trailer"
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -278,7 +311,15 @@
     "description": "【最新アップデート v0.1.0（2026-11-07）】初公開です。 [Latest update v0.1.0 (2026-11-07)] First release. [최신 업데이트 v0.1.0 (2026-11-07)] 첫 공개입니다. VRChat アバター用の袖まくりギミックです。無料でお使いいただけます。 プレハブをアバターに入れて袖のある衣装を選ぶだけで、ビルド時にその衣装のメッシュから「まくった袖」の形を計算して入れます。Expression Menu のトグルをオンにすると両袖がまくれ上がり、他の人にもそのまま見えます。",
     "image": "https://booth.pximg.net/c/620x620/6e5a2a6c-6c80-46d6-9663-3fb2a704e152/i/9111596/5e43ac65-77fc-4d78-b384-9faa8faddee6_base_resized.jpg",
     "icon": "https://pyrite9.booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "videos": [
+    {
+     "youtube": "bvTN-9sY09w",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/bvTN-9sY09w/hqdefault.jpg",
+     "name": "Pyrite9 Sleeve Roll（袖まくりギミック）| VRChat / Modular Avatar"
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -315,7 +356,15 @@
     "description": "■商品内容 リアルタイム気象システムは日本全国各地の気象情報をリアルタイムで表示できるワールド用インテリアオブジェクトです。 以下の機能を備えています。 ・観測地点は50地点(北海道4か所、その他は県庁所在地) ・各地の天候詳細表示機能 ・2種類の天候表示方法の切り替え(パーティクル・アイコン) ・3種類マップの表示方法の切り替え ・風向き(強さ3段階)表示 ・時計表示 ■天候種類 ・晴れ ・曇り ・雨 ・強雨 ・雪 ・強雪 ・雷 ・霧 ■事前にご確認ください ・liltoonのインポート (なるべく最新版を入れてください)",
     "image": "https://booth.pximg.net/c/620x620/0697110e-1c98-4d96-91ef-a516c29be14b/i/9107098/2715301a-d177-4334-81a1-627bcac8ed09_base_resized.jpg",
     "icon": "https://kodamaaltanative.booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "videos": [
+    {
+     "youtube": "RoehPoJN_R0",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/RoehPoJN_R0/hqdefault.jpg",
+     "name": "【VRC想定】リアルタイム気象システム / Real-time weather system"
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -348,7 +397,15 @@
     "description": "11/11 22:00まで500円OFF！ システムウィンドウが次々と出てくる演出が好き。 ※転送ギミック本体以外のアバター、衣装、武器は付属しません ※サムネイル二枚はunityで撮影しています 操作説明：下に記載されています。 導入説明：https://www.youtube.com/watch?v=KvLppLZOovU",
     "image": "https://booth.pximg.net/c/620x620/776c0f0b-26c7-4cac-b628-b1bd55cdd69e/i/9026660/ce3abf77-0c1d-407b-8c2c-82daca30488a_base_resized.jpg",
     "icon": "https://saichiweapon.booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "videos": [
+    {
+     "youtube": "ZuTq0alQXLg",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/ZuTq0alQXLg/hqdefault.jpg",
+     "name": "AetherStep"
+    }
+   ]
   },
   {
    "corner": "shop",
