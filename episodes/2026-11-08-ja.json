@@ -1,0 +1,688 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-08",
+ "lang": "ja",
+ "title": "ダイスパーティー開幕、Publicのオーナーに補足",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月八日、日曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月8日日曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "VRChatで「ダイスパーティー」開幕",
+   "points": [
+    "11月7日〜15日、入場無料",
+    "ボードゲームやTRPGの204団体が出展",
+    "毎晩21〜23時は出展者と話せるコアタイム"
+   ],
+   "url": "https://event.virtualparty.jp/",
+   "lines": [
+    {
+     "say": "まずは、きのう始まった、ブイアールチャットのイベントです。",
+     "show": "まずは、きのう開幕したVRChatのイベント。"
+    },
+    {
+     "say": "ボードゲームや、ティーアールピージーのイベント、バーチャルダイスパーティーが、ブイアールチャットで始まりました。十五日までの九日間で、入場は無料です。",
+     "show": "ボードゲームやTRPGのイベント「バーチャルダイスパーティー2026」がVRChatで開幕。15日までの9日間、入場無料。"
+    },
+    {
+     "say": "今年のテーマは音楽。二百四の団体が出展していて、毎晩九時から十一時のコアタイムには、出展者と直接話せます。",
+     "show": "今年のテーマは「音楽」。204団体が出展し、毎晩21〜23時のコアタイムは出展者と直接話せる。"
+    }
+   ],
+   "details": [
+    "正式な名前は「バーチャルダイスパーティー2026 with 冒険企画局」。主催は株式会社バーチャルパーティーで、VRChatの特設ワールドで11月7日から15日まで開かれます。来場は無料（VRChatのアカウントが必要）。",
+    "テーマは「音楽」、ワールドのコンセプトは「Hot & Chill」。ライブステージのHotと、くつろぎのChillのワールドに、ボードゲーム、TRPG、マーダーミステリー、3Dモデル、VTuber、音楽関係など204団体がブースを出しています。",
+    "毎日21時〜23時のコアタイムには、全ワールドにグループパブリックのインスタンスが立ちます。ボードゲーム大会「Virtual Dice Championship 2026」や日替わりの体験会、ステージも開かれます。"
+   ],
+   "link": {
+    "url": "https://event.virtualparty.jp/",
+    "title": "バーチャルダイスパーティー2026 with 冒険企画局",
+    "site": "event.virtualparty.jp",
+    "description": "熱狂も、くつろぎも、音楽と一緒に♪ 2026年11月7日〜15日、VRChat で開催。",
+    "image": "https://event.virtualparty.jp/assets/images/og.png",
+    "icon": "https://event.virtualparty.jp/assets/images/favicon.png"
+   }
+  },
+  {
+   "label": "Publicのオーナー、VRChatが補足",
+   "points": [
+    "オーナーが抜けても、権限は引き継がれない",
+    "作った人が残っているPublicは約1%",
+    "不評なら元に戻す用意も"
+   ],
+   "url": "https://ask.vrchat.com/t/developer-update-5-november-2026/49298",
+   "lines": [
+    {
+     "say": "つぎは、おととい、お伝えした、ブイアールチャットの変更の続報です。",
+     "show": "つぎは、6日にお伝えしたVRChatの変更の続報。"
+    },
+    {
+     "say": "パブリックのインスタンスにも、作った人がオーナーとして付く変更について、運営が説明を足しました。オーナーが抜けても、キックなどの権限は、ほかの人には引き継がれません。",
+     "show": "Publicにも作った人がオーナーとして付く変更に、VRChatが説明を追加。オーナーが抜けても、権限はほかの人に移らない。"
+    },
+    {
+     "say": "いまのパブリックで、作った人がまだ残っているのは、一パーセントほど。反応が悪ければ、元に戻す用意もある、としています。",
+     "show": "作った人がまだ残っているPublicは、今は約1%。反応が悪ければ、元に戻す用意もあるとのこと。"
+    }
+   ],
+   "details": [
+    "VRChatは、11月5日の開発者向けアップデート（Developer Update）に、日本時間7日、2つの項目を書き足しました。公式Xでも「ちょっとした誤解を解きたい」と知らせています。",
+    "インスタンスを作ったオーナーが抜けると、警告・マイクの強制ミュート・キックなどの権限は、ほかの人に移りません。そのインスタンスは、だれも管理しない、ふつうのPublicに戻ります。",
+    "変更は2026.4.2のオープンベータから。ワールドの作者が持つ管理の権限はこれまでどおりで、投票によるキックも残ります。"
+   ],
+   "link": {
+    "url": "https://ask.vrchat.com/t/developer-update-5-november-2026/49298",
+    "title": "Developer Update - 5 November 2026",
+    "site": "VRChat Ask Forum",
+    "description": "Welcome to the Developer Update for November 5, 2026!     Today’s featured world is When Mushrooms Whisper - ［Project˸ INSPIRATIO］ by Shopow, available cross-platform.  Announcements NYE2027 Booth Forms Close TONIGHT If you’re interested in having a booth for our NYE2027 world this year, please fill out the following form:  VRChat NYE2027 Booth Interest Survey   Booth form closes TONIGHT at November 6, midnight PT!  (We just had daylight savings time in the USA, check your clocks!)  The NYE2027 ...",
+    "image": "https://global.discourse-cdn.com/vrchat/optimized/3X/0/c/0cf47bfbdfe4176d8bd207b8f788549ffafc471c_2_1024x576.jpeg",
+    "icon": "https://global.discourse-cdn.com/vrchat/optimized/2X/d/ddfe37dc3fb890cb7c5ad53d006ec5087755601c_2_180x180.png"
+   }
+  },
+  {
+   "label": "トロッコで2択「バチャアドベンチャー」",
+   "points": [
+    "あのクイズ番組の最終ステージをVRChatで",
+    "問題は330問以上、1人から遊べる",
+    "告知ポストのいいねは4,000超え"
+   ],
+   "url": "https://x.com/__sotue__/status/2118627789100503452",
+   "lines": [
+    {
+     "say": "つぎは、新しいワールド。六日に公開された、バチャアドベンチャーです。",
+     "show": "つぎは、6日に公開されたワールド「バチャアドベンチャー」。"
+    },
+    {
+     "say": "あのクイズ番組の最終ステージを体験できる、二択クイズのワールド。トロッコに乗って、時間内に、正しいと思う方の道を選びます。",
+     "show": "あのクイズ番組の最終ステージを体験できる2択クイズ。トロッコに乗って、時間内に答えの道を選ぶ。"
+    },
+    {
+     "say": "問題は三百三十問以上で、ブイアールチャットにちなんだ問題もあります。一人からでも遊べて、告知のポストには、四千を超えるいいねが付いています。",
+     "show": "問題は330問以上、VRChatにちなんだ問題も。1人から遊べて、告知ポストのいいねは4,000超え。"
+    }
+   ],
+   "details": [
+    "作者は、そてゅーさん。11月6日の夕方にXで公開を知らせました。告知ポストは、8日朝の時点で4,000以上のいいねと、21万回以上の表示。",
+    "仲間と協力して答える、協力型の2択クイズです。PC、Quest、iOSに対応していて、1人からでも遊べます。",
+    "トロッコに乗り、制限時間内に、正しいと思う方へ進みます。遊んだ人からは「VRChatに関する問題もあった」という声も出ています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_c53e5add-294a-4804-8a2b-a640535268a3/info",
+    "title": "バチャアドベンチャー 【協力型2択クイズ】 by そてゅー",
+    "site": "VRChat",
+    "description": "あのクイズ番組の最終ステージをVRChatで体験してみよう！ 問題は330問以上！／1人からプレイ可能",
+    "image": "https://api.vrchat.cloud/api/1/file/file_a954adca-fb08-4b13-85e2-d3c74784dc5f/3/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/__sotue__/status/2118627789100503452",
+    "site": "X",
+    "title": "そてゅー（@__sotue__）：VRChatワールド「バチャアドベンチャー」を公開しました"
+   }
+  },
+  {
+   "label": "映画祭の「Nel Blu」、14日公開",
+   "points": [
+    "ヴェネツィア国際映画祭のXR部門に選ばれたワールド",
+    "作り直した版を、14日午前3時に公開",
+    "大人が、子どものころの好奇心を思い出す物語"
+   ],
+   "url": "https://x.com/VRCFins/status/2119080521628303665",
+   "lines": [
+    {
+     "say": "つぎは、来週公開される、注目のワールドです。",
+     "show": "つぎは、来週公開されるワールド。"
+    },
+    {
+     "say": "ヴェネツィア国際映画祭の、エックスアール部門に選ばれた、ネルブルーが完成した、と作者のフィンズさんが発表しました。公開は、にほん時間の十四日、午前三時です。",
+     "show": "ヴェネツィア国際映画祭のXR部門に選ばれた「Nel Blu」が完成。公開は日本時間14日の午前3時。"
+    },
+    {
+     "say": "退屈な毎日から、子どものころの思い出をたどって、宇宙へと旅する物語。最初の公開で寄せられた感想をもとに、作り直したそうです。",
+     "show": "退屈な日常から、子どものころの記憶をたどって宇宙へ。最初の公開での感想をもとに作り直した版です。"
+    }
+   ],
+   "details": [
+    "作者は、VRChatのワールド制作者のFins（フィンズ）さん。2026年のVenice Immersive（ヴェネツィア国際映画祭のXR部門）のコンペティションに選ばれた作品です。",
+    "映画祭の紹介によると、見えない語り手に導かれて、子どものころの驚きの記憶へ。寝室が天文台に、おもちゃが宇宙船に変わっていく、インタラクティブな物語です。",
+    "Finsさんは9月、映画祭のために1か月で作った実験的な作品だと説明していました。公開は太平洋時間の11月13日10時、日本時間では14日の午前3時です。"
+   ],
+   "link": {
+    "url": "https://www.labiennale.org/en/node/20036",
+    "title": "Biennale Cinema 2026 | Nel blu",
+    "site": "La Biennale di Venezia",
+    "description": "Director Fins USA",
+    "image": "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2026/Schede_film/970x647/Ve_Immersive/nel_blu.jpg?itok=SkBPhH6O",
+    "icon": "https://static.labiennale.org/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/VRCFins/status/2119080521628303665",
+    "site": "X",
+    "title": "Fins（@VRCFins）：Nel Bluが完成しました！ 11月13日に公開予定"
+   }
+  },
+  {
+   "label": "「ヘイル・メアリー」がMRに",
+   "points": [
+    "小説と映画の物語を広げるMR作品",
+    "Quest 3・3S、PICO、Android XRで12日発売",
+    "異星人ロッキーと宇宙船を立て直す"
+   ],
+   "url": "https://www.uploadvr.com/project-hail-mary-journey-among-the-stars-gets-a-release-date/",
+   "lines": [
+    {
+     "say": "ニュースの最後は、映画にもなった、エスエフ小説の体験作品です。",
+     "show": "ニュースの最後は、映画にもなったSF小説の体験作品。"
+    },
+    {
+     "say": "プロジェクト・ヘイル・メアリーの物語を広げる、エムアールの作品が、十二日に発売されます。クエスト・スリーとスリーエス、ピコ、アンドロイド・エックスアールで遊べます。",
+     "show": "『Project Hail Mary: Journey Among the Stars』が12日に発売。Quest 3・3S、PICO、Android XR向けのMR作品。"
+    },
+    {
+     "say": "主人公のグレースになって、こわれかけた宇宙船を、異星人の友だち、ロッキーと一緒に立て直します。",
+     "show": "主人公グレースとして、こわれかけた宇宙船を、異星人の友ロッキーと立て直す。"
+    }
+   ],
+   "details": [
+    "アンディ・ウィアーのSF小説と、その映画版の物語を広げる、複合現実（MR）の体験です。UploadVRによると、Meta Quest 3と3S、PICO、Android XR向けに11月12日に出ます。",
+    "プレイヤーは主人公ライランド・グレースになり、ミッションの大事な場面で、こわれていく船のシステムを調べて直します。異星人ロッキーとの絆も描かれます。",
+    "予約を受け付け中。早く買った人には、ロッキー、グレース、ヘイル・メアリー号の3つのデジタル彫像が付き、MRで部屋に飾れます。"
+   ],
+   "link": {
+    "url": "https://www.uploadvr.com/project-hail-mary-journey-among-the-stars-gets-a-release-date/",
+    "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
+    "site": "UploadVR",
+    "description": "The release date for Project Hail Mary: Journey Among the Stars has been revealed, and it's very soon.",
+    "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/11/PHM_JATS_KEYARTWORK-16-9-_Text.png",
+    "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "21体対応「Lazy Bite」が200円",
+   "points": [
+    "12月5日まで、1体ぶん990円→200円",
+    "21体のフルセットも2,490円→450円",
+    "公開1日でスキが2,400超え"
+   ],
+   "url": "https://booth.pm/ja/items/9102148",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、二十一体のアバターに対応した衣装、レイジーバイトです。",
+     "show": "ここからは新作・セールのコーナー。まずは、21体対応の衣装「Lazy Bite」。"
+    },
+    {
+     "say": "ねこ耳のキャップに、ざっくりしたニットを合わせた、秋の衣装。十二月五日までは、ブラックフライデーのセールで、ひとつ九百九十円が二百円、二十一体ぶんまとめても、四百五十円です。",
+     "show": "ねこ耳キャップとニットの秋の衣装。12月5日までセールで、1体ぶん990円→200円、21体まとめて450円。"
+    },
+    {
+     "say": "公開から一日で、スキは二千四百を超えました。",
+     "show": "公開1日で、BOOTHのスキは2,400超え。"
+    }
+   ],
+   "details": [
+    "ショップはParfaIt。11月7日の朝に公開しました。オフショルダーのケーブルニットに、ねこ耳のキャップ、チョーカー、チェックのスカートを合わせた衣装です。",
+    "対応は、マヌカ、しなの、愛莉、ミルティナ、ルルネ、輝夜、まよ、ソルトなど21体。lilToonとModular Avatarに対応しています。",
+    "セールは12月5日まで。1体ぶんが990円→200円、21体のフルセットが2,490円→450円です。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9102148",
+    "title": "🔥200JPY Blackfriday Sale ~12/05🔥【♡Lazy Bite♡】 【21 avatars】 - ParfaIt - BOOTH",
+    "site": "booth.pm",
+    "description": "🔥200JPY Blackfriday Sale ~12/05🔥 Full Pack: 2490 ➛ 450 1 Pack: 990 ➛ 200 【Upload Size】 16.2 MB (Uncompressed Texture 60.7 MB) 【대응 아바타/対応アバタ】 *Manuka https://jingo1016.booth.pm/items/5058077 *Chiffon https://komado.booth.pm/items/5354471 *Lime https://komado.booth.pm/items/4876459 *Shinano",
+    "image": "https://booth.pximg.net/c/620x620/f615c3b4-9a20-4ca1-8c51-27de2b4419ee/i/9102148/6def9be5-8911-4149-9532-37d5cca55382_base_resized.jpg",
+    "icon": "https://parfait2026.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "袖をまくれる「Sleeve Roll」、無料",
+   "points": [
+    "メニューのボタンひとつで両袖がまくれる",
+    "まくった形は、手持ちの衣装から作る",
+    "無料（支援版は100円）"
+   ],
+   "url": "https://booth.pm/ja/items/9111596",
+   "lines": [
+    {
+     "say": "つぎは、無料のギミック、スリーブロール。",
+     "show": "つぎは、無料のギミック「Sleeve Roll」。"
+    },
+    {
+     "say": "メニューのボタンひとつで、両方の袖が、くるっとまくれ上がります。まくった形は、アップロードするときに、着ている衣装から計算して作るので、いろいろな服で使えます。",
+     "show": "ボタンひとつで両袖がまくれ上がる。形はアップロード時に、着ている衣装から計算して作る。"
+    },
+    {
+     "say": "重ね着にも対応していて、告知のポストには、千七百を超えるいいねが付いています。",
+     "show": "重ね着にも対応。告知ポストのいいねは1,700超え。"
+    }
+   ],
+   "details": [
+    "作者はPyrite9さん。11月7日にv0.1.0を公開しました。Modular Avatarを使い、プレハブをアバターに入れて、袖のある衣装を選ぶだけで入ります。",
+    "パッケージにシェイプキーやメッシュは入っておらず、まくった袖の形は、持っている衣装のメッシュから、ビルドのときに作られます。まくった袖は、ほかの人にも見えます。",
+    "無料版と支援版（100円）は中身が同じ。BOOTHのスキは1日で800を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9111596",
+    "title": "(v0.1.0) [FREE] Pyrite9 Sleeve Roll — 袖まくりギミック / Sleeve-rolling gimmick【VRChat】 - pyrite9 - BOOTH",
+    "site": "booth.pm",
+    "description": "【最新アップデート v0.1.0（2026-11-07）】初公開です。 [Latest update v0.1.0 (2026-11-07)] First release. [최신 업데이트 v0.1.0 (2026-11-07)] 첫 공개입니다. VRChat アバター用の袖まくりギミックです。無料でお使いいただけます。 プレハブをアバターに入れて袖のある衣装を選ぶだけで、ビルド時にその衣装のメッシュから「まくった袖」の形を計算して入れます。Expression Menu のトグルをオンにすると両袖がまくれ上がり、他の人にもそのまま見えます。",
+    "image": "https://booth.pximg.net/c/620x620/6e5a2a6c-6c80-46d6-9663-3fb2a704e152/i/9111596/5e43ac65-77fc-4d78-b384-9faa8faddee6_base_resized.jpg",
+    "icon": "https://pyrite9.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "全国の天気をワールドに",
+   "points": [
+    "全国50か所の、いまの天気を表示",
+    "晴れ・雨・雪・雷など8種類",
+    "1,000円"
+   ],
+   "url": "https://booth.pm/ja/items/9107098",
+   "lines": [
+    {
+     "say": "つぎは、ワールドに置くインテリア、リアルタイム気象システム。",
+     "show": "つぎは、ワールド用のインテリア「リアルタイム気象システム」。"
+    },
+    {
+     "say": "日本全国、五十か所の、いまの天気を、地図の上に映します。雨や雪を、パーティクルで降らせることもできます。",
+     "show": "全国50か所の、いまの天気を地図に表示。雨や雪をパーティクルで降らせることも。"
+    },
+    {
+     "say": "風の向きや時計も表示できて、値段は千円です。",
+     "show": "風向きや時計も表示できて、1,000円。"
+    }
+   ],
+   "details": [
+    "ショップは「だまこや」。観測地点は50か所（北海道の4か所と、ほかの都府県の県庁所在地）。晴れ・曇り・雨・強雨・雪・強雪・雷・霧の8種類を表示します。",
+    "天気の出し方はパーティクルとアイコンの2種類、地図の出し方は3種類から切り替えられます。風向き（強さ3段階）と時計も。",
+    "ショップのショールームワールド「DAMAKOYA interior」で、実物を見られます。BOOTHのスキは1日で270を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9107098",
+    "title": "【VRC想定】リアルタイム気象システム / Real-time weather system - だまこや - BOOTH",
+    "site": "booth.pm",
+    "description": "■商品内容 リアルタイム気象システムは日本全国各地の気象情報をリアルタイムで表示できるワールド用インテリアオブジェクトです。 以下の機能を備えています。 ・観測地点は50地点(北海道4か所、その他は県庁所在地) ・各地の天候詳細表示機能 ・2種類の天候表示方法の切り替え(パーティクル・アイコン) ・3種類マップの表示方法の切り替え ・風向き(強さ3段階)表示 ・時計表示 ■天候種類 ・晴れ ・曇り ・雨 ・強雨 ・雪 ・強雪 ・雷 ・霧 ■事前にご確認ください ・liltoonのインポート (なるべく最新版を入れてください)",
+    "image": "https://booth.pximg.net/c/620x620/0697110e-1c98-4d96-91ef-a516c29be14b/i/9107098/2715301a-d177-4334-81a1-627bcac8ed09_base_resized.jpg",
+    "icon": "https://kodamaaltanative.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "召喚・着替えの「Aether Step」",
+   "points": [
+    "システムのウィンドウが次々に開く演出",
+    "11日22時まで500円引きの700円",
+    "Modular Avatarに対応"
+   ],
+   "url": "https://booth.pm/ja/items/9026660",
+   "lines": [
+    {
+     "say": "つぎは、召喚と着替えのギミック、エーテルステップ。",
+     "show": "つぎは、召喚・着替えのギミック「Aether Step」。"
+    },
+    {
+     "say": "サイバーな、システムのウィンドウが次々に開いて、衣装や武器を呼び出す演出です。十一日の夜十時までは、五百円引きの、七百円。",
+     "show": "システムのウィンドウが次々に開いて、衣装や武器を呼び出す。11日22時まで500円引きの700円。"
+    }
+   ],
+   "details": [
+    "ショップは「サイチの物置小屋」。ホログラムやパーティクルを使った、SF風の召喚・着替えギミックで、Modular Avatarに対応しています。",
+    "セールは11月11日22時まで。アバター・衣装・武器は付いていません。導入の説明動画がYouTubeで公開されています。",
+    "BOOTHのスキは680を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9026660",
+    "title": "500円OFF【召喚・着替えギミック】Aether Step【MA対応】 - サイチの物置小屋 - BOOTH",
+    "site": "booth.pm",
+    "description": "11/11 22:00まで500円OFF！ システムウィンドウが次々と出てくる演出が好き。 ※転送ギミック本体以外のアバター、衣装、武器は付属しません ※サムネイル二枚はunityで撮影しています 操作説明：下に記載されています。 導入説明：https://www.youtube.com/watch?v=KvLppLZOovU",
+    "image": "https://booth.pximg.net/c/620x620/776c0f0b-26c7-4cac-b628-b1bd55cdd69e/i/9026660/ce3abf77-0c1d-407b-8c2c-82daca30488a_base_resized.jpg",
+    "icon": "https://saichiweapon.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "もう一人の自分「StopPlay」",
+   "points": [
+    "自分の動きを録画して、その場でループ再生",
+    "4つまで同時に再生できる",
+    "500円、PC版のみ"
+   ],
+   "url": "https://booth.pm/ja/items/9113901",
+   "lines": [
+    {
+     "say": "最後は、けさ公開されたギミック、ストッププレイ。",
+     "show": "最後は、けさ公開のギミック「StopPlay」。"
+    },
+    {
+     "say": "自分の動きを、最大十秒録画して、その場で、もう一人の自分として、くり返し再生します。四つまで同時に再生できるので、自分と並んで写真を撮ったり、部屋を自分だらけにしたり。",
+     "show": "自分の動きを最大10秒録画して、もう一人の自分としてループ再生。4つまで同時に。"
+    },
+    {
+     "say": "パソコン版のブイアールチャットだけで使えて、値段は五百円です。",
+     "show": "PC版VRChat専用で、500円。"
+    }
+   ],
+   "details": [
+    "ショップはLorem's Gimmicks。11月8日の早朝に公開しました。ボタンを押すと5秒のカウントダウンのあと、最大10秒録画。揺れものや衣装のトグルの動きも、録画どおりに再生されます。",
+    "録画した自分が見えるのは、本人、フレンド、アバターを表示にしている人。QuestやスマホのVRChatでは動きません。",
+    "500円（支援版は1,000円）。商品ページには、生成AIを使って作ったと書かれています。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9113901",
+    "title": "StopPlay（ストッププレイ）- 動きを録画して、もう一人の自分がループ再生するギミック - Lorem's Gimmicks - BOOTH",
+    "site": "booth.pm",
+    "description": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 　StopPlay（ストッププレイ） 　隣にいるのは、さっきの自分。 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 自分の動きを録画して、その場に「もう一人の自分」としてループ再生できるVRChatアバター用ギミックです。 最大4スロットまで同時に再生できるので、自分とならんで写真を撮ったり、部屋じゅうを自分だらけにしたり。 プレハブをアバターにドラッグ＆ドロップするだけで導入できます。 ※PC専用です（Quest・スマホでは動作しません）。 ※本商品は生成AIを活用して制作しています。 ※English below. ✅",
+    "image": "https://booth.pximg.net/c/620x620/a4d8df7c-32b2-49ea-9c89-22945c81fd36/i/9113901/fdfabade-9156-4b2b-9dff-8eebd6ab284b_base_resized.jpg",
+    "icon": "https://loremgimmickshop.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、ブイアールチャットで始まった、バーチャルダイスパーティーの話題から始まりました。",
+   "show": "今日は、VRChatで開幕した「バーチャルダイスパーティー」から始まりました。"
+  },
+  {
+   "say": "おととい紹介した新作アバター、レピは、あしたの夜六時に発売です。",
+   "show": "6日に紹介した新作アバター「レピ」は、あした9日18時に発売。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 253.47,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.618,
+   "show": "ぶいらじです。11月8日日曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 5.868,
+   "end": 11.095,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 11.895,
+   "end": 15.613,
+   "show": "まずは、きのう開幕したVRChatのイベント。",
+   "part": 1
+  },
+  {
+   "start": 15.863,
+   "end": 25.827,
+   "show": "ボードゲームやTRPGのイベント「バーチャルダイスパーティー2026」がVRChatで開幕。15日までの9日間、入場無料。",
+   "part": 1
+  },
+  {
+   "start": 26.077,
+   "end": 34.903,
+   "show": "今年のテーマは「音楽」。204団体が出展し、毎晩21〜23時のコアタイムは出展者と直接話せる。",
+   "part": 1
+  },
+  {
+   "start": 35.703,
+   "end": 40.698,
+   "show": "つぎは、6日にお伝えしたVRChatの変更の続報。",
+   "part": 2
+  },
+  {
+   "start": 40.948,
+   "end": 52.352,
+   "show": "Publicにも作った人がオーナーとして付く変更に、VRChatが説明を追加。オーナーが抜けても、権限はほかの人に移らない。",
+   "part": 2
+  },
+  {
+   "start": 52.602,
+   "end": 61.242,
+   "show": "作った人がまだ残っているPublicは、今は約1%。反応が悪ければ、元に戻す用意もあるとのこと。",
+   "part": 2
+  },
+  {
+   "start": 62.042,
+   "end": 66.886,
+   "show": "つぎは、6日に公開されたワールド「バチャアドベンチャー」。",
+   "part": 3
+  },
+  {
+   "start": 67.136,
+   "end": 76.253,
+   "show": "あのクイズ番組の最終ステージを体験できる2択クイズ。トロッコに乗って、時間内に答えの道を選ぶ。",
+   "part": 3
+  },
+  {
+   "start": 76.503,
+   "end": 86.734,
+   "show": "問題は330問以上、VRChatにちなんだ問題も。1人から遊べて、告知ポストのいいねは4,000超え。",
+   "part": 3
+  },
+  {
+   "start": 87.534,
+   "end": 91.135,
+   "show": "つぎは、来週公開されるワールド。",
+   "part": 4
+  },
+  {
+   "start": 91.385,
+   "end": 103.033,
+   "show": "ヴェネツィア国際映画祭のXR部門に選ばれた「Nel Blu」が完成。公開は日本時間14日の午前3時。",
+   "part": 4
+  },
+  {
+   "start": 103.283,
+   "end": 112.945,
+   "show": "退屈な日常から、子どものころの記憶をたどって宇宙へ。最初の公開での感想をもとに作り直した版です。",
+   "part": 4
+  },
+  {
+   "start": 113.745,
+   "end": 118.473,
+   "show": "ニュースの最後は、映画にもなったSF小説の体験作品。",
+   "part": 5
+  },
+  {
+   "start": 118.723,
+   "end": 130.962,
+   "show": "『Project Hail Mary: Journey Among the Stars』が12日に発売。Quest 3・3S、PICO、Android XR向けのMR作品。",
+   "part": 5
+  },
+  {
+   "start": 131.212,
+   "end": 138.077,
+   "show": "主人公グレースとして、こわれかけた宇宙船を、異星人の友ロッキーと立て直す。",
+   "part": 5
+  },
+  {
+   "start": 138.877,
+   "end": 146.077,
+   "show": "ここからは新作・セールのコーナー。まずは、21体対応の衣装「Lazy Bite」。",
+   "part": 6
+  },
+  {
+   "start": 146.327,
+   "end": 159.531,
+   "show": "ねこ耳キャップとニットの秋の衣装。12月5日までセールで、1体ぶん990円→200円、21体まとめて450円。",
+   "part": 6
+  },
+  {
+   "start": 159.781,
+   "end": 163.359,
+   "show": "公開1日で、BOOTHのスキは2,400超え。",
+   "part": 6
+  },
+  {
+   "start": 164.159,
+   "end": 167.076,
+   "show": "つぎは、無料のギミック「Sleeve Roll」。",
+   "part": 7
+  },
+  {
+   "start": 167.326,
+   "end": 178.381,
+   "show": "ボタンひとつで両袖がまくれ上がる。形はアップロード時に、着ている衣装から計算して作る。",
+   "part": 7
+  },
+  {
+   "start": 178.631,
+   "end": 184.404,
+   "show": "重ね着にも対応。告知ポストのいいねは1,700超え。",
+   "part": 7
+  },
+  {
+   "start": 185.204,
+   "end": 189.293,
+   "show": "つぎは、ワールド用のインテリア「リアルタイム気象システム」。",
+   "part": 8
+  },
+  {
+   "start": 189.543,
+   "end": 197.522,
+   "show": "全国50か所の、いまの天気を地図に表示。雨や雪をパーティクルで降らせることも。",
+   "part": 8
+  },
+  {
+   "start": 197.772,
+   "end": 201.223,
+   "show": "風向きや時計も表示できて、1,000円。",
+   "part": 8
+  },
+  {
+   "start": 202.023,
+   "end": 205.543,
+   "show": "つぎは、召喚・着替えのギミック「Aether Step」。",
+   "part": 9
+  },
+  {
+   "start": 205.793,
+   "end": 215.746,
+   "show": "システムのウィンドウが次々に開いて、衣装や武器を呼び出す。11日22時まで500円引きの700円。",
+   "part": 9
+  },
+  {
+   "start": 216.546,
+   "end": 220.078,
+   "show": "最後は、けさ公開のギミック「StopPlay」。",
+   "part": 10
+  },
+  {
+   "start": 220.328,
+   "end": 233.38,
+   "show": "自分の動きを最大10秒録画して、もう一人の自分としてループ再生。4つまで同時に。",
+   "part": 10
+  },
+  {
+   "start": 233.63,
+   "end": 237.754,
+   "show": "PC版VRChat専用で、500円。",
+   "part": 10
+  },
+  {
+   "start": 238.554,
+   "end": 243.712,
+   "show": "今日は、VRChatで開幕した「バーチャルダイスパーティー」から始まりました。",
+   "part": 11
+  },
+  {
+   "start": 243.962,
+   "end": 249.038,
+   "show": "6日に紹介した新作アバター「レピ」は、あした9日18時に発売。",
+   "part": 11
+  },
+  {
+   "start": 249.288,
+   "end": 252.669,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 11.895
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.895,
+   "end": 35.703
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 35.703,
+   "end": 62.042
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 62.042,
+   "end": 87.534
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 87.534,
+   "end": 113.745
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 113.745,
+   "end": 138.877
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 138.877,
+   "end": 164.159
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 164.159,
+   "end": 185.204
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 185.204,
+   "end": 202.023
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 202.023,
+   "end": 216.546
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 216.546,
+   "end": 238.554
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 238.554,
+   "end": 253.469
+  }
+ ],
+ "made_at": "2026-11-08T10:04:02"
+}
