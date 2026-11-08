@@ -162,7 +162,25 @@
     "description": "株式会社Gugenkaのプレスリリース（2026年11月2日 12時00分）『初音ミク 夜空プログラム』VRChatにて無料バーチャルライブが開催決定　12月5日（土）より歴代楽曲とモデルで魅せる「PLAYBACK LIVE」がスタート　限定アイテムも販売",
     "image": "https://prcdn.freetls.fastly.net/release_image/74603/391/74603-391-b65414d50cda1888da31c9cb7e2af308-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "icon": "https://prtimes.jp/common/v4.1/images/html/favicon/apple-touch-icon.png"
-   }
+   },
+   "youtube": [
+    "PjY4bSd7AoI",
+    "atR3EcjzG54"
+   ],
+   "videos": [
+    {
+     "youtube": "PjY4bSd7AoI",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/PjY4bSd7AoI/hqdefault.jpg",
+     "name": "【Gugenka主催】「初音ミク 夜空プログラム 2025」特別メモリアルムービー"
+    },
+    {
+     "youtube": "atR3EcjzG54",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/atR3EcjzG54/hqdefault.jpg",
+     "name": "【Gugenka主催】「初音ミク 夜空プログラム 2024」特別メモリアルムービー"
+    }
+   ]
   },
   {
    "label": "VRの「PAYDAY」が発売",
@@ -198,7 +216,25 @@
     "description": "With Payday: Aces High, Fast Travel Games has combined the most thrilling parts of the best heist films with the most hectic parts of the Payday series to make a truly invigorating VR Payday.",
     "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/11/payday-aces-high-screen.png",
     "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
-   }
+   },
+   "steam": 3456660,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3456660/505831552/3069c6965a4254bbcb0da581660ca56afc97c301/1793289020/hls_264_master.m3u8?t=1793890706",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257484447/fca357926be62a7903379548d475595184066142/movie_600x337.jpg?t=1793890706",
+     "name": "Launch Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3456660/591727257/b042452074b9bcbe476d74efeb342254ec9ea7c1/1791463832/hls_264_master.m3u8?t=1792677237",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257452321/9ea5f4ef8ac3b606d2e4477a6af837aab8203a0e/movie_600x337.jpg?t=1792677237",
+     "name": "Release Date Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3456660/1241780416/182ef571e4315fcec8865ecd1a20dca2090a730f/1772094239/hls_264_master.m3u8?t=1792677238",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294734/22c98fd31123a52a017686fd3afaa2a8780d75e9/movie_600x337.jpg?t=1792677238",
+     "name": "Announcement trailer"
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -235,7 +271,18 @@
     "description": "枯れたひまわりがモチーフの青年「季夏」のオリジナル3Dアバターです。痩せています。 VRChatでの使用を想定して製作いたしましたが、配信用アバターなどにもご利用いただけます。 試着はこちら→ https://vrchat.com/home/avatar/avtr_5e1eba3a-1aca-40ed-a439-608b03e8bd59 試着ワールドもあります（製作過程なども展示しています）→ https://vrchat.com/home/world/wrld_f02122ad-61fb-4ac5-9862-b4ece45d9c08/info",
     "image": "https://booth.pximg.net/c/620x620/5f5b6070-aa79-46df-a8db-e6191629ac02/i/9079131/72d91b6e-1672-4946-b9f6-17043c522af1_base_resized.jpg",
     "icon": "https://dappi.booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "youtube": [
+    "XxJqV5FPN1Y"
+   ],
+   "videos": [
+    {
+     "youtube": "XxJqV5FPN1Y",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/XxJqV5FPN1Y/hqdefault.jpg",
+     "name": "【オリジナル3Dアバター】季夏　マッチ・線香花火ギミック紹介"
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -301,7 +348,15 @@
     "description": "🦋甘くてふわふわ、ときめきが舞うゆるかわストリート オリジナル3D衣装『Sweet Flutter』 🎉初リリース記念！3日間限定 無料配布キャンペーン ショップ初リリースを記念して、公開から3日間限定（11月6日（金）～11月8日（日）23:59まで）で無料（0円）でダウンロードいただけます！ （※期間終了後は 600円 での通常販売に切り替わります） ぜひこの機会にお迎えして、たくさん着ていただけると嬉しいです！",
     "image": "https://booth.pximg.net/c/620x620/6cad57d8-13ab-4a9e-9301-14fe8fe658e5/i/9104420/6e02f877-b284-42b6-9fb9-056b18733887_base_resized.jpg",
     "icon": "https://um16tami.booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "videos": [
+    {
+     "youtube": "EuOb6SjaH-E",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/EuOb6SjaH-E/hqdefault.jpg",
+     "name": "きらきらパーティクルエフェクト✨"
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -370,7 +425,15 @@
     "description": "･･━━･･━━･･　更新履歴　･･━━･･━━･･ 2026/11/06 v1.0.0公開！ ･･━━･･━━･･━━････━━･･━━･･━━･･ ミュートするとカニを食べます。それだけ。 突然のミュートも許されるようになります。だってカニ食ってるんだもん。 おまけで右手でカニを持てるようにしました。 口元のカニを思いっきり引き抜いてください。(手はFist) せっかくなんで身の部分は気持ち大きくしています。 あー美味いカニ食べたい ◌⑅⃝……………………………………………………………………………………………….⑅⃝◌ 金曜雑貨は毎週金曜日にアイテムを追加する雑貨店です！ ハッシュタグ",
     "image": "https://booth.pximg.net/c/620x620/dd88a2d5-b38e-43b2-983b-7795f7149538/i/9105947/9110b7f6-799b-4279-8e7f-eaac76ee0bfd_base_resized.jpg",
     "icon": "https://kinyouzakka.booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "videos": [
+    {
+     "youtube": "YfxMH4-6epQ",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/YfxMH4-6epQ/hqdefault.jpg",
+     "name": "pv"
+    }
+   ]
   }
  ],
  "highlight": 0,

@@ -192,7 +192,25 @@
     "description": "11月2日、GoogleとXREALはAndroid XRを搭載した有線XRグラス、XREAL AURAを発表しました。日本では同日から予約受付が始まっています。年末までは発売記念価格として199,900円（税込）から購 […]",
     "image": "https://assets.moguravr.com/uploads/2026/11/5417317011d9984920d6e5e42802f62b-kix.9on1718whaas.webp",
     "icon": "https://www.moguravr.com/app/themes/moguravr4/img/icon-512-live.png"
-   }
+   },
+   "youtube": [
+    "_L8WqWwisI4",
+    "x-Hu3zL-IxY"
+   ],
+   "videos": [
+    {
+     "youtube": "_L8WqWwisI4",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/_L8WqWwisI4/hqdefault.jpg",
+     "name": "XREAL AURA - もうすぐ、変わる。"
+    },
+    {
+     "youtube": "x-Hu3zL-IxY",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/x-Hu3zL-IxY/hqdefault.jpg",
+     "name": "Your favorite apps. A whole new dimension.\nWith XREAL AURA, powered by Android XR."
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -233,7 +251,15 @@
     "description": "【期間限定無料配布中！】 2026年11月6日（金）23:59まで、無料でダウンロードできます。 期間終了後は ¥800 に戻ります。 ※期間中に購入手続きを済ませた方は、価格変更後もそのまま再ダウンロードできます。 ──────────────────── 以下、商品の詳細です。 ────────────────────",
     "image": "https://booth.pximg.net/c/620x620/0c03f0ba-bbeb-4733-807b-69c87cce7874/i/9098299/79330286-3b20-47fc-8b3e-d23922331efc_base_resized.jpg",
     "icon": "https://booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "videos": [
+    {
+     "youtube": "mTOA3CfHcP4",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/mTOA3CfHcP4/hqdefault.jpg",
+     "name": "11月4日 2"
+    }
+   ]
   },
   {
    "corner": "shop",
@@ -383,7 +409,21 @@
     "description": "メニューを押すと、その場でスッと土下座。 土下座しきった瞬間に本体は透明になり、その場には土下座した自分の「分身」だけが残ります。 透明な間に、こっそり逃げられるポン置きギミックです。 （「残像だ」ごっこ・謝罪ネタ・かくれんぼに） 土下座は 5 種類から選べます。 土下座／ジャンピング土下座／トルネードジャンピング土下座／スライディング土下座／3回転バク転土下座 Prefab をアバターに入れてアップロードするだけ。設定はいりません。 土下座の形は、アップロードのときにアバターの体型に合わせて自動で作ります。 ━━━━━━━━━━━━━━━━━━━━ ■ できること",
     "image": "https://booth.pximg.net/c/620x620/2a388062-805d-40c5-9654-379818776e8f/i/9093898/57a59732-28f1-4459-9b69-aab523ff6d73_base_resized.jpg",
     "icon": "https://booth.pm/static-images/pwa/icon_size_180.png"
-   }
+   },
+   "videos": [
+    {
+     "youtube": "nXFmM6a3DRM",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/nXFmM6a3DRM/hqdefault.jpg",
+     "name": "【VRChat】分身ギミック（身代わり土下座）紹介動画"
+    },
+    {
+     "youtube": "I1o9AeKsEmg",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/I1o9AeKsEmg/hqdefault.jpg",
+     "name": "【VRChat】分身ギミック 5種の土下座"
+    }
+   ]
   }
  ],
  "highlight": 0,
