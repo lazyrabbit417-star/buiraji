@@ -15,9 +15,10 @@
 
 1. **台本を書く**：`episodes/<日付>-ja.json`。ニュースごとに見出し・要点・話す文・出典。形は [docs/formats.md](docs/formats.md)
 2. **リンクカード**：`python tools/linkcard.py <記事のURL> ...` で、記事の共有用画像（OGP）とタイトルを集める
-3. **声を吹き込む**：COEIROINK を起動して `python tools/voice.py episodes/<日付>-ja.json`。`audio/` に mp3 ができ、字幕のタイミングと `episodes.json` も更新される
-4. **手元で見る**：`python tools/serve.py` を動かして <http://127.0.0.1:8765/> を開く（Python 標準の `http.server` だと音声の途中へ移れず、見出しを押しても最初から再生されるので、こちらを使う）
-5. **放送する**：`main` にコミットして push し、`bash tools/publish-win.sh` を実行（Windows の Git Bash で。中で `tools/publish.sh` を動かす）
+3. **動画**：`python tools/videos.py episodes/<日付>-ja.json`。話題に `"steam": <アプリID>` があれば Steam の公式の動画、`"youtube": [<動画のIDかURL>]` があればその YouTube の動画、BOOTH の商品ならショップが商品ページに載せている YouTube の動画を、その話題のあいだ左の枠に流す（音なし）
+4. **声を吹き込む**：COEIROINK を起動して `python tools/voice.py episodes/<日付>-ja.json`。`audio/` に mp3 ができ、字幕のタイミングと `episodes.json` も更新される
+5. **手元で見る**：`python tools/serve.py` を動かして <http://127.0.0.1:8765/> を開く（Python 標準の `http.server` だと音声の途中へ移れず、見出しを押しても最初から再生されるので、こちらを使う）
+6. **放送する**：`main` にコミットして push し、`bash tools/publish-win.sh` を実行（Windows の Git Bash で。中で `tools/publish.sh` を動かす）
 
 音声は `main` にはコミットしません。`tools/publish.sh` が、直近 30 日分の音声だけを `gh-pages` ブランチに載せます。
 
@@ -29,3 +30,4 @@
 - 台本（`episodes/`、`episodes.json`）：CC0
 - 天気：Open-Meteo（CC BY 4.0）
 - ニュースの画像は、記事のサイトが共有用に公開している画像（OGP）を、そのサイトから直接表示しています
+- 動画は、Steam のストアが配信している公式の動画を Steam から直接、YouTube の動画を YouTube のプレーヤー（youtube-nocookie.com）で再生しています（保存はしていません）。一部のブラウザでは Steam の動画の再生に [hls.js](https://github.com/video-dev/hls.js)（Apache License 2.0）を使います
