@@ -40,7 +40,9 @@ def get_json(url):
 def steam_videos(appid):
     d = get_json(f"https://store.steampowered.com/api/appdetails?appids={appid}&cc=jp&l=japanese").get(str(appid), {})
     ms = [m for m in ((d.get("data") or {}).get("movies") or []) if m.get("hls_h264")] if d.get("success") else []
-    ms = sorted(ms, key=lambda m: not m.get("highlight"))[:MAX]
+    # Japanese ones first (by their names), then the ones the store puts forward (highlight)
+    jp = lambda m: bool(re.search(r"japanese|日本語|\bJP\b|_JP|JP_|[ぁ-んァ-ヶ]", m.get("name") or "", re.I))
+    ms = sorted(ms, key=lambda m: (not jp(m), not m.get("highlight")))[:MAX]
     return [{"hls": m["hls_h264"], "poster": m.get("thumbnail"), "name": m.get("name")} for m in ms]
 
 
