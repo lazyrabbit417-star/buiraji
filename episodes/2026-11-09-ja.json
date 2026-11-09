@@ -1,0 +1,743 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-09",
+ "lang": "ja",
+ "title": "初心者案内の「こもれび」、AIと話すVRも",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月九日、月曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月9日月曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "初心者案内ワールド「こもれび」",
+   "points": [
+    "VRChatを始めた人が、最初に行く場所",
+    "案内役のリナシータちゃんがチュートリアル",
+    "公開から3日で、訪問は1万9千以上"
+   ],
+   "url": "https://livestreamers.co.jp/vrchat/news/komorebi-beginner-guide-world",
+   "lines": [
+    {
+     "say": "まずは、ブイアールチャットを始めたばかりの人に向けた、新しいワールドの話題です。",
+     "show": "まずは、VRChatを始めたばかりの人に向けた新しいワールド。"
+    },
+    {
+     "say": "初心者案内ワールド、こもれびは、案内役のリナシータちゃんが出迎えて、チュートリアルを案内してくれる場所。六日に公開されました。",
+     "show": "初心者案内ワールド「こもれび」は、案内役のリナシータちゃんがチュートリアルを案内。6日に公開。"
+    },
+    {
+     "say": "公開から三日で、訪れた人は一万九千を超えています。友だちになったばかりの人に、最初の行き先として教えやすいワールドですね。",
+     "show": "公開から3日で訪問は1万9千超え。始めたばかりのフレンドに教えやすい行き先。"
+    }
+   ],
+   "details": [
+    "作者はリーシャさん。ワールド名は「初心者案内ワールド『こもれび』~With Rinasciita~」で、説明文は「初心者さんが初めに訪れる場所」から始まります（ソーシャルVRニュース＆ガイド）。",
+    "説明文には、リナシータちゃんがお出迎えしてチュートリアルを案内すると書かれています。チュートリアルの中身は、ワールドの紹介には書かれていません。",
+    "定員は32人で、だれでも検索から入れる公開ワールドです。11月9日の時点で、公開から3日の訪問数は19,386でした。"
+   ],
+   "link": {
+    "url": "https://livestreamers.co.jp/vrchat/news/komorebi-beginner-guide-world",
+    "title": "VRChat初心者案内ワールド「こもれび」｜案内役と定員32人・公開日",
+    "site": "ソーシャルVRニュース＆ガイド",
+    "description": "リナシータちゃんがチュートリアルを案内する、初めての人向けのワールドです。定員32人。公開から3日の訪問は19,386（11月9日観測）です。",
+    "image": "https://livestreamers.co.jp/vrchat/news/komorebi-beginner-guide-world-hero.webp",
+    "icon": "https://livestreamers.co.jp/apple-touch-icon.png"
+   }
+  },
+  {
+   "label": "頭を傾けて走るVR「Hyperlane Highway」",
+   "points": [
+    "11月10日にSteamで発売のVRローグライク",
+    "ホバーボードで超空間のハイウェイを駆ける",
+    "移動は頭を傾けるだけ、体験版あり"
+   ],
+   "url": "https://store.steampowered.com/app/4514880/",
+   "lines": [
+    {
+     "say": "つぎは、あした発売のブイアールゲームです。",
+     "show": "つぎは、あした発売のVRゲーム。"
+    },
+    {
+     "say": "ハイパーレーン ハイウェイは、ホバーボードに乗って、ネオンの超空間ハイウェイを駆け抜ける、ブイアールのローグライク。両手の銃で、ならず者のロボットを撃ちまくります。",
+     "show": "『Hyperlane Highway』は、ホバーボードでネオンの超空間ハイウェイを駆けるVRローグライク。両手の銃でロボットを撃つ。"
+    },
+    {
+     "say": "移動は、頭や体を傾けるだけ。しゃがめば加速します。スチームでは、もう体験版が遊べますよ。",
+     "show": "移動は頭や体を傾けるだけ、しゃがむと加速。Steamに体験版あり。"
+    }
+   ],
+   "details": [
+    "開発はRyality Studio。Steam（VR専用）で11月10日に発売予定で、ストアの説明は日本語です。",
+    "体を左右に傾けると横に、前後に傾けると上下に動き、しゃがむとスロットルが上がります。コントローラーのジェスチャーやスティックでの操作にも切り替えられます。",
+    "30種類以上のスポンサーMODから、レベルアップのたびにカードを選んで強化。死んでは新しいカードを解放して、また走るローグライクです。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/4514880/",
+    "title": "Steam：Hyperlane Highway",
+    "site": "store.steampowered.com",
+    "description": "VRローグライクと無限アーケードシューターが融合した、まったく新しい操作感覚と移動体験。 頭を傾けて光速のネオン超空間ハイウェイをサーフィン。エネルギー武器を両手に持ち、ならず者ロボットを撃破し、クレイジーなアップグレードコンボを探求しよう。死んで、新しいスポンサーカードを解放し、また走れ。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4514880/5a71a3705b9e20ef49b735265bfa857d62a47fdc/capsule_616x353.jpg?t=1794148557",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 4514880,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4514880/217112809/c70d1516b565e508f57f81326cc671805e909d21/1792034396/hls_264_master.m3u8?t=1792637993",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257462066/0770a2ec46cb29c4a7e2d837424723d45e793f09/movie_600x337.jpg?t=1792637993",
+     "name": "HLH_TrailerPreNextFest"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4514880/529218444/9af8e4f15226771a8f68c5f04dc0559f4bc47068/1781288134/hls_264_master.m3u8?t=1781294055",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257357440/3d90f440141dc4fe1ec6155cf038776c9508ef1d/movie_600x337.jpg?t=1781294055",
+     "name": "Hyperlane Highway Mixed Reality Capture New - UVR"
+    }
+   ]
+  },
+  {
+   "label": "AIの町人を口説く「Fabula Rasa」",
+   "points": [
+    "Questで12月3日に発売",
+    "檻の囚人になり、9人の町人に助けを頼む",
+    "町人はAI（大規模言語モデル）でその場で答える"
+   ],
+   "url": "https://www.uploadvr.com/fabula-rasa-is-an-interactive-improv-driven-experience-coming-to-quest-in-november/",
+   "lines": [
+    {
+     "say": "つぎは、会話で遊ぶ、ブイアールの作品です。",
+     "show": "つぎは、会話で遊ぶVR作品。"
+    },
+    {
+     "say": "ファブラ ラサでは、中世の町の真ん中で、檻に入れられた囚人になります。下は怪物の穴。助かるには、九人の町人を口で説得するしかありません。",
+     "show": "『Fabula Rasa』は、中世の町で檻に入れられた囚人に。下は怪物の穴。9人の町人を説得して助かる。"
+    },
+    {
+     "say": "町人は、エーアイがその場で返事をするので、遊ぶたびに話が変わります。クエストで、十二月三日に発売です。",
+     "show": "町人はAIがその場で返事。遊ぶたびに展開が変わる。Questで12月3日発売。"
+    }
+   ],
+   "details": [
+    "開発は『Pixel Ripped』シリーズのArvore。UploadVRによると、11月12日の予定だった発売は12月3日に変わりました。",
+    "町人のセリフは、あらかじめ書いた分岐ではなく、大規模言語モデル（LLM）がその場で作ります。開発では、即興劇のコメディアンにも相談したそうです。",
+    "自分の罪の中身も、選択によって変わります。衣装を変えると、町人の反応も変わります。SXSWでXR体験の観客賞を受けた作品です。"
+   ],
+   "link": {
+    "url": "https://www.uploadvr.com/fabula-rasa-is-an-interactive-improv-driven-experience-coming-to-quest-in-november/",
+    "title": "UPDATED: Fabula Rasa Is An Improv-Driven Experience Coming To Quest In December",
+    "site": "UploadVR",
+    "description": "Fabula Rasa, an award-winning interactive VR experience from the makers of the Pixel Ripped games, comes to Quest on December 3.",
+    "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/10/fabula-rasa-header.png",
+    "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
+   },
+   "youtube": [
+    "0gRww2VjHWU"
+   ],
+   "videos": [
+    {
+     "youtube": "0gRww2VjHWU",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/0gRww2VjHWU/hqdefault.jpg",
+     "name": "Fabula Rasa | Official Trailer"
+    }
+   ]
+  },
+  {
+   "label": "縄文土器の世界をVRに、バルセロナで展示",
+   "points": [
+    "VRアーティストのせきぐちあいみさんの新作",
+    "縄文土器・土偶6点を3Dスキャン",
+    "国際展「IMMENSIVA 2026」で公開中"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000000004.000121095.html",
+   "lines": [
+    {
+     "say": "つぎは、ブイアールアートの話題です。",
+     "show": "つぎは、VRアートの話題。"
+    },
+    {
+     "say": "ブイアールアーティストの、せきぐちあいみさんが、約五千年前の縄文土器をモチーフにした作品を、スペインのバルセロナの国際展で公開しています。",
+     "show": "VRアーティストのせきぐちあいみさんが、約5,000年前の縄文土器をモチーフにした作品をバルセロナの国際展で公開。"
+    },
+    {
+     "say": "山梨の博物館にある、土器や土偶、六点を3Dスキャンして、その文様の世界に、自分が入っていく、約五分の体験です。",
+     "show": "山梨の土器・土偶6点を3Dスキャン。文様から広がる世界に入っていく、約5分の体験。"
+    }
+   ],
+   "details": [
+    "作品は「ANCIENT FUTURE UNDERWATER」。3Dエンジニアの伊藤佑真さんと作り、バルセロナの国際没入型アート展「IMMENSIVA 2026」に出展しています（PR TIMES）。",
+    "山梨県内の3館が持つ縄文土器・土偶6点（国指定重要文化財3点を含む）を、現地で3Dスキャンして取り入れました。",
+    "会場はEspronceda Institute of Art & Culture。会期は11月4日〜13日で、一般公開は11月9日まで。作品の紹介動画は、日本語・英語・スペイン語でYouTubeに出ています。"
+   ],
+   "link": {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000121095.html",
+    "title": "約5,000年前の縄文土器の文様が、空間に広がる——VRアーティスト・せきぐちあいみ、バルセロナ国際展「IMMENSIVA 2026」に出展",
+    "site": "PR TIMES",
+    "description": "株式会社MUSOUのプレスリリース（2026年11月8日 11時00分）約5,000年前の縄文土器の文様が、空間に広がる——VRアーティスト・せきぐちあいみ、バルセロナ国際展「IMMENSIVA 2026」に出展",
+    "image": "https://prcdn.freetls.fastly.net/release_image/121095/4/121095-4-3639b5375d8c6bcc4e8e4241d570a2a9-1206x678.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "icon": "https://prtimes.jp/common/v4.1/images/html/favicon/apple-touch-icon.png"
+   },
+   "youtube": [
+    "VGMfBlAas_A"
+   ],
+   "videos": [
+    {
+     "youtube": "VGMfBlAas_A",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/VGMfBlAas_A/hqdefault.jpg",
+     "name": "（日本語）ANCIENT FUTURE UNDERWATER — せきぐちあいみ & Yuma Ito｜IMMENSIVA EXPO 2026（バルセロナ）"
+    }
+   ]
+  },
+  {
+   "label": "Pimax、先に買っても差額を返金",
+   "points": [
+    "ブラックフライデーの早期キャンペーン",
+    "11月1日以降に買って、本番でもっと安くなれば差額を返金",
+    "対象は日本向け公式ストアのヘッドセット"
+   ],
+   "url": "https://prtimes.jp/main/html/rd/p/000000004.000191510.html",
+   "lines": [
+    {
+     "say": "ニュースの最後は、ブイアールヘッドセットのセールの話題です。",
+     "show": "ニュースの最後は、VRヘッドセットのセール。"
+    },
+    {
+     "say": "高画質なパソコン向けヘッドセットのパイマックスが、ブラックフライデーに向けた早期キャンペーンを始めました。",
+     "show": "PC向けの高画質ヘッドセットのPimaxが、ブラックフライデーの早期キャンペーンを開始。"
+    },
+    {
+     "say": "十一月一日からあとに買った人は、本番のセールでもっと安くなったら、その差額を全額返してもらえます。セールを待たずに買えるのがポイントです。",
+     "show": "11月1日以降に買って、本番のセールでさらに安くなれば差額を全額返金。待たずに買える。"
+    }
+   ],
+   "details": [
+    "Pimaxが「Pimax公式価格保証サービス」を始めました。対象は、Pimax公式サイト（日本向けストア）の対象ヘッドセット本体と公式バンドルです（PR TIMES）。",
+    "11月1日以降に買った対象製品が、ブラックフライデー本番の期間中に公式ストアでより安く売られた場合、カスタマーサポートに連絡すると差額が全額返金されます。",
+    "対象は、Crystalシリーズや Dream Airシリーズなど。本番のセールの日程と値引き額は、まだ発表されていません。"
+   ],
+   "link": {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000191510.html",
+    "title": "Pimax、年間最大の「ブラックフライデー2026」早期キャンペーンを始動！11月1日以降の購入を対象とした「公式価格保証サービス」を正式適用",
+    "site": "PR TIMES",
+    "description": "小派科技（杭州）有限公司のプレスリリース（2026年11月8日 12時00分）Pimax、年間最大の「ブラックフライデー2026」早期キャンペーンを始動！11月1日以降の購入を対象とした「公式価格保証サービス」を正式適用",
+    "image": "https://prcdn.freetls.fastly.net/release_image/191510/4/191510-4-5c3ef2a76911616a6eeecd4f3570f849-2048x2048.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "icon": "https://prtimes.jp/common/v4.1/images/html/favicon/apple-touch-icon.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "声を出すほど消える「儚さ」",
+   "points": [
+    "大きな声を出すほど、存在感が薄くなる",
+    "消え方は3種類、感度はメニューで調整",
+    "500円、PC版向け"
+   ],
+   "url": "https://booth.pm/ja/items/9115190",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、ちょっと詩的なギミック、儚さ、外付け。",
+     "show": "ここからは新作・セールのコーナー。まずはギミック「儚さ(外付け)」。"
+    },
+    {
+     "say": "声を大きく出すほど、アバターの存在感が薄くなって、消えていきます。消え方は三種類。メニューで感度も変えられます。",
+     "show": "声を大きく出すほど、アバターが薄くなって消えていく。消え方は3種類、感度も調整できる。"
+    },
+    {
+     "say": "公開から一日で、スキは二百八十を超えました。値段は五百円です。",
+     "show": "公開1日でスキは280超え。500円。"
+    }
+   ],
+   "details": [
+    "ショップはsonaveil。PC版VRChat向けで、Prefabをアバターの直下に置くだけで使えます。",
+    "感度はVRChat内のメニューで調整でき、自分の画面にだけゲージを出すこともできます。ふだん使いには「完全に消える」をオフにするのがおすすめ、とのこと。",
+    "商品ページには、制作にAIを使ったと書かれています。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9115190",
+    "title": "儚さ(外付け)【VRChat】 - sonaveil - BOOTH",
+    "site": "booth.pm",
+    "description": "はかな‐さ【儚さ】〔名〕 ① 長くはとどまらず、いつのまにか消えてしまうこと。また、そのように感じられるさま。「朝露の―」 ② 確かに在るのに、触れようとすると遠のいてしまうような頼りなさ。 声を大きく出すほど存在感が薄くなります。消え方は3種類あります。 PC版VRChat向けです。 Prefabをアバター直下にドラック＆ドロップで使えます。 VRC内でメニューから感度調整ができます。 自分の画面だけにゲージも表示できるのでうまく調整して使うといいと思います。 普段使いする際は完全に消えるをOFFにしておくと使いやすいかもしれないです。 制作にAIを使用しています。",
+    "image": "https://booth.pximg.net/c/620x620/9de5a0ac-72d3-477d-895c-8caf7bf335f2/i/9115190/dd67efa1-c739-4a04-8285-f77eabc8f6b0_base_resized.jpg",
+    "icon": "https://sonaveil.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "13OlwxqZczQ",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/13OlwxqZczQ/hqdefault.jpg",
+     "name": "儚さ(外付け)【VRChat】"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "格闘エフェクト5技、300円",
+   "points": [
+    "パンチ、高速ラッシュ、チャージビームなど5つ",
+    "15日まで500円→300円",
+    "紹介ムービーあり"
+   ],
+   "url": "https://booth.pm/ja/items/9114491",
+   "lines": [
+    {
+     "say": "つぎは、格闘ゲームのような技を出せる、エフェクトのセット。",
+     "show": "つぎは、格闘ゲームのような技のエフェクトセット。"
+    },
+    {
+     "say": "パンチ、高速ラッシュ、チャージビーム、チャージ玉、それに精神集中のオーラの、五つの技が入っています。写真や動画の撮影にも映えますよ。",
+     "show": "パンチ、高速ラッシュ、チャージビーム、チャージ玉、精神集中のオーラの5技。撮影にも。"
+    },
+    {
+     "say": "十五日まではセール中で、五百円が三百円です。",
+     "show": "15日までセールで500円→300円。"
+    }
+   ],
+   "details": [
+    "ショップは「まめちも屋」。炎のように流れるエネルギー、光をためるチャージ、発射の閃光、命中の衝撃まで入っています。",
+    "VRChatのアバター向けで、Modular Avatarに対応しています。ハンドサインで技を出すためのガイド動画もあります。",
+    "セールは11月15日まで。BOOTHのスキは1日で140を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9114491",
+    "title": "✨SALE✨格闘エフェクトセット５技【VRChat／MA対応】 - まめちも屋 - BOOTH",
+    "site": "booth.pm",
+    "description": "11月15日までSALE中✨500円→300円 パンチ・高速ラッシュ・チャージビーム・チャージ玉・精神集中のオーラをまとめた、VRChatアバター向けエフェクトセットです。 炎のように流れるエネルギー、光を溜めるチャージ、発射の閃光、命中時の衝撃まで。格闘シーンや必殺技のポーズ、写真・動画撮影を楽しめます。",
+    "image": "https://booth.pximg.net/c/620x620/19435062-5a77-4a02-aa3a-6ee7b47b4275/i/9114491/a09b55fe-ddc8-496e-8093-572c438566be_base_resized.jpg",
+    "icon": "https://mametimo.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "Q4wIEov2JFA",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/Q4wIEov2JFA/hqdefault.jpg",
+     "name": "格闘エフェクト 紹介ムービー"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "レトロカジュアル「Coral Denim」",
+   "points": [
+    "パフスリーブのジャケットと赤いリボン",
+    "しなの、ルルネ、ソルトなど8体",
+    "15日まで1,500円→1,000円"
+   ],
+   "url": "https://booth.pm/ja/items/9116710",
+   "lines": [
+    {
+     "say": "つぎは、衣装。コーラルデニム カジュアルアウトフィットです。",
+     "show": "つぎは衣装「Coral_Denim_Casual_outfit」。"
+    },
+    {
+     "say": "パフスリーブのジャケットに、赤いリボンのブラウス、デニムのキュロットと赤いチェーンバッグを合わせた、レトロでかわいいコーデです。",
+     "show": "パフスリーブのジャケットに赤いリボンのブラウス、デニムのキュロットと赤いチェーンバッグ。"
+    },
+    {
+     "say": "しなの、ルルネ、ソルトなど八体に対応。十五日までは、千五百円が千円です。",
+     "show": "しなの、ルルネ、ソルトなど8体対応。15日まで1,500円→1,000円。"
+    }
+   ],
+   "details": [
+    "ショップは「エモートパレット」。新作の発売記念で、11月15日まで1,500円が1,000円です。",
+    "対応は、しなの、輝夜、ショコラ、マヌカ、ルルネ、真冬、ミルフィ、ソルトの8体。フルセットもあります。",
+    "Modular Avatarに対応し、PhysBone、lilToonのマテリアル、衣装用のシェイプキーも設定済みです。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9116710",
+    "title": "Coral_Denim_Casual_outfit【8アバター対応】 - エモートパレット - BOOTH",
+    "site": "booth.pm",
+    "description": "🎀 新作発売記念・1週間限定セール！ ✨ 通常価格 1,500円 → 特別価格 1,000円！ 📅 セール期間：2026年11月8日（日）～11月15日（日） 新作発売を記念して、1週間限定の特別価格で販売いたします！ 期間終了後は通常価格の1,500円に戻ります。 ──────────────────────── ■ 商品紹介",
+    "image": "https://booth.pximg.net/c/620x620/abf0581a-dcf8-42f6-8386-994fc3dc6d16/i/9116710/750e69e5-a427-452f-ad5e-50fcf24d965f_base_resized.jpg",
+    "icon": "https://asunaro0000.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "QwiNwKOhxjo",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/QwiNwKOhxjo/hqdefault.jpg",
+     "name": "Coral_Denim_Casual_outfit"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "背後に巨大な手「Particle_TitanHand」",
+   "points": [
+    "背後に、巨大な手のパーティクル",
+    "自分の手や腕の動きに合わせて動く",
+    "4色、300円"
+   ],
+   "url": "https://booth.pm/ja/items/9074267",
+   "lines": [
+    {
+     "say": "つぎは、背中から巨大な手を出せる、パーティクルのギミックです。",
+     "show": "つぎは、背後に巨大な手を出すパーティクルのギミック。"
+    },
+    {
+     "say": "巨大な手は、自分の手や腕の動きに合わせて動きます。位置を止めたり、近づけたときに衝撃波を出したりもできます。色は四種類で、三百円です。",
+     "show": "巨大な手は自分の手の動きに連動。位置の固定や衝撃波も。4色で300円。"
+    }
+   ],
+   "details": [
+    "ショップは「くろねの工房」。黄色・紫・緑・白の4色。PC版VRChat向けで、Modular Avatarに対応しています。",
+    "メニューで、腕を消す、腕を少し伸ばす、手を近づけたときに衝撃波を出す、腕の動きを止める、を切り替えられます。",
+    "一部のワールドでは、エフェクトに攻撃の判定が付くことがあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9074267",
+    "title": "巨大で従順な眷属の腕「Particle_TitanHand」 - くろねの工房 - BOOTH",
+    "site": "booth.pm",
+    "description": "背後に巨大な手のパーティクルを発生させるギミックです。 手はアバターの手や腕の動きと連動します また、MenuからStopをOnにすることで手の位置を固定することができます。 SystemからギミックのOnOffなどができます。 カラーバリエーションは4種類あります (黄色、紫色、緑色、白色) PCVR,WhiteDefaultOff想定です。 ◆◆内容物◆◆ unitypackage readme.txt ◆◆ギミック詳細◆◆ Particle_TitanHand メニューからSystemでON/OFFを切り替えられます。 SystemをONにすると、両手が生成されます ArmHide＿＿",
+    "image": "https://booth.pximg.net/c/620x620/72189c22-b7ab-40ab-94cb-3fe945f7bcb3/i/9074267/613586f9-b5bf-41aa-bfff-bd788a64c7ed_base_resized.jpg",
+    "icon": "https://atelierkrone.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "ffie7Hnjnno",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/ffie7Hnjnno/hqdefault.jpg",
+     "name": "Particle_TitanHand紹介動画"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "14体対応「KICKSY」が半額",
+   "points": [
+    "Y2Kのガーリーなストリート衣装",
+    "電動キックボードのプロップ付き",
+    "11日まで半額、15日まで30%オフ"
+   ],
+   "url": "https://booth.pm/ja/items/9110349",
+   "lines": [
+    {
+     "say": "最後は、いま人気の衣装、キクシイ。",
+     "show": "最後は、人気の衣装「KICKSY」。"
+    },
+    {
+     "say": "ワイツーケーの、ガーリーなストリートファッションで、撮影用の電動キックボードも付いています。ミルフィやルルネ、セレスティアなど、十四体に対応。",
+     "show": "Y2Kのガーリーなストリート衣装。撮影用の電動キックボード付き。ミルフィ、ルルネ、セレスティアなど14体対応。"
+    },
+    {
+     "say": "十一日までは半額で、ひとつ七百五十円。そのあと十五日までは、三割引きです。",
+     "show": "11日まで半額で1体750円。15日までは30%オフ。"
+    }
+   ],
+   "details": [
+    "ショップはUXMO。公開から1日で、BOOTHのスキは380を超えました。",
+    "対応は、ミルフィ、しお、愛莉、しなの、ミルティナ、リンネ、しゅあん、ルミナ、セレスティア、まよ、ショコラ、マヌカ、海咲、ルルネ。色は20色から選べます。",
+    "11月11日まで50%オフ（フルセット3,200円→1,600円、1体1,500円→750円）、12日〜15日は30%オフ。キックボードに走るアニメーションはなく、撮影・ポーズ用です。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9110349",
+    "title": "[13 AVATARS] KICKSY | Y2K GIRLY STREET COLLECTION_VRC / colors pick 20🎨 - UXMO - BOOTH",
+    "site": "booth.pm",
+    "description": "🏷️OPEN SALE 11.08 ~ 11.11🏷️ 50% OFF 📦 フルセット 3200 ---> 1600円 📦 単品 1500 ---> 750円 🏷️OPEN SALE 11.12 ~ 11.15🏷️ 30% OFF 📦 フルセット 3200 ---> 2,240円 📦 単品 1500 ---> 1,050円 ------------------------------------------------------------------- # ⚠️ ご購入前に必ずお読みください # IMPORTANT NOTICE – PLEASE READ BEFORE",
+    "image": "https://booth.pximg.net/c/620x620/00df7e83-6522-4b21-b8b3-6757d36869c3/i/9110349/f17459a8-0dbe-4261-b785-b0380e0610e3_base_resized.jpg",
+    "icon": "https://ssunii.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、初心者案内ワールド、こもれびの話題から始まりました。",
+   "show": "今日は、初心者案内ワールド「こもれび」から始まりました。"
+  },
+  {
+   "say": "キクシイの半額は、十一日まで。気になる人は、お早めに。",
+   "show": "「KICKSY」の半額は11日まで。お早めに。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 233.55,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.781,
+   "show": "ぶいらじです。11月9日月曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 6.031,
+   "end": 11.258,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 12.058,
+   "end": 17.366,
+   "show": "まずは、VRChatを始めたばかりの人に向けた新しいワールド。",
+   "part": 1
+  },
+  {
+   "start": 17.616,
+   "end": 26.535,
+   "show": "初心者案内ワールド「こもれび」は、案内役のリナシータちゃんがチュートリアルを案内。6日に公開。",
+   "part": 1
+  },
+  {
+   "start": 26.785,
+   "end": 35.913,
+   "show": "公開から3日で訪問は1万9千超え。始めたばかりのフレンドに教えやすい行き先。",
+   "part": 1
+  },
+  {
+   "start": 36.713,
+   "end": 39.375,
+   "show": "つぎは、あした発売のVRゲーム。",
+   "part": 2
+  },
+  {
+   "start": 39.625,
+   "end": 50.343,
+   "show": "『Hyperlane Highway』は、ホバーボードでネオンの超空間ハイウェイを駆けるVRローグライク。両手の銃でロボットを撃つ。",
+   "part": 2
+  },
+  {
+   "start": 50.593,
+   "end": 57.771,
+   "show": "移動は頭や体を傾けるだけ、しゃがむと加速。Steamに体験版あり。",
+   "part": 2
+  },
+  {
+   "start": 58.571,
+   "end": 61.871,
+   "show": "つぎは、会話で遊ぶVR作品。",
+   "part": 3
+  },
+  {
+   "start": 62.121,
+   "end": 73.014,
+   "show": "『Fabula Rasa』は、中世の町で檻に入れられた囚人に。下は怪物の穴。9人の町人を説得して助かる。",
+   "part": 3
+  },
+  {
+   "start": 73.264,
+   "end": 81.149,
+   "show": "町人はAIがその場で返事。遊ぶたびに展開が変わる。Questで12月3日発売。",
+   "part": 3
+  },
+  {
+   "start": 81.949,
+   "end": 84.239,
+   "show": "つぎは、VRアートの話題。",
+   "part": 4
+  },
+  {
+   "start": 84.489,
+   "end": 93.989,
+   "show": "VRアーティストのせきぐちあいみさんが、約5,000年前の縄文土器をモチーフにした作品をバルセロナの国際展で公開。",
+   "part": 4
+  },
+  {
+   "start": 94.239,
+   "end": 103.448,
+   "show": "山梨の土器・土偶6点を3Dスキャン。文様から広がる世界に入っていく、約5分の体験。",
+   "part": 4
+  },
+  {
+   "start": 104.248,
+   "end": 107.873,
+   "show": "ニュースの最後は、VRヘッドセットのセール。",
+   "part": 5
+  },
+  {
+   "start": 108.123,
+   "end": 114.581,
+   "show": "PC向けの高画質ヘッドセットのPimaxが、ブラックフライデーの早期キャンペーンを開始。",
+   "part": 5
+  },
+  {
+   "start": 114.831,
+   "end": 124.447,
+   "show": "11月1日以降に買って、本番のセールでさらに安くなれば差額を全額返金。待たずに買える。",
+   "part": 5
+  },
+  {
+   "start": 125.247,
+   "end": 131.774,
+   "show": "ここからは新作・セールのコーナー。まずはギミック「儚さ(外付け)」。",
+   "part": 6
+  },
+  {
+   "start": 132.024,
+   "end": 140.061,
+   "show": "声を大きく出すほど、アバターが薄くなって消えていく。消え方は3種類、感度も調整できる。",
+   "part": 6
+  },
+  {
+   "start": 140.311,
+   "end": 145.41,
+   "show": "公開1日でスキは280超え。500円。",
+   "part": 6
+  },
+  {
+   "start": 146.21,
+   "end": 150.299,
+   "show": "つぎは、格闘ゲームのような技のエフェクトセット。",
+   "part": 7
+  },
+  {
+   "start": 150.549,
+   "end": 160.606,
+   "show": "パンチ、高速ラッシュ、チャージビーム、チャージ玉、精神集中のオーラの5技。撮影にも。",
+   "part": 7
+  },
+  {
+   "start": 160.856,
+   "end": 164.504,
+   "show": "15日までセールで500円→300円。",
+   "part": 7
+  },
+  {
+   "start": 165.304,
+   "end": 169.301,
+   "show": "つぎは衣装「Coral_Denim_Casual_outfit」。",
+   "part": 8
+  },
+  {
+   "start": 169.551,
+   "end": 177.332,
+   "show": "パフスリーブのジャケットに赤いリボンのブラウス、デニムのキュロットと赤いチェーンバッグ。",
+   "part": 8
+  },
+  {
+   "start": 177.582,
+   "end": 183.738,
+   "show": "しなの、ルルネ、ソルトなど8体対応。15日まで1,500円→1,000円。",
+   "part": 8
+  },
+  {
+   "start": 184.538,
+   "end": 188.488,
+   "show": "つぎは、背後に巨大な手を出すパーティクルのギミック。",
+   "part": 9
+  },
+  {
+   "start": 188.738,
+   "end": 199.004,
+   "show": "巨大な手は自分の手の動きに連動。位置の固定や衝撃波も。4色で300円。",
+   "part": 9
+  },
+  {
+   "start": 199.804,
+   "end": 202.616,
+   "show": "最後は、人気の衣装「KICKSY」。",
+   "part": 10
+  },
+  {
+   "start": 202.866,
+   "end": 212.517,
+   "show": "Y2Kのガーリーなストリート衣装。撮影用の電動キックボード付き。ミルフィ、ルルネ、セレスティアなど14体対応。",
+   "part": 10
+  },
+  {
+   "start": 212.767,
+   "end": 219.027,
+   "show": "11日まで半額で1体750円。15日までは30%オフ。",
+   "part": 10
+  },
+  {
+   "start": 219.827,
+   "end": 224.195,
+   "show": "今日は、初心者案内ワールド「こもれび」から始まりました。",
+   "part": 11
+  },
+  {
+   "start": 224.445,
+   "end": 229.115,
+   "show": "「KICKSY」の半額は11日まで。お早めに。",
+   "part": 11
+  },
+  {
+   "start": 229.365,
+   "end": 232.746,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.058
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.058,
+   "end": 36.713
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 36.713,
+   "end": 58.571
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 58.571,
+   "end": 81.949
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 81.949,
+   "end": 104.248
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 104.248,
+   "end": 125.247
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 125.247,
+   "end": 146.21
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 146.21,
+   "end": 165.304
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 165.304,
+   "end": 184.538
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 184.538,
+   "end": 199.804
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 199.804,
+   "end": 219.827
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 219.827,
+   "end": 233.546
+  }
+ ],
+ "made_at": "2026-11-09T10:20:32"
+}
