@@ -1,0 +1,735 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-19",
+ "lang": "ja",
+ "title": "アバターギミックで撃ち合うワールド、黒い翼で変身するギミック",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月十九日、木曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月19日木曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "アバターギミックで撃ち合うFPSワールド、土曜公開",
+   "points": [
+    "自分のアバターのギミックで撃ち合うPvPワールド",
+    "スモークやスタングレネードも使える",
+    "21日（土）に公開予定"
+   ],
+   "url": "https://x.com/meruhen_vrc/status/2122887776442208741",
+   "lines": [
+    {
+     "say": "まずは、今週末に公開される、新しいゲームワールドです。",
+     "show": "まずは、今週末公開の新しいゲームワールド。"
+    },
+    {
+     "say": "メルヘンギャングさんの、アバター ギミック シューティングは、アバターに付けた、銃のギミックで撃ち合う、対戦がたのエフピーエスワールド。スモークや、スタングレネードも使えます。",
+     "show": "メルヘンギャングさんの「【PvP】Avater Gimick Shooting」は、アバターに付けた銃ギミックで撃ち合う対戦FPS。スモークやスタングレネードも。"
+    },
+    {
+     "say": "アバターの改変しだいで、戦い方が変わるそうです。公開は、二十一日の土曜日の予定です。",
+     "show": "改変しだいで戦い方が変わる。公開は21日（土）の予定。"
+    }
+   ],
+   "details": [
+    "メルヘンギャング（@meruhen_vrc）さんが11月18日に、戦闘の映像を公開しました。ポストは19日午後の時点で570以上のいいねを集めています。",
+    "ワールド名は「【PvP】Avater Gimick Shooting」。ポストでは「改変によって戦い方が変わるぞっ」と紹介されています。公開は土曜の予定です。",
+    "ポストには、撃ち合いの映像が付いています。"
+   ],
+   "link": {
+    "url": "https://x.com/meruhen_vrc/status/2122887776442208741",
+    "title": "Xユーザーのメルヘンギャング（@meruhen_vrc）さん",
+    "site": "X",
+    "description": "【新作FPSゲームワールド】 \n\n アバターギミックで撃ち合えるゲムワです。\n  戦闘映像をチラ見せ②\n\nスモーク、スタングレネードも使用できます！⚡\n改変によって戦い方が変わるぞっ\n\n -土曜公開予定- \n【PvP】Avater Gimick Shooting\n#VRChat #VRChat_world紹介",
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2122887516420440064/img/8tPbmjBXk1LS0kjk?format=webp&name=large",
+    "icon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+    "found_by": "search"
+   }
+  },
+  {
+   "label": "札を集めて映画の予告編を作るワールド",
+   "points": [
+    "集めた札で映画の予告編を作り、スクリーンで上映",
+    "「観たい」「芸術」「おもしろい」で投票",
+    "3〜6人向け、1人でも試せる"
+   ],
+   "url": "https://vrchat.com/home/world/wrld_2c770a2f-4790-48f4-8ad4-d6b990077139/info",
+   "lines": [
+    {
+     "say": "つぎは、みんなで遊べる、言葉遊びのワールドです。",
+     "show": "つぎは、みんなで遊べる言葉遊びのワールド。"
+    },
+    {
+     "say": "映画の予告編を作って遊ぶワールドでは、集めたふだを組み合わせて、架空の映画の予告編を作り、大きなスクリーンで上映します。ふだごとに、声やビージーエムも選べます。",
+     "show": "「映画の予告編を作って遊ぶワールド」では、集めた札で架空の映画の予告編を作り、大きなスクリーンで上映。札ごとに声やBGMも選べる。"
+    },
+    {
+     "say": "上映が終わったら、観たい、芸術、おもしろい、の三つで投票して、いちばん観たくなった予告を選びます。三人から六人向けで、一人でも試せます。",
+     "show": "上映後は「観たい・芸術・おもしろい」で投票。3〜6人向けで、1人でも試せる。"
+    }
+   ],
+   "details": [
+    "作者はkazumachiさん。ワールドの説明によると、札ごとに声とBGMを5種類から選べ、「観たい・芸術・おもしろい」の3つの観点で、それぞれ3点ずつ投票します。",
+    "マッコンクエスト（@MackonQuest）さんの紹介ポストは、19日午後の時点で370以上のいいねを集めています。ポストには遊んでいる映像が付いています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_2c770a2f-4790-48f4-8ad4-d6b990077139/info",
+    "title": "映画の予告編を作って遊ぶワールド by kazumachi",
+    "site": "VRChat",
+    "description": "札を集めて映画の予告を作り、大きなスクリーンで上映して選び合う言葉遊びワールド。札ごとに声、BGMを5種類から。観たい・芸術・おもしろいで3点ずつ投票。3〜6人向け（1人でも試せます）",
+    "image": "https://api.vrchat.cloud/api/1/file/file_d6466b65-f4a6-44a4-89cf-d61007be2324/2/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/MackonQuest/status/2122978133997494567",
+    "site": "X",
+    "title": "マッコンクエスト（@MackonQuest）：映画の予告編を作って遊ぶワールド"
+   }
+  },
+  {
+   "label": "隠された通路を探すリミナルスペース「Decoupled」",
+   "points": [
+    "どこまでも続く、現実から切り離された空間",
+    "隠された通路を探して探索",
+    "見つかる行き先は全部で5つ"
+   ],
+   "url": "https://vrchat.com/home/world/wrld_3b2f5b5d-361c-4115-bbfc-ea065397e280/info",
+   "lines": [
+    {
+     "say": "三本目は、探索型のワールドです。",
+     "show": "3本目は、探索型のワールド。"
+    },
+    {
+     "say": "ディカップルドは、現実から切り離されたような、どこまでも続く空間、いわゆるリミナルスペースを歩きながら、隠された通路を探すワールドです。",
+     "show": "「Decoupled」は、現実から切り離されたような、どこまでも続く空間（リミナルスペース）で、隠された通路を探すワールド。"
+    },
+    {
+     "say": "見つけられる、別の空間への行き先は、全部で五つあるそうです。",
+     "show": "見つけられる別の空間への行き先は、全部で5つ。"
+    }
+   ],
+   "details": [
+    "作者はLavryouさん。容量は183MBです。",
+    "Морковка（@VRMOPKOBKA）さんの紹介ポストは、19日午後の時点で560以上のいいねを集めています。ポストには、探索している映像が付いています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_3b2f5b5d-361c-4115-bbfc-ea065397e280/info",
+    "title": "Decoupled by Lavryou",
+    "site": "VRChat",
+    "description": "A vast endless space where everything decouples from reality․ It is the thing about running away‚ from home˸ you carry every space with you and every space keeps taking you somewhere farther․ A big quiet liminal world of landscapes decontextualized and the soft unease of spaces that should not connect․ Yet do․",
+    "image": "https://api.vrchat.cloud/api/1/file/file_51c35611-9929-419c-b80b-ca27e4616ff7/2/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/VRMOPKOBKA/status/2122871131770122292",
+    "site": "X",
+    "title": "Морковка（@VRMOPKOBKA）：Decoupled ｜ Lavryou"
+   }
+  },
+  {
+   "label": "アイスランドの静かな入り江「Kyrravik」",
+   "points": [
+    "アイスランド南海岸の入り江を再現",
+    "遠くの緑の丘と、霧のかかった景色",
+    "Questにも対応"
+   ],
+   "url": "https://x.com/VRC_VHub/status/2122963024248266919",
+   "lines": [
+    {
+     "say": "四本目は、景色を楽しむワールドです。",
+     "show": "4本目は、景色を楽しむワールド。"
+    },
+    {
+     "say": "キラヴィークは、アイスランドの南の海岸にある、静かな入り江を再現したワールド。遠くに見える緑の丘や、霧のかかった雰囲気が、本物のアイスランドに近いそうです。",
+     "show": "「Kyrravik」は、アイスランド南海岸の静かな入り江を再現したワールド。遠くの緑の丘や霧のかかった雰囲気が、本物に近い。"
+    },
+    {
+     "say": "クエストにも対応しています。",
+     "show": "Questにも対応。"
+    }
+   ],
+   "details": [
+    "作者は~Laxy~さん。VHub 公式（@VRC_VHub）さんが11月18日に紹介しました。",
+    "紹介ポストには、入り江を歩く映像が付いています。"
+   ],
+   "link": {
+    "url": "https://x.com/VRC_VHub/status/2122963024248266919",
+    "title": "XユーザーのVHub 公式（@VRC_VHub）さん",
+    "site": "X",
+    "description": "World:Kyrravik(QUEST対応)\nBy:~Laxy~\n\nアイスランド南海岸の「静かな入り江」を再現したワールド\n遠くに見える緑の丘や霧のかかった雰囲気も相まって、現実のアイスランドに近い雰囲気となっています\n#VRChat #VRChat_world紹介",
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2122960562594426880/img/h73225f2uTzQveo-?format=webp&name=large",
+    "icon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+    "found_by": "search"
+   }
+  },
+  {
+   "label": "Steam Frame、PC VRで5番目に多いヘッドセットに",
+   "points": [
+    "10月のSteamハードウェア調査で5.49%",
+    "1〜3位はQuest 3、Quest 2、Quest 3S",
+    "4位はValve Index"
+   ],
+   "url": "https://www.uploadvr.com/steam-frame-is-5th-most-used-pc-vr-headset-after-first-full-month-on-the-market/",
+   "lines": [
+    {
+     "say": "最後は、ブイアールヘッドセットの話題です。",
+     "show": "最後は、VRヘッドセットの話題。"
+    },
+    {
+     "say": "十月の、スチームのハードウェア調査で、バルブの新しいヘッドセット、スチーム フレームが、ピーシー ブイアールで使われている、五番目に多いヘッドセットになりました。割合は、五・四九パーセントです。",
+     "show": "10月のSteamハードウェア調査で、Valveの「Steam Frame」がPC VRで5番目に多いヘッドセットに。割合は5.49%。"
+    },
+    {
+     "say": "一位から三位は、クエスト スリー、クエスト ツー、クエスト スリー エス。四位は、ひとつ前のバルブのヘッドセット、インデックスでした。",
+     "show": "1〜3位はQuest 3、Quest 2、Quest 3S。4位は、Valveの前のヘッドセット「Index」。"
+    }
+   ],
+   "details": [
+    "UploadVRが11月18日に伝えました。Steam Frameは9月18日に予約制で購入受付が始まり、多くの人の手元に届いたのは10月だったため、10月が初めての「まるひと月」の数字になるとのことです。",
+    "記事によると、上位のヘッドセットの中では、Quest 2の割合が一番大きく下がりました。"
+   ],
+   "link": {
+    "url": "https://www.uploadvr.com/steam-frame-is-5th-most-used-pc-vr-headset-after-first-full-month-on-the-market/",
+    "title": "Steam Frame Is 5th Most Used PC VR Headset After First Full Month On The Market",
+    "site": "UploadVR",
+    "description": "Steam Frame climbed the charts to the 5th most used headset for PC VR in its first full month on the market.",
+    "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/11/Steam-Frame-1--1-.png",
+    "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "黒い翼に包まれて衣装チェンジ、無料の変身ギミック",
+   "points": [
+    "背中から黒い翼が広がり、体を包んで衣装が替わる",
+    "足元から黒い煙のドクロが立ちのぼる",
+    "無料（PC専用）、4色の完全版は700円"
+   ],
+   "url": "https://booth.pm/ja/items/9173168",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールの情報です。まずは、無料の変身ギミック。",
+     "show": "ここからは新作・セール情報。まずは無料の変身ギミック。"
+    },
+    {
+     "say": "レイキュアさんの、黒い翼で変身ギミックは、メニューを押すと、背中から黒い大きな翼が広がって、体をすっぽり包みます。翼の中で衣装が替わり、翼を広げると、新しい衣装で立っています。",
+     "show": "レイキュアさんの「黒い翼で変身ギミック」は、背中から黒い翼が広がって体を包み、中で衣装が替わる。翼を広げると新しい衣装に。"
+    },
+    {
+     "say": "足元の黒い霧からは、煙のドクロが立ちのぼります。無料で、ピーシー専用。翼が四色になった完全版は、七百円です。",
+     "show": "足元の黒い霧から煙のドクロも。無料（PC専用）。翼4色の完全版は700円。"
+    }
+   ],
+   "details": [
+    "Modular Avatar対応で、Prefabを置くだけで使えます。もう一度押すと、また翼に包まれて元の衣装に戻ります。",
+    "完全版「黒い翼で変身ギミック 完全版」は700円。翼は4色で、色ごとに変身の演出が変わります。変身しない時は、翼を背負ったまま過ごせます。",
+    "紹介ポストはXで540以上のいいね、BOOTHのスキは320以上を集めています。BOOTHのページに動画があります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9173168",
+    "title": "【無料/Free】黒い翼で変身ギミック｜Dark Wings Transform【VRChat / Modular Avatar・PC専用】翼で包んで衣装チェンジ - レイキュア - BOOTH",
+    "site": "booth.pm",
+    "description": "メニューを押すと、背中から黒い大きな翼が広がり、前に閉じて体をすっぽり包みます。 黒い羽の繭の中で衣装が替わり、足元の黒い霧から煙のドクロが立ちのぼる。翼をばさりと広げると──新しい衣装で立っています。もう一度押せば、また翼に包まれて元の衣装へ。 VRChat アバター用の無料の変身ギミック（Modular Avatar・Prefab を置くだけ・PC専用）。 ▼ 何が起きるか ・背中から黒い翼が立ち上がり、高く掲げてから体を前から包む（翼が出てから約 2.5 秒で黒い繭に） ・繭の中で衣装が替わる。足元に黒い煙と霧が溜まり、霧から煙のドクロが立ちのぼる ・約 5",
+    "image": "https://booth.pximg.net/c/620x620/59347c4f-b3ca-4968-b2f7-0e0645d83e35/i/9173168/f566d2c9-5d1f-4cce-812a-5cee62110314_base_resized.jpg",
+    "icon": "https://reikyua.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/qinn_vrc/status/2123018998342410617",
+    "site": "X",
+    "title": "qinn（@qinn_vrc）：【無料/Free】黒い翼で変身ギミック"
+   },
+   "videos": [
+    {
+     "youtube": "_ZI46WZ4jRU",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/_ZI46WZ4jRU/hqdefault.jpg",
+     "name": "【無料】黒い翼で変身ギミック｜Dark Wings Transform【VRChat / Modular Avatar】"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "頭を外して手に持てる「首取れギミック」",
+   "points": [
+    "自分の頭を外して手に持ち、好きな場所に置ける",
+    "首の切り口はフリルか光の輪で隠れる",
+    "PC・Quest対応、700円（無料お試し版あり）"
+   ],
+   "url": "https://booth.pm/ja/items/9173422",
+   "lines": [
+    {
+     "say": "つぎは、ちょっと変わったギミックです。",
+     "show": "つぎは、ちょっと変わったギミック。"
+    },
+    {
+     "say": "グラムシフトさんの、ヘッド ポップ オフは、自分の頭を首から外して、手に持ったり、好きな場所に置いたりできる、くびとれギミック。首の切り口は、フリルか、光の輪で隠れます。",
+     "show": "GRAMSHIFTさんの「HeadPopOff」は、自分の頭を外して手に持ったり、好きな場所に置いたりできる首取れギミック。切り口はフリルか光の輪で隠れる。"
+    },
+    {
+     "say": "ピーシーとクエストの両方に対応して、七百円。買う前に試せる、無料のお試し版もあります。",
+     "show": "PC・Quest対応で700円。無料お試し版あり。"
+    }
+   ],
+   "details": [
+    "Expression Menuの「持つ」「置く」から操作します。NDMFの非破壊ツールで、アップロードの時だけ追加されます。",
+    "ハロウィンやホラーの集まり、デュラハンのロールプレイ、撮影などに向けた商品です。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9173422",
+    "title": "頭を外して手に持てる首取れギミック HeadPopOff【無料お試し版あり】 - GRAMSHIFT - BOOTH",
+    "site": "booth.pm",
+    "description": "自分の頭を首から外して手に持ち、好きな場所に置いて、また首に戻せる VRChat アバター用の首取れギミックです（PC・Quest 対応・NDMF・非破壊）。 アバターに付けてアップロードすると、Expression Menu の「持つ」「置く」から操作でき、首の切り口はフリルか光の輪で隠れます。 ハロウィンやホラーの集まり、デュラハンのロールプレイ、撮影で、外した頭を手に持ったり、机に置いて離れたりできます。 無料お試し版で、買う前に自分のアバターでの見え方を確かめられます。製品版を入れて、いつもどおりアップロードして使います。 English / 简体中文 /",
+    "image": "https://booth.pximg.net/c/620x620/b53fca0a-0f29-404b-9f2c-b5215dd9eaf0/i/9173422/a7f3ae5c-6e36-44d3-9cce-0d15fd7ef764_base_resized.jpg",
+    "icon": "https://gramshift.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "歩くと手紙が舞うヤギの郵便屋さん衣装、20日発売",
+   "points": [
+    "歩くとバッグから手紙がひらひら落ちる",
+    "長ズボン・ショートパンツ・ミニスカートの3パターン",
+    "20日18時発売、12月4日まで発売記念セール"
+   ],
+   "url": "https://booth.pm/ja/items/9139480",
+   "lines": [
+    {
+     "say": "つぎは、ギミック付きの衣装です。",
+     "show": "つぎは、ギミック付きの衣装。"
+    },
+    {
+     "say": "えねちあうりばさんの、ゴート ポストは、ヤギの郵便屋さんの衣装。歩くと、バッグから、お届けものの手紙が、ひらひらと落ちます。耳としっぽも、ぴょこぴょこ動きます。",
+     "show": "えねちあうりばさんの「Goat Post」は、ヤギの郵便屋さん衣装。歩くとバッグから手紙がひらひら落ちる。耳としっぽも動く。"
+    },
+    {
+     "say": "発売は、あした二十日の、午後六時。十二月四日まで、セット三千円、単品千五百円の、発売記念セールです。",
+     "show": "発売は20日（金）18時。12月4日まで、フルセット3,000円・単品1,500円の発売記念セール。"
+    }
+   ],
+   "details": [
+    "男女19アバターに対応。長ズボン・ショートパンツ・ミニスカートの3パターンで着られます。",
+    "バッグ・帽子・耳・しっぽ・食べられる手紙の5点は、別のPrefabになっていて、対応していないアバターでも使えます。",
+    "通常価格はフルセット3,800円、単品2,000円です。BOOTHのスキは480以上を集めています。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9139480",
+    "title": "〖✨男女19対応✨〗📮Goat Post🐐〖MA対応ギミック付き❣3D衣装〗 - えねちあうりば - BOOTH",
+    "site": "booth.pm",
+    "description": "👜発売記念セール🎉 11/20(金)18;00～12/04(金) の二週間のセールを開催❣ FULL PACK 3800▷▷▷3000 SINGLE PACK 2000▷▷▷1500 🐐やぎのポストマン衣装📮 長ズボン・ショートパンツ・ミニスカートの3パターンで着れちゃいます！ メンズではミニスカートとズボンの重ね着も✨ ✨ギミック付き衣装✨ 歩くと、バッグからお届けもののお手紙がひらひら落ちるギミック付き✉ 耳としっぽにもぴょこぴょこ動くAnimation付きです！ バッグ・帽子・耳・しっぽ・食べれる手紙",
+    "image": "https://booth.pximg.net/c/620x620/63c44835-4a20-4fcc-946b-d6d9253ecbf9/i/9139480/aeb229ba-85f2-46d9-9838-297769026ba0_base_resized.jpg",
+    "icon": "https://enechia.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "ワールドに置ける4コマのフォトブース",
+   "points": [
+    "背景とフレームを選んで、カウントダウンで撮影",
+    "6枚から4枚を選ぶと、プリントが出てくる",
+    "プリントは手に取って飾れる、1,800円"
+   ],
+   "url": "https://booth.pm/ja/items/9171314",
+   "lines": [
+    {
+     "say": "つぎは、ワールド作りの方に向けたアイテムです。",
+     "show": "つぎは、ワールド作りの方に向けたアイテム。"
+    },
+    {
+     "say": "ミーミャウさんの、フォトブースは、ワールドに置いて遊べる、四コマのフォトブース。一枚ごとに背景とフレームを選んで、カウントダウンに合わせてポーズ。六枚撮ったら、お気に入りの四枚を選びます。",
+     "show": "Mi♥Meowさんの「Photo Booth」は、ワールドに置ける4コマのフォトブース。1枚ごとに背景とフレームを選び、カウントダウンでポーズ。6枚から4枚を選ぶ。"
+    },
+    {
+     "say": "取り出しぐちから出てきたプリントは、手に取って、ワールドの好きな場所に飾れます。価格は千八百円です。",
+     "show": "出てきたプリントは手に取って、好きな場所に飾れる。1,800円。"
+    }
+   ],
+   "details": [
+    "背景とフレームは6種類ずつ。操作画面は日本語・韓国語・英語から選べます。",
+    "動作確認はWindows PCで行われていて、Quest・Android単体での動作は未確認とのことです。BOOTHのページに動画があります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9171314",
+    "title": "[VRC] 📸 Mi♥Meow Photo Booth｜ワールド用4コマフォトブース - Mi♥Meow - BOOTH",
+    "site": "booth.pm",
+    "description": "【日本語】 Mi♥Meow Photo Booth は、VRChatのワールドに置いて遊べる4コマフォトブースです。📸 1枚撮るごとに背景とフレームを選んで、カウントダウンに合わせてポーズ！ 6枚撮ったら、お気に入りの4枚を選びましょう。選んだ順に写真が並んだプリントが取り出し口から出てきます。プリントは手に取って、ワールド内の好きな場所に飾れます。 ■ ブースの機能 ・背景6種類とフレーム6種類を、カットごとに組み合わせられます。 ・操作画面は日本語・한국어・Englishの3言語から選べます。 ・プリントは最大10枚。11枚目からは古い順に入れ替わり、新しいプリントが取り出し口に戻ります。",
+    "image": "https://booth.pximg.net/c/620x620/4726d311-1cf4-4d4f-8b21-29b54d27d230/i/9171314/86caabff-79b4-4ef9-8ec3-9a25f6103040_base_resized.jpg",
+    "icon": "https://mimeow.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "R9zKZ6owABk",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/R9zKZ6owABk/hqdefault.jpg",
+     "name": "MiMeow PhotoBooth JP"
+    },
+    {
+     "youtube": "3CV7BHGc0SQ",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/3CV7BHGc0SQ/hqdefault.jpg",
+     "name": "MiMeow PhotoBooth KR"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "シンプルな日常コーデ「21℃」、発売記念セール中",
+   "points": [
+    "シャツ2種・トップス・パンツ・ネックレス・シューズのセット",
+    "12アバターに対応",
+    "セール中、単品980円・フルセット2,100円"
+   ],
+   "url": "https://booth.pm/ja/items/9167462",
+   "lines": [
+    {
+     "say": "最後は、新作の衣装です。",
+     "show": "最後は、新作の衣装。"
+    },
+    {
+     "say": "じんがいがくえんこうばいぶさんの、にじゅういちどは、シンプルで、カジュアルな、日常のコーディネート。シャツ二種類と、トップス、パンツ、ネックレス、シューズのセットで、十二のアバターに対応しています。",
+     "show": "人外学園購買部さんの「21℃」は、シンプル×カジュアルな日常コーデ。シャツ2種・トップス・パンツ・ネックレス・シューズのセットで、12アバター対応。"
+    },
+    {
+     "say": "いまは発売記念セール中で、単品が九百八十円、フルセットが二千百円です。",
+     "show": "発売記念セール中で、単品980円、フルセット2,100円。"
+    }
+   ],
+   "details": [
+    "11月18日に発売されました。発売の告知ポストは、Xで1,000以上のいいねを集めています。",
+    "セールの終了日は、BOOTHのページには書かれていません。BOOTHのページに動画があります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9167462",
+    "title": "✧セール中✧[12アバター対応] - 21℃ - [VRC想定衣装] - 人外学園購買部 - BOOTH",
+    "site": "booth.pm",
+    "description": "『 飾らない、その温度が好き。』 ── Simple × Casual × Cool ── 12アバター対応　リアクロコーデ【21℃】 [シャツ2種 / トップス / パンツ / ネックレス / シューズ ]セット 日常に溶け込む、自分らしい着こなしを。 #人外学園購買部",
+    "image": "https://booth.pximg.net/c/620x620/d788a9ce-acec-4dc0-9304-c02242edc59c/i/9167462/fa2eec96-2e91-4ec7-a2d3-f53d78dcc35e_base_resized.jpg",
+    "icon": "https://jingaikobai.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "XbwXfgv3gAM",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/XbwXfgv3gAM/hqdefault.jpg",
+     "name": "21C　PV"
+    },
+    {
+     "youtube": "muXL0PW1GMY",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/muXL0PW1GMY/hqdefault.jpg",
+     "name": "21℃"
+    }
+   ]
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、アバターのギミックで撃ち合う、エフピーエスワールドから始まりました。公開は、二十一日の土曜日の予定です。",
+   "show": "今日は、アバターギミックで撃ち合うFPSワールドから始まりました。公開は21日（土）の予定。"
+  },
+  {
+   "say": "ゴート ポストは、あした二十日の午後六時に発売です。",
+   "show": "「Goat Post」は、20日（金）18時発売。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 265.01,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.908,
+   "show": "ぶいらじです。11月19日木曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 6.158,
+   "end": 11.386,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 12.186,
+   "end": 16.321,
+   "show": "まずは、今週末公開の新しいゲームワールド。",
+   "part": 1
+  },
+  {
+   "start": 16.571,
+   "end": 28.219,
+   "show": "メルヘンギャングさんの「【PvP】Avater Gimick Shooting」は、アバターに付けた銃ギミックで撃ち合う対戦FPS。スモークやスタングレネードも。",
+   "part": 1
+  },
+  {
+   "start": 28.469,
+   "end": 35.124,
+   "show": "改変しだいで戦い方が変わる。公開は21日（土）の予定。",
+   "part": 1
+  },
+  {
+   "start": 35.924,
+   "end": 39.386,
+   "show": "つぎは、みんなで遊べる言葉遊びのワールド。",
+   "part": 2
+  },
+  {
+   "start": 39.636,
+   "end": 51.144,
+   "show": "「映画の予告編を作って遊ぶワールド」では、集めた札で架空の映画の予告編を作り、大きなスクリーンで上映。札ごとに声やBGMも選べる。",
+   "part": 2
+  },
+  {
+   "start": 51.394,
+   "end": 62.148,
+   "show": "上映後は「観たい・芸術・おもしろい」で投票。3〜6人向けで、1人でも試せる。",
+   "part": 2
+  },
+  {
+   "start": 62.948,
+   "end": 65.493,
+   "show": "3本目は、探索型のワールド。",
+   "part": 3
+  },
+  {
+   "start": 65.743,
+   "end": 75.127,
+   "show": "「Decoupled」は、現実から切り離されたような、どこまでも続く空間（リミナルスペース）で、隠された通路を探すワールド。",
+   "part": 3
+  },
+  {
+   "start": 75.377,
+   "end": 79.861,
+   "show": "見つけられる別の空間への行き先は、全部で5つ。",
+   "part": 3
+  },
+  {
+   "start": 80.661,
+   "end": 83.45,
+   "show": "4本目は、景色を楽しむワールド。",
+   "part": 4
+  },
+  {
+   "start": 83.7,
+   "end": 94.79,
+   "show": "「Kyrravik」は、アイスランド南海岸の静かな入り江を再現したワールド。遠くの緑の丘や霧のかかった雰囲気が、本物に近い。",
+   "part": 4
+  },
+  {
+   "start": 95.04,
+   "end": 96.807,
+   "show": "Questにも対応。",
+   "part": 4
+  },
+  {
+   "start": 97.607,
+   "end": 100.222,
+   "show": "最後は、VRヘッドセットの話題。",
+   "part": 5
+  },
+  {
+   "start": 100.472,
+   "end": 114.047,
+   "show": "10月のSteamハードウェア調査で、Valveの「Steam Frame」がPC VRで5番目に多いヘッドセットに。割合は5.49%。",
+   "part": 5
+  },
+  {
+   "start": 114.297,
+   "end": 124.284,
+   "show": "1〜3位はQuest 3、Quest 2、Quest 3S。4位は、Valveの前のヘッドセット「Index」。",
+   "part": 5
+  },
+  {
+   "start": 125.084,
+   "end": 130.323,
+   "show": "ここからは新作・セール情報。まずは無料の変身ギミック。",
+   "part": 6
+  },
+  {
+   "start": 130.573,
+   "end": 144.484,
+   "show": "レイキュアさんの「黒い翼で変身ギミック」は、背中から黒い翼が広がって体を包み、中で衣装が替わる。翼を広げると新しい衣装に。",
+   "part": 6
+  },
+  {
+   "start": 144.734,
+   "end": 153.943,
+   "show": "足元の黒い霧から煙のドクロも。無料（PC専用）。翼4色の完全版は700円。",
+   "part": 6
+  },
+  {
+   "start": 154.743,
+   "end": 156.964,
+   "show": "つぎは、ちょっと変わったギミック。",
+   "part": 7
+  },
+  {
+   "start": 157.214,
+   "end": 170.44,
+   "show": "GRAMSHIFTさんの「HeadPopOff」は、自分の頭を外して手に持ったり、好きな場所に置いたりできる首取れギミック。切り口はフリルか光の輪で隠れる。",
+   "part": 7
+  },
+  {
+   "start": 170.69,
+   "end": 177.554,
+   "show": "PC・Quest対応で700円。無料お試し版あり。",
+   "part": 7
+  },
+  {
+   "start": 178.354,
+   "end": 180.551,
+   "show": "つぎは、ギミック付きの衣装。",
+   "part": 8
+  },
+  {
+   "start": 180.801,
+   "end": 192.576,
+   "show": "えねちあうりばさんの「Goat Post」は、ヤギの郵便屋さん衣装。歩くとバッグから手紙がひらひら落ちる。耳としっぽも動く。",
+   "part": 8
+  },
+  {
+   "start": 192.826,
+   "end": 201.478,
+   "show": "発売は20日（金）18時。12月4日まで、フルセット3,000円・単品1,500円の発売記念セール。",
+   "part": 8
+  },
+  {
+   "start": 202.278,
+   "end": 205.381,
+   "show": "つぎは、ワールド作りの方に向けたアイテム。",
+   "part": 9
+  },
+  {
+   "start": 205.631,
+   "end": 218.358,
+   "show": "Mi♥Meowさんの「Photo Booth」は、ワールドに置ける4コマのフォトブース。1枚ごとに背景とフレームを選び、カウントダウンでポーズ。6枚から4枚を選ぶ。",
+   "part": 9
+  },
+  {
+   "start": 218.608,
+   "end": 225.53,
+   "show": "出てきたプリントは手に取って、好きな場所に飾れる。1,800円。",
+   "part": 9
+  },
+  {
+   "start": 226.33,
+   "end": 228.434,
+   "show": "最後は、新作の衣装。",
+   "part": 10
+  },
+  {
+   "start": 228.684,
+   "end": 242.003,
+   "show": "人外学園購買部さんの「21℃」は、シンプル×カジュアルな日常コーデ。シャツ2種・トップス・パンツ・ネックレス・シューズのセットで、12アバター対応。",
+   "part": 10
+  },
+  {
+   "start": 242.253,
+   "end": 248.061,
+   "show": "発売記念セール中で、単品980円、フルセット2,100円。",
+   "part": 10
+  },
+  {
+   "start": 248.861,
+   "end": 256.689,
+   "show": "今日は、アバターギミックで撃ち合うFPSワールドから始まりました。公開は21日（土）の予定。",
+   "part": 11
+  },
+  {
+   "start": 256.939,
+   "end": 260.575,
+   "show": "「Goat Post」は、20日（金）18時発売。",
+   "part": 11
+  },
+  {
+   "start": 260.825,
+   "end": 264.206,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.186
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.186,
+   "end": 35.924
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 35.924,
+   "end": 62.948
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 62.948,
+   "end": 80.661
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 80.661,
+   "end": 97.607
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 97.607,
+   "end": 125.084
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 125.084,
+   "end": 154.743
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 154.743,
+   "end": 178.354
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 178.354,
+   "end": 202.278
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 202.278,
+   "end": 226.33
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 226.33,
+   "end": 248.861
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 248.861,
+   "end": 265.006
+  }
+ ],
+ "made_at": "2026-11-19T15:40:36"
+}
