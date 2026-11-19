@@ -1,0 +1,690 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-06",
+ "id": "2026-11-06-2",
+ "lang": "ja",
+ "title": "Steam Frameが5位に、ミレドも発売",
+ "opening": [
+  {
+   "say": "ぶいらじ、今日の第二回です。十一月六日、金曜日の夜の、ブイアールニュースをお届けします。",
+   "show": "ぶいらじ、今日の第2回。11月6日金曜日、夜のVRニュースです。"
+  },
+  {
+   "say": "五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "Steam Frame、利用率5位に",
+   "points": [
+    "10月調査でシェア5.49%、5位",
+    "前月から4.94ポイント上昇",
+    "Indexの初月1.46%を大きく上回る"
+   ],
+   "url": "https://roadtovr.com/valve-steam-frame-strong-start-survey-oct-26/",
+   "lines": [
+    {
+     "say": "まずは、バルブの新しいブイアールヘッドセット、スチームフレームの話題です。",
+     "show": "まずは、Valveの新しいVRヘッドセット「Steam Frame」。"
+    },
+    {
+     "say": "スチームの、十月のハードウェア調査で、ブイアールヘッドセットの中のシェアが、五点四九パーセント。五位に入りました。",
+     "show": "Steamの10月の調査で、VRヘッドセット中シェア5.49%の5位に。"
+    },
+    {
+     "say": "前の月より、四点九四ポイントの伸びです。かつてのバルブインデックスは、最初の月が一点四六パーセントだったので、それを大きく上回っています。",
+     "show": "前月から4.94ポイント増。Valve Indexの最初の月の1.46%を大きく上回っています。"
+    }
+   ],
+   "details": [
+    "Steamハードウェア調査の2026年10月分で、Steam FrameはVRヘッドセットのシェア5.49%で5位でした。上位はQuest 3（27.27%）、Quest 2（22.23%）、Quest 3S（11.04%）、Valve Index（9.90%）。",
+    "Steam Frameは前月から4.94ポイント増えました。Quest 2は3.57ポイント減っています。",
+    "Road to VRによると、Valve Indexは初めて載った月のシェアが1.46%でした。Steam Frameは発売から1か月あまりで、まだ注文が多く残っています。"
+   ],
+   "link": {
+    "url": "https://roadtovr.com/valve-steam-frame-strong-start-survey-oct-26/",
+    "title": "Steam Frame Shows Strong Start as the 5th Most-used Headset on Steam",
+    "site": "Road to VR",
+    "description": "Steam Frame has only been out for a little over a month now, and is still heavily backordered. Still, Valve’s latest Steam Hardware Survey shows the headset is already off to a strong start. The News This is the first Steam survey to include Steam Frame, Valve’s standalone VR headset which natively supports SteamOS. You […]",
+    "image": "https://roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-12.jpg",
+    "icon": "https://roadtovr.com/wp-content/uploads/2026/05/rtovr-logo-2-1-2-e1780063132559.png"
+   },
+   "youtube": [
+    "OmKrKTwtukE"
+   ],
+   "videos": [
+    {
+     "youtube": "OmKrKTwtukE",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/OmKrKTwtukE/hqdefault.jpg",
+     "name": "Steam Hardware Announcement"
+    }
+   ]
+  },
+  {
+   "label": "「超かぐや姫！」VRChatライブ",
+   "points": [
+    "12月26日21時からオンラインライブ",
+    "YouTubeとVRChatで視聴無料",
+    "VRChatでの公演は全8回"
+   ],
+   "url": "https://www.moguravr.com/tsukuyomi-kansha-sai-vrchat-live/",
+   "lines": [
+    {
+     "say": "つぎは、映画、超かぐや姫の、オンラインライブです。",
+     "show": "つぎは、映画『超かぐや姫！』のオンラインライブ。"
+    },
+    {
+     "say": "ツクヨミ感謝祭が、十二月二十六日の夜九時から。会場はユーチューブとブイアールチャットで、どちらも無料で見られます。",
+     "show": "「ツクヨミ感謝祭」が12月26日21時から。YouTubeとVRChatで、視聴無料。"
+    },
+    {
+     "say": "ブイアールチャットでは全部で八回の公演があり、会場ワールドのチュートリアルエリアは、もう遊べます。",
+     "show": "VRChatでは全8回の公演。会場ワールドのチュートリアルエリアは先行オープン中。"
+    }
+   ],
+   "details": [
+    "映画『超かぐや姫！』のオンラインライブ「ツクヨミ感謝祭～めちゃうまパンケーキパーティー～」が、12月26日（土）21時に開かれます。",
+    "配信はYouTubeとVRChatの2か所で、視聴は無料。YouTubeでは、生配信のあとアーカイブも見られます。",
+    "VRChatでの公演は全8回。会場の「VRツクヨミワールド」はチュートリアルエリアが先行オープンしていて、ミニゲーム「ヤチヨの鳥居建築をお手伝い！」も公開中です。"
+   ],
+   "link": {
+    "url": "https://www.moguravr.com/tsukuyomi-kansha-sai-vrchat-live/",
+    "title": "『超かぐや姫！』12月26日にVRChatで無料ライブ開催決定！",
+    "site": "MoguLive",
+    "description": "12月26日21時、オンラインライブイベント「ツクヨミ感謝祭～めちゃうまパンケーキパーティー～」が開催されます。配信はYouTubeとVRChatの2か所で、視聴は無料です。 11月3日には、3人が最新情報を伝える番組・ […]",
+    "image": "https://assets.moguravr.com/uploads/2026/11/d48140b54bd9b235c9c3ea15db6cbf85-kix.ph52zjkkoxq4.webp",
+    "icon": "https://www.moguravr.com/app/themes/moguravr4/img/icon-512-live.png"
+   },
+   "youtube": [
+    "gWUFu9EIIhQ"
+   ],
+   "videos": [
+    {
+     "youtube": "gWUFu9EIIhQ",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/gWUFu9EIIhQ/hqdefault.jpg",
+     "name": "第2回『ツクヨミ感謝祭』INFO【超かぐや姫！】"
+    }
+   ]
+  },
+  {
+   "label": "横須賀市のVRライブハウス",
+   "points": [
+    "11月13日21時半から無料ライブ",
+    "PHANTOMなど4組が出演",
+    "2ワールドで累計25万人を突破"
+   ],
+   "url": "https://panora.tokyo/archives/162243",
+   "lines": [
+    {
+     "say": "横須賀市のメタバース、メタバースヨコスカが、ブイアールチャットに新しいライブハウスを開きます。",
+     "show": "横須賀市の「メタバースヨコスカ」が、VRChatに新しいライブハウス。"
+    },
+    {
+     "say": "オープン記念のライブは、十一月十三日の夜九時半から。ファントムなど四組が出演して、参加は無料、ピーシーブイアールのみです。",
+     "show": "記念ライブは11月13日21:30から。PHANTOMなど4組が出演、無料・PCVRのみ。"
+    },
+    {
+     "say": "メタバースヨコスカの二つのワールドは、訪れた人が、のべ二十五万人を超えています。",
+     "show": "2つのワールドの累計訪問者数は25万人を超えました。"
+    }
+   ],
+   "details": [
+    "横須賀市の「メタバースヨコスカ」が3周年記念企画として、新ワールド「DOBUITA PUMPKIN LIVE HOUSE」のオープニングライブ「LIGHT UP THE PUMPKIN」を開きます。11月13日（金）21時30分〜23時30分（予定）、参加無料。",
+    "出演はPHANTOM、93poetry、ばけNeko、不眠症女の4組。PCVRのみで人数制限があり、メタバースヨコスカのグループに入って、グループインスタンスから参加します。",
+    "メタバースヨコスカは、令和5年10月から運用している横須賀市のプロジェクトです。VRChatの2つのワールドの累計訪問者数は25万人を超えました。"
+   ],
+   "link": {
+    "url": "https://panora.tokyo/archives/162243",
+    "title": "メタバースヨコスカ「DOBUITA PUMPKIN LIVE HOUSE」オープン記念VRライブが11/13に開催 | PANORA",
+    "site": "PANORA",
+    "description": "横須賀市 横須賀市では、メタバースを活用した都市魅力の発信や、観光PRを目的としたプロジェクト「メタバースヨコスカ」を推進しています。 この度、横須賀市では「メタバースヨコスカ」3周年記念企画の一環として、令和8年11月",
+    "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/06181852/128894-676-dc60772b1ae4fdfb91a4116fec439d14-502x710-1.webp",
+    "icon": "https://panora.tokyo/asset/uploads/2019/08/cropped-logo_panora_kb_sq_512x512-180x180.png"
+   },
+   "youtube": [
+    "XJas6CbWcNA"
+   ],
+   "videos": [
+    {
+     "youtube": "XJas6CbWcNA",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/XJas6CbWcNA/hqdefault.jpg",
+     "name": "メタバースヨコスカ「Dobuita & Mikasa World」プロモーションビデオ"
+    }
+   ]
+  },
+  {
+   "label": "Meta、映画を3D化しVRへ",
+   "points": [
+    "MetaとLionsgateが3D化で協力",
+    "11月20日に劇場で3D公開",
+    "2027年春Meta VR Glassesで視聴可"
+   ],
+   "url": "https://www.meta.com/ja-jp/blog/meta-lionsgate-bring-hunger-games-sunrise-on-the-reaping-theaters-meta-vr-glasses-3d/",
+   "lines": [
+    {
+     "say": "メタが、映画会社ライオンズゲートと組んで、ハンガーゲームシリーズの最新作を、スリーディーにしました。",
+     "show": "MetaがLionsgateと組み、『ハンガー・ゲーム』最新作を3D化。"
+    },
+    {
+     "say": "アメリカの映画館で、十一月二十日にスリーディー版が公開され、メタが来年の春に出す予定の、メタブイアールグラスでも、スリーディーで見られるようになります。",
+     "show": "米国の劇場で11月20日に3D公開。2027年春発売予定の「Meta VR Glasses」でも3Dで。"
+    }
+   ],
+   "details": [
+    "MetaはLionsgateと組んで、映画『The Hunger Games: Sunrise on the Reaping』を3D化しました。Metaがハリウッドのスタジオと劇場公開作の3D化で組むのは初めてです。",
+    "3D変換はDNEGが担当し、フランシス・ローレンス監督も参加。劇場公開は11月20日（米国）で、3Dの前売り券も発売中です。",
+    "Metaが2027年春の発売を予定している「Meta VR Glasses」でも、この作品を3Dで見られるようになります。"
+   ],
+   "link": {
+    "url": "https://www.meta.com/ja-jp/blog/meta-lionsgate-bring-hunger-games-sunrise-on-the-reaping-theaters-meta-vr-glasses-3d/",
+    "title": "Meta Partners with Lionsgate to Bring 'The Hunger Games: Sunrise on the Reaping' to Theaters and Meta VR Glasses in 3D",
+    "site": "Meta",
+    "description": "Meta is partnering with Lionsgate to bring The Hunger Games: Sunrise on the Reaping to theaters in 3D, and to Meta VR Glasses when they hit shelves in spring 2027.",
+    "image": "https://lookaside.fbsbx.com/mwp/media/?path=wp-content%2Fuploads%2F2026%2F11%2Fsolstice-unit-250916-00315rc-scaled.webp",
+    "icon": "https://static.xx.fbcdn.net/rsrc.php/yQ/r/0eWKxz9kEoF.webp"
+   }
+  },
+  {
+   "label": "「Golden Field」が公開",
+   "points": [
+    "11月1日公開、昼夜と天気が変化",
+    "11月2日に雷雨を追加、全員で同期",
+    "Quest対応で定員80人"
+   ],
+   "url": "https://livestreamers.co.jp/vrchat/news/golden-field-day-night-cycle-world",
+   "lines": [
+    {
+     "say": "ニュースの最後は、ワールドの話題。昼と夜が移り変わって、天気も変わる、ゴールデンフィールドが公開されました。",
+     "show": "ニュースの最後はワールド。昼と夜、天気が移り変わる「Golden Field」が公開。"
+    },
+    {
+     "say": "翌日には雷雨が加わって、同じワールドにいる全員に、同じタイミングで雷が落ちます。クエスト対応で、定員は八十人です。",
+     "show": "翌日に雷雨を追加。同じ瞬間に、全員へ同じ雷が落ちます。Quest対応・定員80人。"
+    }
+   ],
+   "details": [
+    "Kadekoさんのワールド「Golden Field」が、11月1日にVRChatで公開されました。黄金色の野原で時間が進み、昼と夜が入れ替わって、天気も変わります。",
+    "11月2日に雷雨が加わりました。同じワールドにいる人には、同じ瞬間に同じ落雷が見え、同じ音が鳴ります。",
+    "作者はQuestにも対応していると書いています。定員は80人です。"
+   ],
+   "link": {
+    "url": "https://livestreamers.co.jp/vrchat/news/golden-field-day-night-cycle-world",
+    "title": "「Golden Field」公開｜昼夜と天気が変わる黄金の野原",
+    "site": "ソーシャルVRニュース＆ガイド",
+    "description": "地平線まで続く黄金色の穂の上で、空が昼から夜へ変わります。公開から数日のうちに雷雨が加わり、落雷と音は同じ場にいる全員へ同じ瞬間に届きます。",
+    "image": "https://livestreamers.co.jp/vrchat/news/golden-field-day-night-cycle-world-hero.webp",
+    "icon": "https://livestreamers.co.jp/apple-touch-icon.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "新作アバター「ミレド」発売",
+   "points": [
+    "今日18時ごろ発売、27日まで4,500円",
+    "対応アイテムも同じ日に続々",
+    "スキは2,500超え"
+   ],
+   "url": "https://booth.pm/ja/items/8906276",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、今日発売のアバターです。",
+     "show": "ここからは新作・セールのコーナー。まずは今日発売のアバター。"
+    },
+    {
+     "say": "たこのゆえさんの新作、ミレドが、今日の夕方に発売されました。十一月二十七日までは、千五百円引きの四千五百円です。",
+     "show": "蛸乃ゆえさんの新作「ミレド」が今日発売。27日まで1,500円引きの4,500円。"
+    },
+    {
+     "say": "発売と同時に、フェイストラッキングの追加パッチなど、ミレド対応のアイテムも次々に出ています。",
+     "show": "発売と同時に、フェイストラッキング追加パッチなど対応アイテムも続々。"
+    }
+   ],
+   "details": [
+    "ショップは「仮想VoidCat」。販売記念セールは11月27日までで、1,500円引きの4,500円です。商品ページから、サンプルワールドに行けます。",
+    "WonTon Studioの「Miredo Face Tracking Addon」（1,800円）は、VRChatのネイティブのフェイストラッキングに対応する追加パッチです。",
+    "BOOTHのスキは、発売の時点で2,500を超えていました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/8906276",
+    "title": "【オリジナル3Dモデル】ミレド -Miredo- 「11/27まで販売記念セール1500円off」 - 仮想VoidCat - BOOTH",
+    "site": "booth.pm",
+    "description": "オリジナル3Dモデル「ミレド (Miredo)」です。 サンプルワールド/Sample World https://vrchat.com/home/world/wrld_f67c4078-f07a-436a-a297-681a78b504e9/info Character Designer/Modeler/Setup: 蛸乃ゆえ（Takono Yue） 質問や問題あればBoothのDMで連絡してください。 没有Booth支付方式的朋友请从爱发电购买，不建议使用其他第三方代购服务。 爱发电： 11月6日发布 本模型已申请著作权保护，严禁在闲鱼等二手平台转卖",
+    "image": "https://booth.pximg.net/c/620x620/8e4c6e25-746f-4ea7-b9a8-51d10ed80b3b/i/8906276/b4443cbd-9ae0-4e11-b601-31345fc6d718_base_resized.jpg",
+    "icon": "https://booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "11体対応の衣装「Belmirea」",
+   "points": [
+    "22日朝まで発売記念セール",
+    "単体900円、フルセット1,900円",
+    "ルルネ・しなの・マヌカなど11体"
+   ],
+   "url": "https://booth.pm/ja/items/9087224",
+   "lines": [
+    {
+     "say": "つぎは衣装。メルティリさんの、ベルミレア。花と羽をあしらった、11体対応の新作です。",
+     "show": "つぎは衣装。MELTY:Riさんの「Belmirea」。花と羽をあしらった、11体対応の新作。"
+    },
+    {
+     "say": "十一月二十二日の朝ごろまで、単体は千二百円が九百円、フルセットは二千二百円が千九百円です。",
+     "show": "22日朝ごろまで、単体1,200円→900円、フルセット2,200円→1,900円。"
+    }
+   ],
+   "details": [
+    "発売記念セールは11月5日の発売から22日の朝ごろまで。単体は25%引き、フルセットは14%引きです。",
+    "色は自由に組み合わせられ、Prefabは9パターン入っています。Modular Avatar対応。",
+    "対応はショコラ・ライム（シフォン・プラムも共通素体）、エク・ミルフィ、輝夜、ルルネ、キプフェル、マヌカ、ミルティナ、ラムネ、しなの。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9087224",
+    "title": "【～25%OFF】Belmirea【11アバター対応】 - MELTY:Ri - BOOTH",
+    "site": "booth.pm",
+    "description": "🌟――――――――🌟 Belmirea べるみれあ 🌟――――――――🌟 発売記念セール！ 通常　フルセット：2200円→1900円（14%OFF） 　　　　　　単体：1200円→900円（25%OFF） 11/5(木)発売後～11/22（日）朝頃まで！ 🍄――――――――――🍄装着方法🍄――――――――――🍄 ✧MA（1.17.1）対応。「〇〇_Materialpackage.unitypackage」→「各アバター.unitypackage」の順でインストールし、Prefabをアバター直下にドラッグ＆ドロップしてください。 ✧アバターにコンポーネント「AAO Trace And",
+    "image": "https://booth.pximg.net/c/620x620/f862b268-9c95-4f40-84c2-978a60d5dc67/i/9087224/e842e351-8370-4700-b09f-69fedf92f009_base_resized.jpg",
+    "icon": "https://booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "5afXjQl0ey4",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/5afXjQl0ey4/hqdefault.jpg",
+     "name": "Belmirea_対応アバター紹介"
+    },
+    {
+     "youtube": "dgjbU6gGP64",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/dgjbU6gGP64/hqdefault.jpg",
+     "name": "Belmirea_動き方サンプル"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ルームウェア「ふわり」",
+   "points": [
+    "明日7日まで単品890円",
+    "8日〜30日は単品990円",
+    "まよ・ソルト・ルルネなど10体"
+   ],
+   "url": "https://booth.pm/ja/items/9050270",
+   "lines": [
+    {
+     "say": "くつろぎ用なら、ナエディンワークスさんの、ふわり。ふんわりしたルームウェアです。",
+     "show": "くつろぎ用なら、#NaeDing Worksさんの「Fuwari -ふわり-」。"
+    },
+    {
+     "say": "発売記念の特別価格は、明日七日まで。単品八百九十円、フルセット千三百九十円で、八日からも月末まではセール価格が続きます。",
+     "show": "特別価格は明日7日まで（単品890円・フル1,390円）。8日〜30日もセール。"
+    }
+   ],
+   "details": [
+    "11月5日〜7日は、単品1,400円→890円、フルパッケージ2,400円→1,390円です。",
+    "11月8日〜30日は、単品990円、フルパッケージ1,790円のセールになります。",
+    "対応はミルティナ、しなの、愛莉、輝夜、ルルネ、まよ、ソルト、プラム、ショコラ、ミルフィ。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9050270",
+    "title": "【 10 アバター対応】Fuwari -ふわり- 🫧 - #NaeDing Works - BOOTH",
+    "site": "booth.pm",
+    "description": "╭┈┈┈ ˚｡⋆ ☁︎ ⋆｡˚ ┈┈┈╮ 🔔 発売初日限定スペシャルセール！🔔 - 2026年 11月 5日 ～ 2026年11月 7日 ・単品：1,400円 → 890円 ・フルパッケージ：2,400円 → 1,390円 ✨ 期間限定スペシャルセール！ - 2026年 11月 8日 ～ 2026年11月30日 ・単品：1,400円 → 990円 ・フルパッケージ：2,400円 →1790円 ╰┈┈┈ ˚｡⋆ ☁︎ ⋆｡˚ ┈┈┈╯",
+    "image": "https://booth.pximg.net/c/620x620/d5353c33-1008-436e-9035-e76afb32786d/i/9050270/d3d38d83-d7a5-4f5e-afe0-45dbfdf95c32_base_resized.jpg",
+    "icon": "https://booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "uISS4m4H3Gk",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/uISS4m4H3Gk/hqdefault.jpg",
+     "name": "Fuwari -ふわり-"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ミルティナ用ニット、無料",
+   "points": [
+    "ベルニット：0円の新作衣装",
+    "ミルティナ対応",
+    "PhysBone・シェイプキー入り"
+   ],
+   "url": "https://booth.pm/ja/items/9101098",
+   "lines": [
+    {
+     "say": "無料の新作もひとつ。ミルティナ用のニットのドレス、ベルニットが、0円で配られています。",
+     "show": "無料の新作もひとつ。ミルティナ用のニットドレス「ベルニット」が0円。"
+    },
+    {
+     "say": "公開から一日で、スキは七百を超えました。",
+     "show": "公開から1日で、スキは700超え。"
+    }
+   ],
+   "details": [
+    "ショップは 4xshop さん。11月5日に公開された、無料の衣装です。",
+    "商品ページに書かれている対応アバターは、ミルティナです。",
+    "3Dモデル・テクスチャ・PhysBone・シェイプキーが入っていて、Modular Avatarに対応しています。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9101098",
+    "title": "無料 【 ベルニット Bell Knit 】 *VRChat *Free - 4xshop - BOOTH",
+    "site": "booth.pm",
+    "description": "++++++++++++++++++++++ Milltina、で使用できる衣装です。 【内容物】 * 3Dモデル * テクスチャ * PhysBone * シェイプキー 【使用方法】 * Modular Avatarに対応しています。 ++++++++++++++++++++++ This outfit can be used with Milltina. Included: * 3D Model * Textures * PhysBones * Shape Keys Usage: * Compatible with Modular Avatar.",
+    "image": "https://booth.pximg.net/c/620x620/74cecfbc-8318-4c25-8331-9f0a02691d95/i/9101098/810cd844-80b6-4982-941d-a5482b3e3b42_base_resized.jpg",
+    "icon": "https://booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "髪が床に乗る「HairFloorKeeper」",
+   "points": [
+    "寝転んでも、長い髪が床に沈まない",
+    "13日まで発売記念300円",
+    "人型アバターならだれでも"
+   ],
+   "url": "https://booth.pm/ja/items/9083989",
+   "lines": [
+    {
+     "say": "最後はギミック。寝転ぶと、長い髪が床に沈んでしまう悩みに、ヘアフロアキーパー。",
+     "show": "最後はギミック。寝転ぶと髪が床に沈む悩みに「HairFloorKeeper」。"
+    },
+    {
+     "say": "プレハブを入れてアップロードするだけで、髪が床やベッドの上に乗ります。十三日までは、五百円が三百円です。",
+     "show": "Prefabを入れるだけで、髪が床やベッドの上に。13日まで500円→300円。"
+    }
+   ],
+   "details": [
+    "人型のアバターなら使えます。Expressionメニューから、オン・オフと床の高さを変えられます。",
+    "発売記念セールは11月13日23時59分まで。ほかに800円の「ご支援版」もあります。",
+    "VRChat SDK 3.10.3以降と、Modular Avatarが必要です。ショップは Atelier_Cloveria さん。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9083989",
+    "title": "HairFloorKeeper｜ポン入れで髪が床やベッドに乗る - Atelier_Cloveria - BOOTH",
+    "site": "booth.pm",
+    "description": "ポンと入れるだけで、長い髪が床やベッドに乗ります✨️ 人型アバターなら誰でもOK! 🎉━━ 発売記念セール ━━🎉 🏷️ 通常版 ¥500 → ¥300 ✨ ⏰ 11/13(金) 23:59 まで 🎁🍀✨━━━━━━━━━━━━━━━━✨🍀🎁 🎉 リリース記念キャンペーン開催中！ 🎉 🌟 フォロー＋リポストで、HairFloorKeeper を 　 抽選で【3名様】にプレゼント！ 🌟 💗 このページのスキ100ごとに、当選者が1名ずつ増えます ⏰ 締切：11/12(木) 23:59 👇 応募はこちらのポストから 👇",
+    "image": "https://booth.pximg.net/c/620x620/66406bb1-7932-493b-91f3-68a9f6c138fc/i/9083989/148d1793-e378-4624-8370-6822f1a7487d_base_resized.jpg",
+    "icon": "https://booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "Upi3Mz3nqk8",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/Upi3Mz3nqk8/hqdefault.jpg",
+     "name": "HairFloorKeeper 使い方｜寝転んでも髪が床に沈まない【VRChat】"
+    }
+   ]
+  }
+ ],
+ "highlight": 5,
+ "closing": [
+  {
+   "say": "第二回は、スチームフレームの好調なスタートと、ミレドの発売が重なった夜でした。",
+   "show": "Steam Frameの好スタートと、ミレドの発売が重なった夜でした。"
+  },
+  {
+   "say": "ふわりの特別価格は、明日までです。気になる人は、お早めに。",
+   "show": "「ふわり」の特別価格は明日7日まで。お早めに。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 210.05,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.476,
+   "show": "ぶいらじ、今日の第2回。11月6日金曜日、夜のVRニュースです。",
+   "part": 0
+  },
+  {
+   "start": 7.726,
+   "end": 12.279,
+   "show": "5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 13.079,
+   "end": 17.854,
+   "show": "まずは、Valveの新しいVRヘッドセット「Steam Frame」。",
+   "part": 1
+  },
+  {
+   "start": 18.104,
+   "end": 26.106,
+   "show": "Steamの10月の調査で、VRヘッドセット中シェア5.49%の5位に。",
+   "part": 1
+  },
+  {
+   "start": 26.356,
+   "end": 36.703,
+   "show": "前月から4.94ポイント増。Valve Indexの最初の月の1.46%を大きく上回っています。",
+   "part": 1
+  },
+  {
+   "start": 37.503,
+   "end": 41.128,
+   "show": "つぎは、映画『超かぐや姫！』のオンラインライブ。",
+   "part": 2
+  },
+  {
+   "start": 41.378,
+   "end": 49.554,
+   "show": "「ツクヨミ感謝祭」が12月26日21時から。YouTubeとVRChatで、視聴無料。",
+   "part": 2
+  },
+  {
+   "start": 49.804,
+   "end": 56.122,
+   "show": "VRChatでは全8回の公演。会場ワールドのチュートリアルエリアは先行オープン中。",
+   "part": 2
+  },
+  {
+   "start": 56.922,
+   "end": 62.985,
+   "show": "横須賀市の「メタバースヨコスカ」が、VRChatに新しいライブハウス。",
+   "part": 3
+  },
+  {
+   "start": 63.235,
+   "end": 72.503,
+   "show": "記念ライブは11月13日21:30から。PHANTOMなど4組が出演、無料・PCVRのみ。",
+   "part": 3
+  },
+  {
+   "start": 72.753,
+   "end": 78.526,
+   "show": "2つのワールドの累計訪問者数は25万人を超えました。",
+   "part": 3
+  },
+  {
+   "start": 79.326,
+   "end": 86.015,
+   "show": "MetaがLionsgateと組み、『ハンガー・ゲーム』最新作を3D化。",
+   "part": 4
+  },
+  {
+   "start": 86.265,
+   "end": 96.717,
+   "show": "米国の劇場で11月20日に3D公開。2027年春発売予定の「Meta VR Glasses」でも3Dで。",
+   "part": 4
+  },
+  {
+   "start": 97.517,
+   "end": 105.182,
+   "show": "ニュースの最後はワールド。昼と夜、天気が移り変わる「Golden Field」が公開。",
+   "part": 5
+  },
+  {
+   "start": 105.432,
+   "end": 114.526,
+   "show": "翌日に雷雨を追加。同じ瞬間に、全員へ同じ雷が落ちます。Quest対応・定員80人。",
+   "part": 5
+  },
+  {
+   "start": 115.326,
+   "end": 120.367,
+   "show": "ここからは新作・セールのコーナー。まずは今日発売のアバター。",
+   "part": 6
+  },
+  {
+   "start": 120.617,
+   "end": 130.244,
+   "show": "蛸乃ゆえさんの新作「ミレド」が今日発売。27日まで1,500円引きの4,500円。",
+   "part": 6
+  },
+  {
+   "start": 130.494,
+   "end": 136.65,
+   "show": "発売と同時に、フェイストラッキング追加パッチなど対応アイテムも続々。",
+   "part": 6
+  },
+  {
+   "start": 137.45,
+   "end": 143.931,
+   "show": "つぎは衣装。MELTY:Riさんの「Belmirea」。花と羽をあしらった、11体対応の新作。",
+   "part": 7
+  },
+  {
+   "start": 144.181,
+   "end": 152.02,
+   "show": "22日朝ごろまで、単体1,200円→900円、フルセット2,200円→1,900円。",
+   "part": 7
+  },
+  {
+   "start": 152.82,
+   "end": 157.711,
+   "show": "くつろぎ用なら、#NaeDing Worksさんの「Fuwari -ふわり-」。",
+   "part": 8
+  },
+  {
+   "start": 157.961,
+   "end": 168.575,
+   "show": "特別価格は明日7日まで（単品890円・フル1,390円）。8日〜30日もセール。",
+   "part": 8
+  },
+  {
+   "start": 169.375,
+   "end": 175.694,
+   "show": "無料の新作もひとつ。ミルティナ用のニットドレス「ベルニット」が0円。",
+   "part": 9
+  },
+  {
+   "start": 175.944,
+   "end": 179.278,
+   "show": "公開から1日で、スキは700超え。",
+   "part": 9
+  },
+  {
+   "start": 180.078,
+   "end": 186.164,
+   "show": "最後はギミック。寝転ぶと髪が床に沈む悩みに「HairFloorKeeper」。",
+   "part": 10
+  },
+  {
+   "start": 186.414,
+   "end": 194.138,
+   "show": "Prefabを入れるだけで、髪が床やベッドの上に。13日まで500円→300円。",
+   "part": 10
+  },
+  {
+   "start": 194.938,
+   "end": 200.594,
+   "show": "Steam Frameの好スタートと、ミレドの発売が重なった夜でした。",
+   "part": 11
+  },
+  {
+   "start": 200.844,
+   "end": 205.619,
+   "show": "「ふわり」の特別価格は明日7日まで。お早めに。",
+   "part": 11
+  },
+  {
+   "start": 205.869,
+   "end": 209.25,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.079
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.079,
+   "end": 37.503
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 37.503,
+   "end": 56.922
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 56.922,
+   "end": 79.326
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 79.326,
+   "end": 97.517
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 97.517,
+   "end": 115.326
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 115.326,
+   "end": 137.45
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 137.45,
+   "end": 152.82
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 152.82,
+   "end": 169.375
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 169.375,
+   "end": 180.078
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 180.078,
+   "end": 194.938
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 194.938,
+   "end": 210.05
+  }
+ ],
+ "made_at": "2026-11-06T18:48:56"
+}

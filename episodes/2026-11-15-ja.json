@@ -1,0 +1,747 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-15",
+ "lang": "ja",
+ "title": "空母から出撃する空戦ワールド、Murder 4が日本語に",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月十五日、日曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月15日日曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "空母から出撃する空戦ワールド「ACO」",
+   "points": [
+    "空母から発艦して、仲間と協力して戦う空中戦",
+    "地形・任務・敵が毎回自動生成、ボスとエース部隊も",
+    "告知ポストは公開から約1時間で1,100いいね"
+   ],
+   "url": "https://x.com/5So2_/status/2121783447660404987",
+   "lines": [
+    {
+     "say": "まずは、今日の午前中に公開されたばかりの、空中戦のワールドです。",
+     "show": "まずは、今日の午前に公開されたばかりの空戦ワールド。"
+    },
+    {
+     "say": "エーシーオー、エアリアル キャンペーン オペレーションズは、空母から飛び立って、仲間と協力して敵と戦う、空中戦のワールド。出撃するたびに機体を強化して、特別な兵器も使えるようになります。",
+     "show": "「［ACO］Aerial Campaign Operations」は、空母から発艦し、仲間と協力して戦うPvE空戦ワールド。出撃のたびに機体を強化し、特殊兵装を解放。"
+    },
+    {
+     "say": "地形も、任務も、敵も、毎回自動で作られて、ボスやエース部隊が待ち受けます。告知ポストは、公開から一時間ほどで、千百いいねを超えました。",
+     "show": "地形・任務・敵は毎回自動生成。ボスとエース部隊が待ち受ける。告知ポストは公開から約1時間で1,100いいね超え。"
+    }
+   ],
+   "details": [
+    "作者は5Sori（@5So2_）さん。11月15日の午前に公開し、告知ポストは1時間ほどで1,100以上のいいねと、2万回以上の表示を集めています。",
+    "ワールドの説明は「空母から発艦するPvE協力空戦ワールド。出撃のたびに地形・任務・敵が手続き的に生成されます。仲間と多彩な任務をこなし、強力なボスを撃破しましょう」。",
+    "公開されたばかりで、バグが残っているかもしれないとのこと。関連する投稿はハッシュタグ #VRC_ACO で。告知ポストには、遊んでいる映像が付いています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_f8aa1ad7-ed6d-4f11-810c-ed76952a330d/info",
+    "title": "［ACO］Aerial Campaign Operations by 5Sori",
+    "site": "VRChat",
+    "description": "［EN］ PvE co-op air combat from a carrier․ Every sortie is procedurally generated‚ with terrain‚ missions and enemies different each time․ Team up to clear varied missions and take down powerful bosses․［日］ 空母から発艦するPvE協力空戦ワールド。出撃のたびに地形・任務・敵が手続き的に生成されます。仲間と多彩な任務をこなし、強力なボスを撃破しましょう。",
+    "image": "https://api.vrchat.cloud/api/1/file/file_16e79652-fed1-48dc-b57b-7efca018bdbd/1/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/5So2_/status/2121783447660404987",
+    "site": "X",
+    "title": "5Sori（@5So2_）：ワールド公開［ACO］Aerial Campaign Operations"
+   }
+  },
+  {
+   "label": "人気ゲーム「Murder 4」が日本語に対応",
+   "points": [
+    "殺人犯を手がかりから突き止める、人気のゲームワールド",
+    "ロビーの新しい設定で、英語と日本語を切り替え",
+    "告知ポストは900いいね超え"
+   ],
+   "url": "https://x.com/vr_jar/status/2121445580153016371",
+   "lines": [
+    {
+     "say": "つぎは、人気のゲームワールド、マーダーフォーのニュースです。",
+     "show": "つぎは、人気ゲームワールド「Murder 4」のニュース。"
+    },
+    {
+     "say": "マーダーフォーは、紛れ込んだ殺人犯を、探偵と一緒に、手がかりから突き止めるゲーム。そのマーダーフォーが、日本語に対応しました。",
+     "show": "Murder 4は、紛れ込んだ殺人犯を、探偵と一緒に手がかりから突き止めるゲーム。そのMurder 4が日本語に対応。"
+    },
+    {
+     "say": "ロビーにある新しい設定から、英語と日本語を切り替えられます。ほかの言語にも、増やしていきたいそうです。",
+     "show": "ロビーの新しい設定で英語と日本語を切り替え。今後ほかの言語も増やしたいとのこと。"
+    }
+   ],
+   "details": [
+    "作者のjar（@vr_jar）さんが11月14日に発表しました。告知ポストは15日昼の時点で900以上のいいねと、3万回以上の表示を集めています。",
+    "Murder 4は、プレイヤーが探偵・一般人・殺人犯に分かれて遊ぶ、jarさんの「Murder」シリーズの人気ワールドです。今回のアップデートで、ロビーエリアの新しい設定から、英語と日本語を切り替えられるようになりました。",
+    "告知ポストには映像が付いています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe/info",
+    "title": "Murder 4 by Jar",
+    "site": "VRChat",
+    "description": "A murderer is on the loose againǃ Help the detective by finding clues and tracking down the culprit․ Now with avatarsǃ By jar",
+    "image": "https://api.vrchat.cloud/api/1/file/file_f3f2b71b-d416-4711-8177-eeaca0a9af20/50/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/vr_jar/status/2121445580153016371",
+    "site": "X",
+    "title": "jar（@vr_jar）：Murder 4 is now available in Japanese!"
+   }
+  },
+  {
+   "label": "2人で遊ぶマーダーミステリー「DevilMay」",
+   "points": [
+    "2人用、ゲームマスター不要、約60分",
+    "約2万ダウンロードのシナリオをVRChatに",
+    "遊んだことのある人は観戦も"
+   ],
+   "url": "https://x.com/zMIVz/status/2121545434070155562",
+   "lines": [
+    {
+     "say": "推理つながりで、つぎは、二人で遊ぶ、マーダーミステリーのワールドです。",
+     "show": "推理つながりで、つぎは2人用マーダーミステリーのワールド。"
+    },
+    {
+     "say": "デビルメイは、ゲームマスターなしで、二人だけで最後まで遊べる、マーダーミステリー。プレイ時間は、六十分ほどです。",
+     "show": "「DevilMay」は、GM不要、2人だけで最後まで遊べるマーダーミステリー。プレイ時間は約60分。"
+    },
+    {
+     "say": "およそ二万ダウンロードされた、オンラインのシナリオを、ブイアールチャット向けに作り直しました。一度遊んだ人は、観戦もできます。",
+     "show": "約2万DLのオンラインシナリオをVRChat向けに移植。既プレイの人は観戦も可能。"
+    }
+   ],
+   "details": [
+    "作者はミヴの飛ばない飛行船（@zMIVz）さん。11月14日に公開し、日本語の告知ポストは15日昼の時点で680近いいいねを集めています。",
+    "観戦者の声は、エンディングまでプレイヤーには聞こえない仕組みです。ワールドの説明では「ダークな雰囲気、理不尽を許せる方向け」とされています。",
+    "関連するハッシュタグは #でびめい #でびめいVR です。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_bb17a2a9-593b-497b-9086-137fdae70c65/info",
+    "title": "【2人用】マーダーミステリー「DevilMay」 by ミヴの飛ばない飛行船",
+    "site": "VRChat",
+    "description": "2人用でGM不要、60分ほどのマーダーミステリーです。 観戦システム有。観戦者の声はエンディングまでPLには聞こえません。ダークな雰囲気、理不尽を許せる方向けです。約20000DLのオンラインシナリオをVRchat向けに移植しました。 Xハッシュタグ ＃でびめい ＃でびめいVR",
+    "image": "https://api.vrchat.cloud/api/1/file/file_8b3d4c71-34f5-43b2-ba4f-286bc02e09b4/1/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/zMIVz/status/2121545434070155562",
+    "site": "X",
+    "title": "ミヴの飛ばない飛行船（@zMIVz）：2人用マーダーミステリー『DevilMay』をVRChatにて公開"
+   }
+  },
+  {
+   "label": "白い花に覆われた病院「Sanatorium」",
+   "points": [
+    "廊下も病室も、床いっぱいに白い花",
+    "階段にはつたが絡まる、人のいない建物",
+    "紹介ポストは1,700いいね超え"
+   ],
+   "url": "https://x.com/hjBi22pmlF6373/status/2121614968110141448",
+   "lines": [
+    {
+     "say": "つぎは、景色のワールド、サナトリウム。エックスの紹介ポストが、千七百いいねを超えています。",
+     "show": "つぎは景色のワールド「Sanatorium」。Xの紹介ポストは1,700いいね超え。"
+    },
+    {
+     "say": "真っ白な病院の、廊下や病室の床いっぱいに、白い花が咲いています。ベッドや点滴のスタンドのまわりにも花が広がって、階段には、つたが絡まっています。",
+     "show": "真っ白な病院の廊下や病室の床一面に、白い花。ベッドや点滴スタンドのまわりにも花が広がり、階段にはつた。"
+    },
+    {
+     "say": "人のいない、静かな建物で、写真を撮るのにもぴったりのワールドです。",
+     "show": "人のいない静かな建物。写真映えするワールド。"
+    }
+   ],
+   "details": [
+    "十兵衛氏（@hjBi22pmlF6373）さんの紹介ポストは、15日昼の時点で1,700以上のいいねと、2万回以上の表示を集めています。作者は유령의 집さんです。",
+    "サナトリウムは療養所のこと。白い病院の廊下や病室、階段に、花や植物が広がっている様子が、紹介ポストの写真で見られます。ワールドの説明文は、タイトルだけです。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_2928651b-f79c-4b50-b671-64c69bd2651e/info",
+    "title": "Sanatorium by 유령의 집",
+    "site": "VRChat",
+    "description": "Sanatorium",
+    "image": "https://api.vrchat.cloud/api/1/file/file_b86b8f7e-bebd-4c0a-bfde-166b8bbbcad1/2/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/hjBi22pmlF6373/status/2121614968110141448",
+    "site": "X",
+    "title": "十兵衛氏（@hjBi22pmlF6373）：ワールド名:Sanatorium 作者:유령의 집"
+   }
+  },
+  {
+   "label": "空港から世界旅行「World Travel Portal Hub」",
+   "points": [
+    "空港のラウンジが拠点のポータルHUB",
+    "世界地図や国の名前から、行き先を選ぶ",
+    "待ち合わせや雑談にも"
+   ],
+   "url": "https://x.com/haruru184/status/2121742560553222305",
+   "lines": [
+    {
+     "say": "ニュースの最後は、家にいながら、世界旅行ができるワールドです。",
+     "show": "ニュースの最後は、家にいながら世界旅行ができるワールド。"
+    },
+    {
+     "say": "シンプル ワールド トラベル ポータル ハブは、空港のラウンジが拠点。世界地図や、国の名前から、行き先のワールドを選んで、ゲートの搭乗口から、みんなで出かけられます。",
+     "show": "「Simple World Travel Portal Hub」は空港ラウンジが拠点。世界地図や国名検索で行き先を選び、ゲート01の搭乗口からみんなで出発。"
+    },
+    {
+     "say": "フレンドとの待ち合わせや、のんびり雑談するのにも使えます。",
+     "show": "フレンドとの待ち合わせや雑談にも。"
+    }
+   ],
+   "details": [
+    "作者はharuru806（@haruru184）さん。告知ポストは15日昼の時点で370以上のいいねを集めています。",
+    "「家に居ながら実際に存在する様々な国の風景や空気感に触れてみたい、旅行をしたい」という目的で作ったワールドだそうです。人を待ったり雑談したりできるラウンジもあります。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_2bfa68dc-dcc0-402a-9372-4cade61560b5/info",
+    "title": "Simple World Travel Portal Hub by haruru806",
+    "site": "VRChat",
+    "description": "空港ラウンジを拠点に、世界旅行を楽しめるポータルHUBです。フレンドと待ち合わせてのんびり雑談したり、世界地図から気になる行き先を選んだり。行き先が決まったら、ゲート01の搭乗口から、みんなで世界旅行に出かけよう！ A portal hub for exploring the world from an airport lounge․ Meet up with friends‚ relax and chat‚ and choose your next destination on the world board․ When you are ready‚ head to the boarding entrance at Gate 01 and set off on a world tour togetherǃ",
+    "image": "https://api.vrchat.cloud/api/1/file/file_6142a2f1-922b-49e2-bfa0-c4d9de0fb935/4/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/haruru184/status/2121742560553222305",
+    "site": "X",
+    "title": "haruru806（@haruru184）：世界旅行ができるワールドポータルHUBを公開"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "髪がプロペラになって浮かぶ「SP-010」",
+   "points": [
+    "ツインテールが回るプロペラになり、浮遊ポーズへ",
+    "風・砂ぼこり・軌跡のエフェクト付き",
+    "22体対応、セール中890円"
+   ],
+   "url": "https://x.com/siropapa_3D/status/2121528564306588121",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、エックスで千百いいねを超えた、髪型のエスピー ゼロイチゼロ。",
+     "show": "ここからは新作・セールのコーナー。まずは、Xで1,100いいね超えの髪型「SP-010」。"
+    },
+    {
+     "say": "長いツインテールの髪型ですが、スイッチを入れると、左右の髪が広がって、プロペラのように回り出し、ふわりと宙に浮かびます。",
+     "show": "長いツインテールのヘア。スイッチONで左右のテールが広がってプロペラのように回転し、浮遊ポーズに。"
+    },
+    {
+     "say": "回る髪の軌跡や、風、砂ぼこりの演出も付いています。二十二体に対応していて、今はセール中の、八百九十円です。",
+     "show": "回転の軌跡、風、砂ぼこりの演出付き。22体対応、セール中890円。"
+    }
+   ],
+   "details": [
+    "ショップはsiropapa。11月14日18時に発売し、発売告知のポストは15日昼の時点で1,100以上のいいねと、4万回以上の表示を集めています。フォローとリポストのプレゼント企画も行っています。",
+    "浮遊中は上下にゆるやかに揺れ、移動する方向に合わせて傾きます。VRでは浮遊中も手のトラッキングが使えます。プロペラのギミックはModular Avatar版のみです。",
+    "紹介動画もあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9123315",
+    "title": "🚁SALE✨【22 avatars】【VRC Hair】SP-010 - siropapa - BOOTH",
+    "site": "booth.pm",
+    "description": "🌀 SP-010 Hair & Propeller 🌀 ふわりと広がるツインテールで、空に浮かぶ気分を。 流れる毛束と、存在感のあるロングシルエット。 スイッチひとつで髪がプロペラに変わり、浮遊ポーズへ。 普段のコーディネートにも、遊び心のある一枚にも。 気分に合わせて、ふたつのスタイルをお楽しみください 🌀 ━━━━━━━━━━━━━━━━━━━━━━━ ✅ 商品内容 ・Unity Package — ヘア本体・プロペラギミック・各種アニメーション ・対応アバター別Prefab 　— MA版：ヘア＋プロペラギミック 　— no MA版：通常ヘア＋PhysBone・Collider",
+    "image": "https://booth.pximg.net/c/620x620/f0b1ad24-9ba4-4f1e-9500-2ec753385998/i/9123315/dde6ff2f-dc83-435d-9995-91eed45ec3c7_base_resized.jpg",
+    "icon": "https://siropapa.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/siropapa_3D/status/2121528564306588121",
+    "site": "X",
+    "title": "シロパパ（@siropapa_3D）：新作ヘア「SP-010」11月14日18:00発売"
+   },
+   "videos": [
+    {
+     "youtube": "YpcAbGTXSPc",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/YpcAbGTXSPc/hqdefault.jpg",
+     "name": "SP-010 TEST"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "男女で使える髪「アンニュイハーフアップヘア」、今日まで800円",
+   "points": [
+    "PeachEdge初の男女兼用ヘア",
+    "男性8体・女性5体の13体に対応",
+    "15日23時59分まで、950円が800円"
+   ],
+   "url": "https://x.com/zuhaoshika/status/2121513220620111990",
+   "lines": [
+    {
+     "say": "つぎも髪型。アンニュイ ハーフアップヘア。",
+     "show": "つぎも髪型「アンニュイハーフアップヘア」。"
+    },
+    {
+     "say": "男の子にも女の子にも使える髪型で、男の子なら色っぽく、女の子なら、けだるい雰囲気になるそうです。男女あわせて、十三体に対応しています。",
+     "show": "男女兼用ヘア。男の子には艶やかな色気、女の子には気怠くアンニュイな雰囲気。男女13体に対応。"
+    },
+    {
+     "say": "発売記念のセールは、今日、十五日の夜、十一時五十九分まで。九百五十円が、八百円です。",
+     "show": "発売記念セールは今日15日23:59まで、950円→800円。"
+    }
+   ],
+   "details": [
+    "ショップはPeach Edge。プレゼント企画のポストは15日昼の時点で3,300以上のいいねと、11万回以上の表示を集め、BOOTHのスキは1,800を超えています。プレゼントの締め切りは11月16日24時です。",
+    "対応は、男性アバターが水瀬、狛乃、斑霞、紗夜、アルエ、くうた、はるか、泣夜、女性アバターが森羅、ルミナ、海咲、しゅあん、すあらです。",
+    "紹介動画もあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9133654",
+    "title": "♡SALE♡アンニュイハーフアップヘア - Peach Edge - BOOTH",
+    "site": "booth.pm",
+    "description": "♡発売記念SALE♡ 11/14（土） ～ 11/15（日）23:59 950円→800円 ━━━━━━━━━━━━━━━━━━━━━━━━ PeachEdge初の男女兼用ヘア。 男の子には、艶やかな色気を。 女の子には、気怠くアンニュイな雰囲気を。 纏う人によって、異なる表情を見せるヘアスタイルです。 ━━━━━━━━━━━━━━━━━━━━━━━━ RxAlbaさんが素敵な紹介動画を制作してくださいました。 是非こちらもご覧ください！ ➡　https://x.com/RxAlba55/status/2121151078125457771?a=I7wlYGwmNYbs4AOG6Mo&s=20",
+    "image": "https://booth.pximg.net/c/620x620/183be325-32ff-4ea7-8d4b-bd3d2fe6cca3/i/9133654/70cec7e9-af67-485c-9caa-925a4ba6b227_base_resized.jpg",
+    "icon": "https://peachedge.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/zuhaoshika/status/2121513220620111990",
+    "site": "X",
+    "title": "nanase【PeachEdge】（@zuhaoshika）：ヘア発売記念RPキャンペーン"
+   },
+   "videos": [
+    {
+     "youtube": "89TWr8FLycE",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/89TWr8FLycE/hqdefault.jpg",
+     "name": "Ennui Harf Up Hair"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ゴシックな衣装「Noct. Cross」、21日まで無料",
+   "points": [
+    "真夜中と十字架がモチーフの、ゴシック＆地雷系",
+    "2色、8体に対応",
+    "11月21日まで無料配布、スキは3,400超え"
+   ],
+   "url": "https://booth.pm/ja/items/9145079",
+   "lines": [
+    {
+     "say": "つぎは衣装。ノクターンクロス。",
+     "show": "つぎは衣装「Noct. Cross（ノクターンクロス）」。"
+    },
+    {
+     "say": "真夜中と十字架をモチーフにした、ゴシックで、地雷系の雰囲気の衣装セットです。色は二種類で、しなのや、マヌカ、かぐやなど、八体に対応しています。",
+     "show": "真夜中と十字架モチーフの、ゴシック＆地雷系の衣装セット。2色、しなの・マヌカ・輝夜など8体対応。"
+    },
+    {
+     "say": "発売記念で、十一月二十一日まで、無料で配られています。ブースのスキは、もう三千四百を超えました。",
+     "show": "発売記念で11月21日まで無料配布。BOOTHのスキは3,400超え。"
+    }
+   ],
+   "details": [
+    "ショップはGatto art。無料配布は11月21日23時59分までです。",
+    "対応は、しなの、マヌカ、ソルト、ショコラ、輝夜、ミルフィ、エク、ゆめかの8体。カラーは「Black Rose & Blood」と「Velvet Wine & Ivory」の2色で、スカートやベール、リボンにPhysBoneが設定済みです。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9145079",
+    "title": "📢 無料配布中！ 🖤Noct. Cross✟ ｜ ノクターンクロス 🥀✝️【8アバター対応】🕯️ - Gatto art - BOOTH",
+    "site": "booth.pm",
+    "description": "🥀 発売記念！1週間限定 無料配布 🥀 日頃の感謝を込めて、配布開始から1週間限定で無料配布いたします！ ぜひこの機会にお試しください ✝️🖤 ⏱️ 無料配布期間 2026.11.14 ～ 2026.11.21 23:59 ✟ 商品概要 真夜中と十字架をモチーフにした、ゴシック＆地雷系テイストの衣装セットです。 - カラー：2色（Black Rose & Blood / Velvet Wine & Ivory） - 仕様：スカート・ベール・リボン等にPhysBone設定済み - 動作環境：Unity 2022.3.22f1 / Liltoon 2.3.2 ✟ 対応アバター - しなの /",
+    "image": "https://booth.pximg.net/c/620x620/72af7e16-f21e-4957-a6c8-69ce7fd3402f/i/9145079/fb83921c-e44e-4e90-a320-0b73120ec2a1_base_resized.jpg",
+    "icon": "https://enjp.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "ガラスになって砕けて変身「Glass Shatter」",
+   "points": [
+    "全身がガラスになって砕け、別の衣装で現れる",
+    "衣装1着までは無料、有料版は8着まで",
+    "Modular Avatar対応、PC専用"
+   ],
+   "url": "https://booth.pm/ja/items/9148864",
+   "lines": [
+    {
+     "say": "つぎは、変身のギミック、グラス シャッター。",
+     "show": "つぎは変身ギミック「Glass Shatter」。"
+    },
+    {
+     "say": "メニューを押すと、足元から頭まで、全身がガラスになって、胸からひびが入り、砕け散ります。そして、別の衣装に着替えて、なかから現れます。",
+     "show": "メニューを押すと足元から頭まで全身がガラスに。胸からヒビが走って砕け散り、別の衣装で現れる。"
+    },
+    {
+     "say": "衣装一着までなら無料。七百円の有料版では、八着までの着替えや、氷や、ステンドグラスなどの割れ方も選べます。",
+     "show": "衣装1着までは無料。有料版（700円）は8着まで、氷やステンドグラスなど割れ方4種。"
+    }
+   ],
+   "details": [
+    "ショップはレイキュア。11月14日に公開され、無料版のBOOTHのスキは240近くになっています。",
+    "アバターの直下にPrefabを置いてアップロードするだけで、表示中の体や服からガラスの破片が自動で作られます。「割れて消える」メニューもあり、有料版では触られたら割れる機能も加わります。VRChatのPC専用で、Modular Avatarが必要です。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9148864",
+    "title": "【無料/Free】割れて変身ギミック｜Glass Shatter【VRChat / Modular Avatar・PC専用】ガラスになって砕ける衣装チェンジ - レイキュア - BOOTH",
+    "site": "booth.pm",
+    "description": "メニューを押すと全身がガラスになり、砕けて別の衣装で現れる変身ギミックです。 無料でここまで全部動きます（1着）。VRChat・Modular Avatar・置くだけ。PC専用。 8着まで・触られたら割れる・割れ方4種は有料版（700円）→ https://booth.pm/ja/items/9147557 ▼ 何が起きるか 「割れて変身」を押すと、足元から頭までガラスに変わり、胸からヒビが走って、厚み 5mm の板ガラスになって砕け散ります。砕けた瞬間に、登録した衣装に着替わって中から現れます。もう一度押すと、同じように砕けて元の衣装に戻ります。破片は床で跳ねて寝て、すっと消えます。 ▼",
+    "image": "https://booth.pximg.net/c/620x620/59347c4f-b3ca-4968-b2f7-0e0645d83e35/i/9148864/e020f903-2314-456e-bb85-608f14e108fd_base_resized.jpg",
+    "icon": "https://reikyua.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "ジャンプでドロップキック「空中攻撃ギミック」",
+   "points": [
+    "ジャンプが空中攻撃のモーションに",
+    "動く方向で、5種類のキックを出し分け",
+    "足の残像も、700円"
+   ],
+   "url": "https://booth.pm/ja/items/9015630",
+   "lines": [
+    {
+     "say": "最後は、ちょっと笑える、空中攻撃のギミック。",
+     "show": "最後は「空中攻撃ギミック【フレンドにドロップキック】」。"
+    },
+    {
+     "say": "オンにすると、ジャンプするたびに、空中でキックを繰り出します。前にジャンプするとドロップキック、うしろなら後ろ回し蹴りなど、動く方向で、五種類の技を出し分けられます。",
+     "show": "ONにするとジャンプが空中攻撃に。前ジャンプでドロップキック、後ろで後ろ回し蹴りなど、方向で5種を出し分け。"
+    },
+    {
+     "say": "足から残像を出すこともできます。七百円です。",
+     "show": "足から残像も出せる。700円。"
+    }
+   ],
+   "details": [
+    "ショップは宮本工房。その場でジャンプすると両手と右脚を伸ばしたキック、左右のジャンプでは回転キックとサイドキックを出します。",
+    "導入にはModular AvatarとlilToonが必要です。紹介動画もあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9015630",
+    "title": "空中攻撃ギミック【フレンドにドロップキック】 - 宮本工房 - BOOTH",
+    "site": "booth.pm",
+    "description": "ジャンプするたびに空中攻撃を繰り出せるようになるギミックです。オンオフ可能 【導入方法】 当ギミックの導入には導入にはModurar Avatar(https://modular-avatar.nadena.dev/ja/docs/intro)と liltoon(httpslilxyzw.github.iolilToon)の導入が必要になります。 ①空中攻撃ギミック.prefabをアバター直下に入れます。 ②導入完了です。 　【つかいかた】 空中攻撃オンオフ：オンにするとジャンプモーションが空中攻撃モーションになります。オフにすると通常のジャンプモーションに戻ります",
+    "image": "https://booth.pximg.net/c/620x620/81c9f7ab-926e-4c90-b566-e6267805b5ab/i/9015630/fa07d013-40ec-4503-b65c-319d3e3bd576_base_resized.jpg",
+    "icon": "https://miyamotokoubou.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "F0bMt-RbZgY",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/F0bMt-RbZgY/hqdefault.jpg",
+     "name": "空中攻撃ギミック解説"
+    }
+   ]
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、公開されたばかりの空戦ワールド、エーシーオーから始まりました。日曜日は、仲間と出撃してみてはいかがでしょう。",
+   "show": "今日は、公開されたばかりの空戦ワールド「ACO」から始まりました。日曜は仲間と出撃してみては。"
+  },
+  {
+   "say": "アンニュイ ハーフアップヘアのセールは、今夜十一時五十九分まで。気になる人は、お早めに。",
+   "show": "「アンニュイハーフアップヘア」のセールは今夜23:59まで。お早めに。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 266.47,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.897,
+   "show": "ぶいらじです。11月15日日曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 6.147,
+   "end": 11.374,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 12.174,
+   "end": 16.948,
+   "show": "まずは、今日の午前に公開されたばかりの空戦ワールド。",
+   "part": 1
+  },
+  {
+   "start": 17.198,
+   "end": 31.028,
+   "show": "「［ACO］Aerial Campaign Operations」は、空母から発艦し、仲間と協力して戦うPvE空戦ワールド。出撃のたびに機体を強化し、特殊兵装を解放。",
+   "part": 1
+  },
+  {
+   "start": 31.278,
+   "end": 42.043,
+   "show": "地形・任務・敵は毎回自動生成。ボスとエース部隊が待ち受ける。告知ポストは公開から約1時間で1,100いいね超え。",
+   "part": 1
+  },
+  {
+   "start": 42.843,
+   "end": 46.457,
+   "show": "つぎは、人気ゲームワールド「Murder 4」のニュース。",
+   "part": 2
+  },
+  {
+   "start": 46.707,
+   "end": 55.777,
+   "show": "Murder 4は、紛れ込んだ殺人犯を、探偵と一緒に手がかりから突き止めるゲーム。そのMurder 4が日本語に対応。",
+   "part": 2
+  },
+  {
+   "start": 56.027,
+   "end": 63.019,
+   "show": "ロビーの新しい設定で英語と日本語を切り替え。今後ほかの言語も増やしたいとのこと。",
+   "part": 2
+  },
+  {
+   "start": 63.819,
+   "end": 68.674,
+   "show": "推理つながりで、つぎは2人用マーダーミステリーのワールド。",
+   "part": 3
+  },
+  {
+   "start": 68.924,
+   "end": 76.903,
+   "show": "「DevilMay」は、GM不要、2人だけで最後まで遊べるマーダーミステリー。プレイ時間は約60分。",
+   "part": 3
+  },
+  {
+   "start": 77.153,
+   "end": 85.433,
+   "show": "約2万DLのオンラインシナリオをVRChat向けに移植。既プレイの人は観戦も可能。",
+   "part": 3
+  },
+  {
+   "start": 86.233,
+   "end": 92.772,
+   "show": "つぎは景色のワールド「Sanatorium」。Xの紹介ポストは1,700いいね超え。",
+   "part": 4
+  },
+  {
+   "start": 93.022,
+   "end": 103.939,
+   "show": "真っ白な病院の廊下や病室の床一面に、白い花。ベッドや点滴スタンドのまわりにも花が広がり、階段にはつた。",
+   "part": 4
+  },
+  {
+   "start": 104.189,
+   "end": 108.951,
+   "show": "人のいない静かな建物。写真映えするワールド。",
+   "part": 4
+  },
+  {
+   "start": 109.751,
+   "end": 113.98,
+   "show": "ニュースの最後は、家にいながら世界旅行ができるワールド。",
+   "part": 5
+  },
+  {
+   "start": 114.23,
+   "end": 126.446,
+   "show": "「Simple World Travel Portal Hub」は空港ラウンジが拠点。世界地図や国名検索で行き先を選び、ゲート01の搭乗口からみんなで出発。",
+   "part": 5
+  },
+  {
+   "start": 126.696,
+   "end": 130.611,
+   "show": "フレンドとの待ち合わせや雑談にも。",
+   "part": 5
+  },
+  {
+   "start": 131.411,
+   "end": 139.111,
+   "show": "ここからは新作・セールのコーナー。まずは、Xで1,100いいね超えの髪型「SP-010」。",
+   "part": 6
+  },
+  {
+   "start": 139.361,
+   "end": 147.909,
+   "show": "長いツインテールのヘア。スイッチONで左右のテールが広がってプロペラのように回転し、浮遊ポーズに。",
+   "part": 6
+  },
+  {
+   "start": 148.159,
+   "end": 157.368,
+   "show": "回転の軌跡、風、砂ぼこりの演出付き。22体対応、セール中890円。",
+   "part": 6
+  },
+  {
+   "start": 158.168,
+   "end": 161.236,
+   "show": "つぎも髪型「アンニュイハーフアップヘア」。",
+   "part": 7
+  },
+  {
+   "start": 161.486,
+   "end": 172.17,
+   "show": "男女兼用ヘア。男の子には艶やかな色気、女の子には気怠くアンニュイな雰囲気。男女13体に対応。",
+   "part": 7
+  },
+  {
+   "start": 172.42,
+   "end": 180.259,
+   "show": "発売記念セールは今日15日23:59まで、950円→800円。",
+   "part": 7
+  },
+  {
+   "start": 181.059,
+   "end": 183.21,
+   "show": "つぎは衣装「Noct. Cross（ノクターンクロス）」。",
+   "part": 8
+  },
+  {
+   "start": 183.46,
+   "end": 194.364,
+   "show": "真夜中と十字架モチーフの、ゴシック＆地雷系の衣装セット。2色、しなの・マヌカ・輝夜など8体対応。",
+   "part": 8
+  },
+  {
+   "start": 194.614,
+   "end": 202.523,
+   "show": "発売記念で11月21日まで無料配布。BOOTHのスキは3,400超え。",
+   "part": 8
+  },
+  {
+   "start": 203.323,
+   "end": 206.855,
+   "show": "つぎは変身ギミック「Glass Shatter」。",
+   "part": 9
+  },
+  {
+   "start": 207.105,
+   "end": 217.58,
+   "show": "メニューを押すと足元から頭まで全身がガラスに。胸からヒビが走って砕け散り、別の衣装で現れる。",
+   "part": 9
+  },
+  {
+   "start": 217.83,
+   "end": 226.203,
+   "show": "衣装1着までは無料。有料版（700円）は8着まで、氷やステンドグラスなど割れ方4種。",
+   "part": 9
+  },
+  {
+   "start": 227.003,
+   "end": 230.443,
+   "show": "最後は「空中攻撃ギミック【フレンドにドロップキック】」。",
+   "part": 10
+  },
+  {
+   "start": 230.693,
+   "end": 242.294,
+   "show": "ONにするとジャンプが空中攻撃に。前ジャンプでドロップキック、後ろで後ろ回し蹴りなど、方向で5種を出し分け。",
+   "part": 10
+  },
+  {
+   "start": 242.544,
+   "end": 245.913,
+   "show": "足から残像も出せる。700円。",
+   "part": 10
+  },
+  {
+   "start": 246.713,
+   "end": 255.087,
+   "show": "今日は、公開されたばかりの空戦ワールド「ACO」から始まりました。日曜は仲間と出撃してみては。",
+   "part": 11
+  },
+  {
+   "start": 255.337,
+   "end": 262.038,
+   "show": "「アンニュイハーフアップヘア」のセールは今夜23:59まで。お早めに。",
+   "part": 11
+  },
+  {
+   "start": 262.288,
+   "end": 265.669,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.174
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.174,
+   "end": 42.843
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 42.843,
+   "end": 63.819
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 63.819,
+   "end": 86.233
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 86.233,
+   "end": 109.751
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 109.751,
+   "end": 131.411
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 131.411,
+   "end": 158.168
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 158.168,
+   "end": 181.059
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 181.059,
+   "end": 203.323
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 203.323,
+   "end": 227.003
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 227.003,
+   "end": 246.713
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 246.713,
+   "end": 266.469
+  }
+ ],
+ "made_at": "2026-11-15T12:46:41"
+}

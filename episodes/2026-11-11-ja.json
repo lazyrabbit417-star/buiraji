@@ -1,0 +1,724 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-11",
+ "lang": "ja",
+ "title": "VRChatのワールドに「Like」、Questのサブスクは改名？",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月十一日、水曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月11日水曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "VRChat、ワールドに「Like」ボタン",
+   "points": [
+    "オープンベータ2026.4.2で、ワールドにLikeとDislike",
+    "Likeはおすすめに反映、Dislikeは公開されない",
+    "Live Nowやインスタンス作成も新しく"
+   ],
+   "url": "https://www.moguravr.com/vrchat-2026-4-2-open-beta/",
+   "lines": [
+    {
+     "say": "まずは、ブイアールチャットの新しいオープンベータです。エックスでも、公式の告知が二十二万回以上見られています。",
+     "show": "まずは、VRChatの新しいオープンベータ。公式の告知はXで22万回以上表示。"
+    },
+    {
+     "say": "新しいバージョンで、ワールドに、ライクとディスライクのボタンが付きました。ライクは、おすすめの精度に生かされて、ディスライクは公開されません。",
+     "show": "2026.4.2で、ワールドにLike・Dislikeボタン。Likeはおすすめに反映、Dislikeは非公開。"
+    },
+    {
+     "say": "運営は、作品をおとしめるためではなく、好みのワールドに出会うための機能だと説明しています。いま、ひとが集まっているインスタンスを、テーマ別に見られるライブナウも新しくなりました。",
+     "show": "「作品をおとしめるためではなく、好みのワールドに出会うため」と運営。Live Nowもテーマ別に刷新。"
+    }
+   ],
+   "details": [
+    "VRChatが11月10日、バージョン2026.4.2のオープンベータを公開しました（MoguLive）。VRChat日本語公式のXの告知は、11日朝の時点で1,000以上のいいねと22万回以上の表示を集めています。",
+    "Live Nowでは、人の集まっているインスタンスが「新しい人と出会う」「ゲームで遊ぶ」などのテーマ別に並び、混雑度や使用言語を前もって確かめられます。インスタンスの名前付けはVRC+なしで全員に開放。説明文や言語、カテゴリー、最大3つのVibesも設定できます。",
+    "6日にお伝えした、パブリックインスタンスの所有者の仕組みもこの版から。UIの新しいカラーパレットが既定になり、デスクトップ向けには、マウスの中ボタンのドラッグで腕を動かすAnalog Armが試験的に入りました。"
+   ],
+   "link": {
+    "url": "https://www.moguravr.com/vrchat-2026-4-2-open-beta/",
+    "title": "VRChatオープンベータ（2026.4.2）公開、ワールドに対するLikeとDislikeボタンを追加",
+    "site": "MoguLive",
+    "description": "11月10日、VRChatはバージョン2026.4.2のオープンベータを公開しました。 主な変更点は、ワールドに対するLikeとDislikeボタンの追加です。気に入ったワールドにLikeを押すと、今後のおすすめ精度の向 […]",
+    "image": "https://assets.moguravr.com/uploads/2026/11/9e7768d040a310ed73f6bf9248b48031-kix.641o6va566gb.webp",
+    "icon": "https://www.moguravr.com/app/themes/moguravr4/img/icon-512-live.png"
+   }
+  },
+  {
+   "label": "Questのサブスク、「Meta VR+」に？",
+   "points": [
+    "Horizon+が「Meta VR+」に名前を変えるとの報道",
+    "3D映画も入る見込み",
+    "Horizon OS 2.10のデータから見つかる"
+   ],
+   "url": "https://roadtovr.com/meta-rebrand-horizon-plus-meta-vr-glasses/",
+   "lines": [
+    {
+     "say": "つぎは、メタクエストのゲームのサブスク、ホライゾンプラスの話題です。",
+     "show": "つぎは、Meta Questのゲームのサブスク「Horizon+」。"
+    },
+    {
+     "say": "ホライゾンプラスが、メタ ブイアール プラスという名前に変わり、3Dの映画も加わるかもしれない、と海外で報じられています。",
+     "show": "Horizon+が「Meta VR+」に名前を変え、3D映画も加わるかもしれない、と海外で報道。"
+    },
+    {
+     "say": "最新のホライゾンオーエスの中から見つかった画像には、ガーディアンズ・オブ・ギャラクシーや、プロジェクト・ヘイル・メアリーなどが並んでいるそうです。",
+     "show": "最新のHorizon OSから見つかった画像には、『ガーディアンズ・オブ・ギャラクシー』『プロジェクト・ヘイル・メアリー』など。"
+    }
+   ],
+   "details": [
+    "Road to VRによると、10月末から配信中のHorizon OS 2.10のデータから、データマイナーが「Meta VR+」と書かれた画像を見つけました。",
+    "画像には『ガーディアンズ・オブ・ギャラクシー VOLUME 3』『プロジェクト・ヘイル・メアリー』『スパイダーマン：ファー・フロム・ホーム』が並んでいます。配給はそれぞれ別の会社で、Metaが作品ごとに契約している可能性があります。",
+    "Metaは9月、Disney+の3D映画をMeta VR Glasses向けに提供すると発表していました。名前の変更は、まだ公式には発表されていません。"
+   ],
+   "link": {
+    "url": "https://roadtovr.com/meta-rebrand-horizon-plus-meta-vr-glasses/",
+    "title": "Meta Reportedly Rebranding Horizon+ to 'Meta VR+', Adding Popular 3D Films to Game Service",
+    "site": "Road to VR",
+    "description": "Meta may soon rebrand Horizon+, its VR game subscription service for Quest, to ‘Meta VR+’, as the company appears to be bundling a number of 3D films to better appeal to Meta VR Glasses owners. Ostensibly sourced from the latest HorizonOS 2.10 release which began rolling out late last month, dataminer ‘NT2182’ (via ‘NoriDoesVR’) has […]",
+    "image": "https://roadtovr.com/wp-content/uploads/2026/11/disney-plus-star-wars.jpg",
+    "icon": "https://roadtovr.com/wp-content/uploads/2026/05/rtovr-logo-2-1-2-e1780063132559.png"
+   }
+  },
+  {
+   "label": "雪玉を作って投げる「Snowball VR」",
+   "points": [
+    "Quest向け、12月発売、19.99ドル",
+    "手で雪をすくって雪玉を作り、腕で投げる",
+    "無料の体験版あり"
+   ],
+   "url": "https://www.moguravr.com/snowball-vr-capture-the-star/",
+   "lines": [
+    {
+     "say": "つぎは、冬にぴったりのブイアールゲームです。",
+     "show": "つぎは、冬にぴったりのVRゲーム。"
+    },
+    {
+     "say": "スノーボール ブイアールは、自分の手で雪をすくって雪玉を作り、腕を振って投げる、雪合戦のアドベンチャー。片手ならすばやく一球、両手を使えば、かたい雪玉が作れます。",
+     "show": "『Snowball VR』は、手で雪をすくって雪玉を作り、腕で投げる雪合戦アドベンチャー。両手なら固い雪玉に。"
+    },
+    {
+     "say": "クエスト向けに十二月に発売で、無料の体験版が、もう遊べます。",
+     "show": "Quest向けに12月発売。無料の体験版あり。"
+    }
+   ],
+   "details": [
+    "ソロ開発者のStrange Euphoria XRが、Meta Quest向けの『Snowball VR: Capture the Star』を2026年12月に発売します。一人用の冬のVRアドベンチャーで、価格は19.99ドル（MoguLive）。",
+    "飛んでくる雪玉をよけ、遮蔽物の間を動いて投げる間合いを探ります。能力の違う2つのミトン「Thunder」「Blizzard」や、ツルハシで氷を割る場面、そりで山道を下る展開もあります。",
+    "体験版では、村とトレーナーのレッスン、森までを遊べます。テキストと字幕は14言語に対応しています。"
+   ],
+   "link": {
+    "url": "https://www.moguravr.com/snowball-vr-capture-the-star/",
+    "title": "【Meta Quest】雪合戦VRゲーム『Snowball VR』、2026年12月に発売",
+    "site": "MoguLive",
+    "description": "Strange Euphoria XRは、Meta Quest向けのVRゲーム『Snowball VR: Capture the Star』を2026年12月に発売します。一人用の冬のVRアドベンチャーで、価格は19.9 […]",
+    "image": "https://assets.moguravr.com/uploads/2026/11/7dfca9535f0741ca0f9e9c4d3d0ca4a2-kix.e1ln4124jg60.webp",
+    "icon": "https://www.moguravr.com/app/themes/moguravr4/img/icon-512-live.png"
+   },
+   "youtube": [
+    "xmBMzcxVVY8"
+   ],
+   "videos": [
+    {
+     "youtube": "xmBMzcxVVY8",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/xmBMzcxVVY8/hqdefault.jpg",
+     "name": "Snowball VR: Capture the Star — トレーラー | Meta Quest | JA"
+    }
+   ]
+  },
+  {
+   "label": "Quest版アバターを自動で「QuestAssist 2.0」",
+   "points": [
+    "PC向けアバターを、Quest・Android向けに自動変換",
+    "見た目を基準に、残すところを決めて軽くする",
+    "無料版あり、製品版は1,500円"
+   ],
+   "url": "https://www.moguravr.com/questassist-2-0-release/",
+   "lines": [
+    {
+     "say": "つぎは、アバターを作る人向けのツールです。",
+     "show": "つぎは、アバターを作る人向けのツール。"
+    },
+    {
+     "say": "クエストアシストは、パソコン向けのブイアールチャットのアバターを、クエストやアンドロイドで見られる軽さに、自動で変換するユニティの拡張です。バージョン二で、ポリゴンを減らす仕組みを作り直しました。",
+     "show": "「QuestAssist」は、PC向けアバターをQuest・Android向けに自動変換するUnity拡張。2.0で削減の仕組みを一新。"
+    },
+    {
+     "say": "顔や手、輪郭など、よく見られるところを残しながら軽くするので、元の見た目とのずれが、前の版の半分ほどになったそうです。無料版もあります。",
+     "show": "顔・手・輪郭など見え方を基準に残す。元の見た目とのずれは前の版の約半分に。無料版あり。"
+    }
+   ],
+   "details": [
+    "NoLogic Labが11月10日、BOOTHで公開しました（MoguLive）。元のアバターは書き換えず、仕上がりは見た目優先・バランス・軽さ優先の3段階から選べます。",
+    "Quest・Android版のVRChatは、初期設定ではMedium以上のアバターしか表示できません。2.0では、腕を前に出す・座るといったポーズでも確かめながら削ります。テスト用アバター17体で、元の見た目とのずれが1.2の約半分になりました。",
+    "揺れものの番号をPC版に合わせて保存するので、PC版を上げ直さなくても動きがそろいます。価格は無料版0円、応援版500円、製品版1,500円。購入済みの人は追加料金なしで2.0を入手できます。"
+   ],
+   "link": {
+    "url": "https://www.moguravr.com/questassist-2-0-release/",
+    "title": "VRChat向け3DアバターのMeta Quest版変換を自動化、Unityエディタ拡張「QuestAssist 2.0」が公開",
+    "site": "MoguLive",
+    "description": "11月10日、NoLogic LabがUnityエディタ拡張「QuestAssist 2.0」をBOOTHで公開しました。PC向けに作られたVRChatのアバターを、Quest・Android向けのランクへ自動で変換する […]",
+    "image": "https://assets.moguravr.com/uploads/2026/11/9b1248f3d2105f731e0c0977b58fb09c-kix.b51nz3k7f80s.webp",
+    "icon": "https://www.moguravr.com/app/themes/moguravr4/img/icon-512-live.png"
+   }
+  },
+  {
+   "label": "歩いて異界を調査「Mobilis Frontier」",
+   "points": [
+    "YouTubeの「遷移圏見聞録」が原作のフリーローム型XR",
+    "有楽町の会場は23分で完売",
+    "12月5日から天王洲アイルでも"
+   ],
+   "url": "https://panora.tokyo/archives/162627",
+   "lines": [
+    {
+     "say": "ニュースの最後は、ゴーグルを着けて歩き回る、フリーローム型の体験です。",
+     "show": "ニュースの最後は、ゴーグルを着けて歩き回るフリーローム型XR。"
+    },
+    {
+     "say": "ユーチューブチャンネル、せんいけんけんぶんろくの世界を舞台にした、モビリス フロンティア。調査員になって、自分の足で、異界の未踏の地を調べます。",
+     "show": "YouTube『遷移圏見聞録』の世界が舞台の「Mobilis Frontier 追憶の忘都」。調査員として異界を歩いて調べる。"
+    },
+    {
+     "say": "十三日からの有楽町の会場は、二十三分で全日程が売り切れ。十二月五日からは、天王洲アイルのカフェでも開かれます。チケットは十七日の夜八時からです。",
+     "show": "13日からの有楽町会場は23分で完売。12月5日から天王洲アイルでも開催、チケットは17日20時から。"
+    }
+   ],
+   "details": [
+    "アルファコードが、株式会社第九のオリジナルIP「遷移圏見聞録」を原作にしたXR体験を、12月5日〜25日に天王洲アイルの「WHAT CAFE」で開きます（PANORA）。",
+    "「遷移圏見聞録」は、異世界「遷移圏」での日常を記録する、登録者約38万人のYouTubeチャンネル。会場では、作中の「キレ葉茶」を再現した3種の飲み比べもあります。",
+    "第1弾の有楽町マルイ8F（11月13日〜）は、販売開始から23分で全日程が完売。天王洲アイルのチケットは11月17日20時からアソビュー！で販売します。"
+   ],
+   "link": {
+    "url": "https://panora.tokyo/archives/162627",
+    "title": "遷移圏見聞録の世界を歩くフリーローム型XR「Mobilis Frontier 追憶の忘都」、天王洲アイル「WHAT CAFE」で12/5より開催 | PANORA",
+    "site": "PANORA",
+    "description": "株式会社アルファコード 株式会社アルファコードは、株式会社第九が展開するオリジナルIP「遷移圏見聞録」を原作としたXR体験「Mobilis Frontier 追憶の忘都」を、2026年12月5日(土)から12月25日(金",
+    "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/10180308/33753-136-81f50134b8f84f0c3deb409b4ea86ea8-1920x1080-1.webp",
+    "icon": "https://panora.tokyo/asset/uploads/2019/08/cropped-logo_panora_kb_sq_512x512-180x180.png"
+   },
+   "youtube": [
+    "FHvix13bILs"
+   ],
+   "videos": [
+    {
+     "youtube": "FHvix13bILs",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/FHvix13bILs/hqdefault.jpg",
+     "name": "【MobilisFrontier始動】有楽町マルイ 8Fに遷移口が出現！"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "金色の玉のアバター「きんまる」、無料",
+   "points": [
+    "金色の玉に、黒くて細い手足",
+    "しゃべるとプルプル、引っぱると伸びる",
+    "無料、PCとQuestに対応"
+   ],
+   "url": "https://booth.pm/ja/items/9128867",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、無料のアバター、きんまる。",
+     "show": "ここからは新作・セールのコーナー。まずは無料のアバター「きんまる」。"
+    },
+    {
+     "say": "金色の玉に、黒くて細い手足が生えた、ちょっと不思議なアバターです。しゃべると玉がプルプル震えて、つかんで引っぱると、伸びてプルンと戻ります。",
+     "show": "金色の玉に細い手足が生えたアバター。しゃべるとプルプル、引っぱると伸びてプルンと戻る。"
+    },
+    {
+     "say": "手足をしまうと、玉だけになって、歩くとコロコロ転がります。パソコンとクエストに対応しています。",
+     "show": "手足をしまうと玉だけになり、歩くとコロコロ転がる。PC・Quest対応。"
+    }
+   ],
+   "details": [
+    "ショップは「あったらいいなぁ」。8日に紹介した身代わり土下座ギミックと同じショップです。",
+    "あたたかい金色に光り、明るさはダイヤルで変えられます。VRChat標準のエモートも使えます。",
+    "パフォーマンスランクはPCがPoor（光るギミックのライトのため）、QuestがMedium。BOOTHのスキは1日で180を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9128867",
+    "title": "【無料・PC/Quest対応】きんまる【VRChat アバター】 - あったらいいなぁ - BOOTH",
+    "site": "booth.pm",
+    "description": "金色の玉に、黒くて細い手足が生えた VRChat 用アバターです。無料でお使いいただけます。 ・喋ると玉がプルプル震えます ・玉をつかんで引っぱると伸びて、離すとプルンと戻ります ・手足をしまうと玉だけになり、歩くとコロコロ転がります ・あたたかい金色に光ります（明るさはダイヤルで変えられます） ・VRChat 標準のエモートが使えます PC / Quest 対応 パフォーマンスランク　PC：Poor（光るギミックのライトのため）　Quest：Medium ポリゴン数　6,280 【動作環境】 VRChat SDK - Avatars 3.10.6 以降 Modular Avatar",
+    "image": "https://booth.pximg.net/c/620x620/2a388062-805d-40c5-9654-379818776e8f/i/9128867/ef8c69af-c0be-4182-8aea-278395fb34f7_base_resized.jpg",
+    "icon": "https://mitubayua.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "D0a6SPI0Efc",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/D0a6SPI0Efc/hqdefault.jpg",
+     "name": "【VRChat】きんまる【無料・PC/Quest対応】"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "背中から機械の脚「Octo Legs」",
+   "points": [
+    "背中のユニットから、4本の機械脚",
+    "脚が自動で歩く",
+    "発売から5日間は900円"
+   ],
+   "url": "https://booth.pm/ja/items/9127259",
+   "lines": [
+    {
+     "say": "つぎは、背中に背負うギミック、オクトレッグス。",
+     "show": "つぎは、背負うギミック「Octo Legs」。"
+    },
+    {
+     "say": "背中のユニットから、四本の機械の脚が広がって、自分で歩いてくれます。発売から五日間は、九百円です。",
+     "show": "背中のユニットから4本の機械脚が広がり、自動で歩く。発売から5日間は900円。"
+    }
+   ],
+   "details": [
+    "ショップはDiNe Shop。背中のユニットから4本の機械脚が展開し、自動で歩きます。",
+    "発売記念で5日間は900円、その後は1,200円です。BOOTHのスキは1日で430を超えました。",
+    "商品ページには、韓国語・英語・日本語の説明と紹介動画があります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9127259",
+    "title": "Octo Legs ─ Procedural Walking Legs for VRChat【Launch SALE】 - DiNe Shop - BOOTH",
+    "site": "booth.pm",
+    "description": "━━━━━━━━━━━━━━━━━━━━ 　　O C T O L E G S ━━━━━━━━━━━━━━━━━━━━ 등에 멘 유닛에서 기계 다리 네 개가 펼쳐져 스스로 걷습니다. Four mechanical legs unfold from a back unit and walk on their own. 背中のユニットから4本の機械脚が展開し、自動で歩きます。 🎉 Launch Sale — 900 JPY (5 days) → 1,200 JPY",
+    "image": "https://booth.pximg.net/c/620x620/cfc372e9-7eef-4663-984b-93d62c31e1f3/i/9127259/f880d846-b84c-4fb7-aca0-5cc44cb01abe_base_resized.jpg",
+    "icon": "https://dineshop.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "bTeBaKUP15k",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/bTeBaKUP15k/hqdefault.jpg",
+     "name": "Octo Legs ─ Procedural Walking Legs for VRChat"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "魔法陣で登場・着替え「ArcaneGate」",
+   "points": [
+    "魔法陣と光の柱で、消える・登場する・着替える",
+    "手を上げて、パーからグーで発動",
+    "700円、無料のLite版あり"
+   ],
+   "url": "https://booth.pm/ja/items/9126979",
+   "lines": [
+    {
+     "say": "つぎは、魔法陣のエフェクト、アーケインゲート。",
+     "show": "つぎは、魔法陣のエフェクト「ArcaneGate」。"
+    },
+    {
+     "say": "魔法陣と光の柱が現れて、その中で消えたり、登場したり、衣装を着替えたりできます。頭の上に手を上げて、パーからグーにすると発動します。",
+     "show": "魔法陣と光の柱の中で、消える・登場・衣装チェンジ。手を上げて、パー→グーで発動。"
+    },
+    {
+     "say": "値段は七百円で、無料のライト版もあります。",
+     "show": "700円。無料のLite版もあり。"
+    }
+   ],
+   "details": [
+    "ショップは「ハルや」。右手で着替え、左手で消える、のように、手ごとに動作と手の形を選べます。アバター変更やワールド入室のときに、光の柱から登場することもできます。",
+    "色は8色と好きな色。身長に合わせて大きさを自動調整し、効果音もつきます。衣装は何着でも登録できます。",
+    "PC版専用。無料のLite版は、頭上の魔法陣とジェスチャーを省いた軽い版です。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9126979",
+    "title": "【MA対応】魔法陣ゲート ArcaneGate ― 登場・消失・衣装チェンジエフェクト - ハルや - BOOTH",
+    "site": "booth.pm",
+    "description": "VRChat アバター用の魔法陣エフェクトです。 魔法陣と光の柱が出て、その中で消える・登場する・衣装を変えることができます。 メニューのほか、頭の上に手を上げて「パー → グー」のジェスチャーでも発動します。 ▼ ジェスチャーで発動（完全版・VR） 右手で着替え、左手で消える。 ① 頭の上に手を上げて、パー → ためる ② グー → 光の柱が落ちて発動 ③ 手を下ろせばキャンセル 手ごとに、動作（着替え／消える・現れる／光の柱だけ／使わない）と手の形を選べます。 ▼ できること ・消える／登場：メニューのトグルで、光の柱の中に消え、また現れます",
+    "image": "https://booth.pximg.net/c/620x620/046750dc-b7bb-428b-a604-d98a501bcd98/i/9126979/2bccb57b-d568-4cbb-9bdf-6e764ce8959d_base_resized.jpg",
+    "icon": "https://doumyouji.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "m7lCpxXJ2HA",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/m7lCpxXJ2HA/hqdefault.jpg",
+     "name": "【VRChat 】魔法陣と光の柱で登場・消失・衣装チェンジ"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "髪を結んだりほどいたり、無料",
+   "points": [
+    "髪を結ぶ・ほどくを切り替えるギミック",
+    "切り替え用の髪は自分で用意",
+    "無料（支援版200円）"
+   ],
+   "url": "https://booth.pm/ja/items/9088115",
+   "lines": [
+    {
+     "say": "つぎは、無料のギミック、髪結びギミック。",
+     "show": "つぎは、無料の「髪結びギミック」。"
+    },
+    {
+     "say": "髪を結んだり、ほどいたりするように、切り替えられます。切り替え用の髪は、自分で用意する必要がありますが、少しの設定で使えます。",
+     "show": "髪を結ぶ・ほどくを切り替え。切り替え用の髪は自分で用意、少しの設定で使える。"
+    }
+   ],
+   "details": [
+    "ショップは旗幟屋。アバターに入れて、少しコンポーネントを設定すれば使えます。",
+    "切り替える前提の髪か、髪のキメラの用意が必要です。髪のモデルは入っていません。",
+    "通常版は無料、作者支援版（おまけ付き）は200円。動作紹介と導入方法の動画があります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9088115",
+    "title": "【無料】髪結びギミック - 旗幟屋 - BOOTH",
+    "site": "booth.pm",
+    "description": "髪を結んだりほどいたりするように変更できるギミックです アバターに入れ少しコンポーネントの設定をすれば簡単に使えます 切り替える前提の髪か、髪のキメラの用意が必要なギミックになっています 切り替えギミックのみで、髪モデルなどは入っていません",
+    "image": "https://booth.pximg.net/c/620x620/b5a0313a-4067-4fc3-8081-514b71a8dcfa/i/9088115/2e2e4a17-3e99-42ba-b596-080a8117a476_base_resized.jpg",
+    "icon": "https://hataori.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "PCLyBKgK7j8",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/PCLyBKgK7j8/hqdefault.jpg",
+     "name": "髪結びギミック 動作紹介・導入方法"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ソルトの表情をフェイストラッキングで",
+   "points": [
+    "人気アバター「ソルト」向けのアドオン",
+    "フェイストラッキングで表情が動く",
+    "4,500円、デモ動画あり"
+   ],
+   "url": "https://booth.pm/ja/items/9124360",
+   "lines": [
+    {
+     "say": "最後は、人気のアバター、ソルトを、フェイストラッキングに対応させるアドオンです。",
+     "show": "最後は、アバター「ソルト」をフェイストラッキング対応にするアドオン。"
+    },
+    {
+     "say": "顔の動きに合わせて、ソルトの表情が動くようになります。値段は四千五百円で、紹介の動画もありますよ。",
+     "show": "顔の動きに合わせてソルトの表情が動く。4,500円、デモ動画あり。"
+    }
+   ],
+   "details": [
+    "ショップはhashedits。ソルト（Salt）向けのフェイストラッキング・アドオンです。",
+    "商品ページには、日本語・英語・フランス語の説明と、デモ動画が載っています。SNSで #HashFT を付けて作品を共有してほしい、とのこと。",
+    "BOOTHのスキは1日で190を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9124360",
+    "title": "ソルト/Salt - Face Tracking Add-on - hashedits - BOOTH",
+    "site": "booth.pm",
+    "description": "A face tracking Add-on for Salt (description in Japanese, English and French below) Demo videos: https://youtu.be/-_w69P9ghb8 https://www.youtube.com/shorts/kl4tO4w-VZs Feel free to share your creations with #HashFT on social media!",
+    "image": "https://booth.pximg.net/c/620x620/110dceb8-feef-45b1-b750-ac144404130b/i/9124360/47bf25d5-6f93-4d7e-a2d9-bac09941f639_base_resized.jpg",
+    "icon": "https://hashedits.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "kl4tO4w-VZs",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/kl4tO4w-VZs/hqdefault.jpg",
+     "name": "Salt/ソルト - Face Tracking Add-on #hashft #vrchat"
+    },
+    {
+     "youtube": "-_w69P9ghb8",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/-_w69P9ghb8/hqdefault.jpg",
+     "name": "Salt/ソルト - Face Tracking Add-on"
+    }
+   ]
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、ブイアールチャットのワールドに付いた、ライクボタンの話題から始まりました。",
+   "show": "今日は、VRChatのワールドに付いた「Like」ボタンから始まりました。"
+  },
+  {
+   "say": "オクトレッグスの発売記念価格は、発売から五日間です。気になる人は、お早めに。",
+   "show": "「Octo Legs」の発売記念価格は5日間。お早めに。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 238.11,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.92,
+   "show": "ぶいらじです。11月11日水曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 6.17,
+   "end": 11.397,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 12.197,
+   "end": 19.711,
+   "show": "まずは、VRChatの新しいオープンベータ。公式の告知はXで22万回以上表示。",
+   "part": 1
+  },
+  {
+   "start": 19.961,
+   "end": 29.264,
+   "show": "2026.4.2で、ワールドにLike・Dislikeボタン。Likeはおすすめに反映、Dislikeは非公開。",
+   "part": 1
+  },
+  {
+   "start": 29.514,
+   "end": 41.776,
+   "show": "「作品をおとしめるためではなく、好みのワールドに出会うため」と運営。Live Nowもテーマ別に刷新。",
+   "part": 1
+  },
+  {
+   "start": 42.576,
+   "end": 47.06,
+   "show": "つぎは、Meta Questのゲームのサブスク「Horizon+」。",
+   "part": 2
+  },
+  {
+   "start": 47.31,
+   "end": 55.835,
+   "show": "Horizon+が「Meta VR+」に名前を変え、3D映画も加わるかもしれない、と海外で報道。",
+   "part": 2
+  },
+  {
+   "start": 56.085,
+   "end": 65.074,
+   "show": "最新のHorizon OSから見つかった画像には、『ガーディアンズ・オブ・ギャラクシー』『プロジェクト・ヘイル・メアリー』など。",
+   "part": 2
+  },
+  {
+   "start": 65.874,
+   "end": 68.755,
+   "show": "つぎは、冬にぴったりのVRゲーム。",
+   "part": 3
+  },
+  {
+   "start": 69.005,
+   "end": 81.141,
+   "show": "『Snowball VR』は、手で雪をすくって雪玉を作り、腕で投げる雪合戦アドベンチャー。両手なら固い雪玉に。",
+   "part": 3
+  },
+  {
+   "start": 81.391,
+   "end": 86.188,
+   "show": "Quest向けに12月発売。無料の体験版あり。",
+   "part": 3
+  },
+  {
+   "start": 86.988,
+   "end": 89.882,
+   "show": "つぎは、アバターを作る人向けのツール。",
+   "part": 4
+  },
+  {
+   "start": 90.132,
+   "end": 102.325,
+   "show": "「QuestAssist」は、PC向けアバターをQuest・Android向けに自動変換するUnity拡張。2.0で削減の仕組みを一新。",
+   "part": 4
+  },
+  {
+   "start": 102.575,
+   "end": 112.574,
+   "show": "顔・手・輪郭など見え方を基準に残す。元の見た目とのずれは前の版の約半分に。無料版あり。",
+   "part": 4
+  },
+  {
+   "start": 113.374,
+   "end": 118.252,
+   "show": "ニュースの最後は、ゴーグルを着けて歩き回るフリーローム型XR。",
+   "part": 5
+  },
+  {
+   "start": 118.502,
+   "end": 128.536,
+   "show": "YouTube『遷移圏見聞録』の世界が舞台の「Mobilis Frontier 追憶の忘都」。調査員として異界を歩いて調べる。",
+   "part": 5
+  },
+  {
+   "start": 128.786,
+   "end": 140.422,
+   "show": "13日からの有楽町会場は23分で完売。12月5日から天王洲アイルでも開催、チケットは17日20時から。",
+   "part": 5
+  },
+  {
+   "start": 141.222,
+   "end": 146.577,
+   "show": "ここからは新作・セールのコーナー。まずは無料のアバター「きんまる」。",
+   "part": 6
+  },
+  {
+   "start": 146.827,
+   "end": 156.698,
+   "show": "金色の玉に細い手足が生えたアバター。しゃべるとプルプル、引っぱると伸びてプルンと戻る。",
+   "part": 6
+  },
+  {
+   "start": 156.948,
+   "end": 163.522,
+   "show": "手足をしまうと玉だけになり、歩くとコロコロ転がる。PC・Quest対応。",
+   "part": 6
+  },
+  {
+   "start": 164.322,
+   "end": 167.749,
+   "show": "つぎは、背負うギミック「Octo Legs」。",
+   "part": 7
+  },
+  {
+   "start": 167.999,
+   "end": 176.001,
+   "show": "背中のユニットから4本の機械脚が広がり、自動で歩く。発売から5日間は900円。",
+   "part": 7
+  },
+  {
+   "start": 176.801,
+   "end": 179.997,
+   "show": "つぎは、魔法陣のエフェクト「ArcaneGate」。",
+   "part": 8
+  },
+  {
+   "start": 180.247,
+   "end": 190.443,
+   "show": "魔法陣と光の柱の中で、消える・登場・衣装チェンジ。手を上げて、パー→グーで発動。",
+   "part": 8
+  },
+  {
+   "start": 190.693,
+   "end": 193.969,
+   "show": "700円。無料のLite版もあり。",
+   "part": 8
+  },
+  {
+   "start": 194.769,
+   "end": 198.011,
+   "show": "つぎは、無料の「髪結びギミック」。",
+   "part": 9
+  },
+  {
+   "start": 198.261,
+   "end": 207.54,
+   "show": "髪を結ぶ・ほどくを切り替え。切り替え用の髪は自分で用意、少しの設定で使える。",
+   "part": 9
+  },
+  {
+   "start": 208.34,
+   "end": 213.521,
+   "show": "最後は、アバター「ソルト」をフェイストラッキング対応にするアドオン。",
+   "part": 10
+  },
+  {
+   "start": 213.771,
+   "end": 221.482,
+   "show": "顔の動きに合わせてソルトの表情が動く。4,500円、デモ動画あり。",
+   "part": 10
+  },
+  {
+   "start": 222.282,
+   "end": 227.324,
+   "show": "今日は、VRChatのワールドに付いた「Like」ボタンから始まりました。",
+   "part": 11
+  },
+  {
+   "start": 227.574,
+   "end": 233.683,
+   "show": "「Octo Legs」の発売記念価格は5日間。お早めに。",
+   "part": 11
+  },
+  {
+   "start": 233.933,
+   "end": 237.314,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.197
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.197,
+   "end": 42.576
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 42.576,
+   "end": 65.874
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 65.874,
+   "end": 86.988
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 86.988,
+   "end": 113.374
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 113.374,
+   "end": 141.222
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 141.222,
+   "end": 164.322
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 164.322,
+   "end": 176.801
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 176.801,
+   "end": 194.769
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 194.769,
+   "end": 208.34
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 208.34,
+   "end": 222.282
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 222.282,
+   "end": 238.114
+  }
+ ],
+ "made_at": "2026-11-11T10:10:27"
+}

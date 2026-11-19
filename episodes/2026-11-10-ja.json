@@ -1,0 +1,736 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "ja",
+ "title": "「囚人のジレンマ」とホラー旅館、PAYDAYは無料追加",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月十日、火曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月10日火曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "信じるか、裏切るか「囚人のジレンマ」",
+   "points": [
+    "ゲーム理論の「囚人のジレンマ」を体験できるミニゲーム",
+    "2〜16人で、4人以上がおすすめ。1回10分ほど",
+    "告知ポストは5,000いいね・27万回表示"
+   ],
+   "url": "https://x.com/wing_ap/status/2119556074164609507",
+   "lines": [
+    {
+     "say": "まずは、エックスで大きな話題になっている、新しいゲームワールドです。",
+     "show": "まずは、Xで大きな話題の新しいゲームワールド。"
+    },
+    {
+     "say": "囚人のジレンマは、心理学や経済学で知られる、ゲーム理論を体験できるミニゲーム。あなたが信じた相手は、あなたを信じているでしょうか。",
+     "show": "「囚人のジレンマ」は、ゲーム理論を体験できるミニゲーム。あなたが信じた相手は、あなたを信じている？"
+    },
+    {
+     "say": "二人から十六人で遊べて、四人以上がおすすめ。十分ほどで遊べて、クエストにも対応しています。告知のポストは、二十七万回以上見られています。",
+     "show": "2〜16人（4人以上推奨）、10分ほど。Quest対応。告知ポストは27万回以上表示。"
+    }
+   ],
+   "details": [
+    "作者はWingさん。11月9日の朝にXで公開を知らせ、告知ポストは10日朝の時点で5,000以上のいいねと、27万回以上の表示を集めています。",
+    "心理学・経済学の「ゲーム理論」で知られる「囚人のジレンマ」を体験できるミニゲームです。1回10分ほどで遊べます。",
+    "遊べる人数は2〜16人。ゲーム性が出てくるのは4人以上からで、Questにも対応しています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_bb58ce9d-e9f2-49fa-9242-58b9f22df03d/info",
+    "title": "Prisoner's dilemma by Wing_",
+    "site": "VRChat",
+    "description": "You trust your opponent․ Do they trust you? The Prisoners Dilemma mini-game․ （2-16 players · 4＋ rec）․ あなたが信じた相手は、あなたを信じていますか？心理学ミニゲーム「囚人のジレンマ」（2～16人・4人以上推奨）",
+    "image": "https://api.vrchat.cloud/api/1/file/file_9240a248-f81c-43b5-97c7-182bafc39426/3/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/wing_ap/status/2119556074164609507",
+    "site": "X",
+    "title": "Wing（@wing_ap）：新作ゲムワ「囚人のジレンマ」"
+   }
+  },
+  {
+   "label": "旅館を探索するホラー「霜憑旅館」",
+   "points": [
+    "旅館の中を探索するホラーワールド",
+    "20分〜1時間半ほどのボリューム",
+    "告知ポストは1,200いいね"
+   ],
+   "url": "https://x.com/luna_starbud03/status/2119776277024677900",
+   "lines": [
+    {
+     "say": "つぎも、エックスで話題の新しいワールド。ホラーワールドの、しもつき旅館です。",
+     "show": "つぎも、Xで話題の新しいワールド。ホラーワールド「霜憑旅館」。"
+    },
+    {
+     "say": "古い旅館の中を探索していく、ホラーのワールドで、遊びきるには、二十分から一時間半ほど。公開の知らせには、千二百を超えるいいねが付いています。",
+     "show": "旅館の中を探索するホラーワールド。ボリュームは20分〜1時間半ほど。告知には1,200超えのいいね。"
+    }
+   ],
+   "details": [
+    "作者は星蕾（@luna_starbud03）さん。11月9日の夜にXで公開を知らせ、告知ポストには10日朝の時点で1,200以上のいいねが付いています。",
+    "ワールドの説明は「旅館内を探索するホラーワールドです。20分~1時間半程度のボリュームです」。英語のワールド名は「Shimotsuki Ryokan」です。",
+    "告知ポストには、旅館の中を進む映像が付いています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_cf700fb7-7409-475e-9dfc-8ca0718304ec/info",
+    "title": "霜憑旅館 -Shimotsuki Ryokan- by RuuStarbd03",
+    "site": "VRChat",
+    "description": "旅館内を探索するホラーワールドです。 20分~1時間半程度のボリュームです。",
+    "image": "https://api.vrchat.cloud/api/1/file/file_791f60e5-fcea-4c07-8ada-fc37fd2b1a03/3/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/luna_starbud03/status/2119776277024677900",
+    "site": "X",
+    "title": "星蕾（@luna_starbud03）：ホラーワールド 霜憑旅館 公開しました"
+   }
+  },
+  {
+   "label": "「PAYDAY: Aces High」新ミッションは無料",
+   "points": [
+    "ミッションのやり直し・中断を追加",
+    "12月14日に新ミッション「Coup de Grâce」",
+    "これからのミッションはすべて無料"
+   ],
+   "url": "https://www.uploadvr.com/payday-aces-high-gets-update-roadmap-all-future-heists-will-be-free/",
+   "lines": [
+    {
+     "say": "つぎは、七日にお伝えした、ブイアールの強盗ゲーム、ペイデイ エーシズハイの続報です。",
+     "show": "つぎは、7日にお伝えしたVRの強盗ゲーム『PAYDAY: Aces High』の続報。"
+    },
+    {
+     "say": "ミッションをその場でやり直したり、仲間ごと隠れ家に戻ったりできる、アップデートが配信されました。年末までのロードマップも公開されています。",
+     "show": "ミッションのやり直しや、仲間ごと隠れ家に戻る機能を追加。年末までのロードマップも公開。"
+    },
+    {
+     "say": "十二月十四日には、新しいミッション、クー ド グラースが登場。これから追加されるミッションは、すべて無料だそうです。",
+     "show": "12月14日に新ミッション「Coup de Grâce」。今後の新ミッションはすべて無料。"
+    }
+   ],
+   "details": [
+    "Fast Travel Gamesの『PAYDAY: Aces High』に、「Restart Heist（その場でやり直し）」と「Abandon Heist（仲間ごと隠れ家に戻る）」が加わりました（UploadVR）。",
+    "ロードマップ：11月19日に最初の大型アップデート（不具合の修正、触覚の強さの調整など）、11月26日と12月10日にコミュニティチャレンジ、12月14日に新ミッション「Coup de Grâce」と新しい武器・マスク。",
+    "今後の新ミッションは、持っている人全員に無料で、バトルパスもありません。Quest 3・3SとSteam（Steam Frameを含む）のクロスプレイに対応しています。"
+   ],
+   "link": {
+    "url": "https://www.uploadvr.com/payday-aces-high-gets-update-roadmap-all-future-heists-will-be-free/",
+    "title": "Payday: Aces High Gets Update, Roadmap, & All Future Heists Will Be Free",
+    "site": "UploadVR",
+    "description": "Payday: Aces High got an update, roadmap, and news that all future heists will be released for free.",
+    "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/11/payday-aces-high-key-art-1.jpg",
+    "icon": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w256h256/2023/04/UploadCircle_favicon.png"
+   },
+   "steam": 3456660,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3456660/505831552/3069c6965a4254bbcb0da581660ca56afc97c301/1793289020/hls_264_master.m3u8?t=1793890706",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257484447/fca357926be62a7903379548d475595184066142/movie_600x337.jpg?t=1793890706",
+     "name": "Launch Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3456660/591727257/b042452074b9bcbe476d74efeb342254ec9ea7c1/1791463832/hls_264_master.m3u8?t=1792677237",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257452321/9ea5f4ef8ac3b606d2e4477a6af837aab8203a0e/movie_600x337.jpg?t=1792677237",
+     "name": "Release Date Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3456660/1241780416/182ef571e4315fcec8865ecd1a20dca2090a730f/1772094239/hls_264_master.m3u8?t=1792677238",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294734/22c98fd31123a52a017686fd3afaa2a8780d75e9/movie_600x337.jpg?t=1792677238",
+     "name": "Announcement trailer"
+    }
+   ]
+  },
+  {
+   "label": "Guilty Kissの演劇、VRChatで",
+   "points": [
+    "11月22日・23日にVRChatで演劇と音楽ライブ",
+    "11月16日から、お揃いのVRChatアイテムを発売",
+    "ブレードや衣装アクセサリーなど全7種"
+   ],
+   "url": "https://x.com/Gugenka_info/status/2119626029744734213",
+   "lines": [
+    {
+     "say": "つぎは、ラブライブ サンシャインの、ギルティキスの話題です。",
+     "show": "つぎは『ラブライブ！サンシャイン!!』のGuilty Kiss。"
+    },
+    {
+     "say": "ギルティキスの、ミュージカル パフォーマンス、漆黒のウォンテッドゴーストが、十一月二十二日と二十三日に、ブイアールチャットで開かれます。全部で四公演、演出や、結末への視点が、公演ごとに変わるそうです。",
+     "show": "「Guilty Kiss Musical Performance 漆黒のWanted Ghost」が11月22・23日にVRChatで。全4公演で、演出と結末への視点が変わる。"
+    },
+    {
+     "say": "公演に向けて、ブレードや衣装のアクセサリーなど、三人とお揃いのアイテム七種類が、十六日から売り出されます。",
+     "show": "3人とお揃いのVRChatアイテム7種（ブレード、衣装アクセサリーなど）が16日から発売。"
+    }
+   ],
+   "details": [
+    "Gugenkaが11月9日に公式Xで告知しました。「Guilty Kiss Musical Performance 漆黒のWanted Ghost」は、VR空間でGuilty Kissに会える公演です。",
+    "全4公演で、演出と結末への視点が変わります。本格的な演劇に加えて、音楽ライブやMCもあります。",
+    "VRChat用アイテムの販売期間は11月16日〜12月16日。ブレードや衣装アクセサリーなど全7種で、ゴシックな衣装にも合うとのこと。流れている動画は、公式の開催記念PVです。"
+   ],
+   "link": {
+    "url": "https://www.youtube.com/watch?v=LFnQUc5Jw9w",
+    "title": "【開催記念PV】 Guilty Kiss Musical Performance 漆黒のWanted Ghost",
+    "site": "YouTube",
+    "description": "スクールアイドル活動 新イベント「Guilty Kiss Musical Performance 漆黒のWanted Ghost」開催✨完全オリジナルストーリーで紡がれるミュージカル！Guilty Kissがいざなう劇の世界へ――出演桜内梨子（リリー役）津島善子（ヨハネ役）小原鞠莉（マリー役）公式サイトhttps...",
+    "image": "https://i.ytimg.com/vi/LFnQUc5Jw9w/maxresdefault.jpg",
+    "icon": "https://www.youtube.com/s/desktop/a2c91c03/img/favicon.ico",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/Gugenka_info/status/2119626029744734213",
+    "site": "X",
+    "title": "Gugenka公式（@Gugenka_info）：#lovelive×#VRChat アイテム 11/16(月)から発売"
+   },
+   "youtube": [
+    "LFnQUc5Jw9w"
+   ],
+   "videos": [
+    {
+     "youtube": "LFnQUc5Jw9w",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/LFnQUc5Jw9w/hqdefault.jpg",
+     "name": "【開催記念PV】 Guilty Kiss Musical Performance 漆黒のWanted Ghost"
+    }
+   ]
+  },
+  {
+   "label": "VR施設の「印象派」、3万人を突破",
+   "points": [
+    "イマーシブジャーニーの「印象派画家と過ごす夜」",
+    "国内の来場者が3万人を突破",
+    "12月に大阪、来年3月に広島へ"
+   ],
+   "url": "https://panora.tokyo/archives/162517",
+   "lines": [
+    {
+     "say": "ニュースの最後は、歩き回れる大型のブイアール体験施設、イマーシブジャーニーの話題です。",
+     "show": "ニュースの最後は、歩き回れる大型VR施設「イマーシブジャーニー」。"
+    },
+    {
+     "say": "百五十年前のパリで、モネやルノワールたち、印象派の画家と過ごす作品、印象派画家と過ごす夜の来場者が、国内で三万人を超えました。今年は、モネが亡くなって百年の年です。",
+     "show": "150年前のパリで印象派の画家と過ごす『印象派画家と過ごす夜』、国内来場者が3万人突破。今年はモネ没後100年。"
+    },
+    {
+     "say": "施設は、横浜と名古屋のほか、十二月には大阪の梅田、来年三月には広島にもオープンする予定です。",
+     "show": "施設は横浜・名古屋に続き、12月に大阪・梅田、来年3月に広島で開業予定。"
+    }
+   ],
+   "details": [
+    "CinemaLeapが運営する「イマーシブジャーニー」で、2025年7月から常設公開中の『Tonight with the Impressionists Paris 1874 印象派画家と過ごす夜』の国内累計来場者数が3万人を突破しました（PANORA）。",
+    "ヘッドセットを着けて広い空間を自分の足で歩き回る体験で、最大4人のグループで同時に体験できます。施設全体では35万人以上が訪れています。",
+    "2024年12月に横浜、2026年1月に名古屋で開館。12月に大阪・梅田、2027年3月に広島で開業予定です。"
+   ],
+   "link": {
+    "url": "https://panora.tokyo/archives/162517",
+    "title": "VR体験施設「イマーシブジャーニー」にて常設公開中の「Tonight with the Impressionists Paris 1874 印象派画家と過ごす夜」の国内の累計来場者数が3万人を突破 | PANORA",
+    "site": "PANORA",
+    "description": "株式会社CinemaLeap 　株式会社CinemaLeap（本社:東京都品川区、代表取締役:大橋哲也、以下:当社）が運営する国内最大級の大型 VR体験施設「イマーシブジャーニー（IMMERSIVE JOURNEY）」で",
+    "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/09181026/45020-64-8f7f5e7cdab35cd641faba68b83cb14f-3900x3046-1.webp",
+    "icon": "https://panora.tokyo/asset/uploads/2019/08/cropped-logo_panora_kb_sq_512x512-180x180.png"
+   },
+   "youtube": [
+    "CgxjPVB6A54"
+   ],
+   "videos": [
+    {
+     "youtube": "CgxjPVB6A54",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/CgxjPVB6A54/hqdefault.jpg",
+     "name": "『Tonight with the Impressionists PARIS 1874  印象派画家と過ごす夜』予告編"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ミリタリーストリート「MBU-002」",
+   "points": [
+    "ミリタリーテイストのクールなストリート衣装",
+    "しなの、ソルト、ミルティナなど9体",
+    "20日まで1,500円→1,100円"
+   ],
+   "url": "https://x.com/MTI0316/status/2119550539252027473",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、エックスで千いいねを超えた新作衣装、エムビーユー ゼロゼロツー。",
+     "show": "ここからは新作・セールのコーナー。まずは、Xで1,000いいね超えの新作衣装「MBU-002」。"
+    },
+    {
+     "say": "ミリタリーテイストを取り入れた、クールなストリート衣装です。黒いジャケットに、ドッグタグやベルトのチェーンを合わせています。",
+     "show": "ミリタリーテイストのクールなストリート衣装。黒いジャケットにドッグタグやチェーン。"
+    },
+    {
+     "say": "しなの、ソルト、ミルティナなど九体に対応。二十日までは、千五百円が千百円です。",
+     "show": "しなの、ソルト、ミルティナなど9体対応。20日まで1,500円→1,100円。"
+    }
+   ],
+   "details": [
+    "ショップはMTI。11月9日19時に発売しました。Xの告知ポストは、10日朝の時点で1,000以上のいいねを集めています。",
+    "対応は、しなの、ソルト、ミルティナ、愛莉、輝夜、クマリ、エクなど9体です。",
+    "発売記念セールは11月20日まで（単品1,500円→1,100円、フルパック3,200円→2,400円）。紹介動画もあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9083143",
+    "title": "【VRCHAT想定】MBU-002 - MTI - BOOTH",
+    "site": "booth.pm",
+    "description": "発売記念セール開催！🎉 単品　1500円 → 1100円 フルパック　3200円 → 2400円 📅 セール期間 2026年11月09日 ～ 2026年11月20日 この機会をお見逃しなく！✨",
+    "image": "https://booth.pximg.net/c/620x620/bd38da52-0fbd-44e2-8baa-3abfa4d3b07c/i/9083143/ac670eb1-8808-497b-a1b7-9194866f314d_base_resized.jpg",
+    "icon": "https://mti3d.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/MTI0316/status/2119550539252027473",
+    "site": "X",
+    "title": "MTI（@MTI0316）：新作衣装【MBU-002】本日19:00に発売"
+   },
+   "videos": [
+    {
+     "youtube": "Ae_-To5roUk",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/Ae_-To5roUk/hqdefault.jpg",
+     "name": "mbu-002"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ブルゾン2着が無料「Blouson Duo」",
+   "points": [
+    "ムートンレザーとシャツブルゾンの2着",
+    "キプフェル、まめふれんず向け",
+    "フォロワー1,000人記念で無料"
+   ],
+   "url": "https://booth.pm/ja/items/9120337",
+   "lines": [
+    {
+     "say": "つぎは、無料の衣装、ブルゾン デュオ。",
+     "show": "つぎは、無料の衣装「Blouson Duo」。"
+    },
+    {
+     "say": "ボアの襟が付いたムートンレザーのブルゾンと、前のファスナーを少しずつ開け閉めできるシャツブルゾン。秋冬向けの二着が、靴まで一式そろっています。",
+     "show": "ボア襟のムートンレザーと、ファスナーを少しずつ開け閉めできるシャツブルゾン。秋冬の2着、靴まで一式。"
+    },
+    {
+     "say": "キプフェルやまめふれんず向けで、フォロワー千人の記念で、無料で配られています。",
+     "show": "キプフェル・まめふれんず向け。フォロワー1,000人記念で無料。"
+    }
+   ],
+   "details": [
+    "ショップはRARAlabo。フォロワー1,000人突破の記念で無料。有料にする予定はないそうです。",
+    "「Shearling Blouson Set」はボアの大きな襟のムートンレザーのブルゾンで、6色。「Shirt Blouson Set」は、Expression Menuのダイヤルで前のファスナーを少しずつ開け閉めできます。",
+    "どちらも上から靴まで一式で、プレハブを入れるだけで着せられます。動作確認はキプフェルのみです。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9120337",
+    "title": "【無料】Blouson Duo　ブルゾン2着セット 【キプフェル、まめふれんず対応衣装】 - RARAlabo - BOOTH",
+    "site": "booth.pm",
+    "description": "Blouson Duo キプフェル、まめふれんず対応衣装　ブルゾン2着セット 秋冬向けのブルゾンの衣装を2着まとめました。フォロワー1000名突破記念で無料でご利用いただけます。ぜひ今後ともよろしくお願いします。 有料化の予定はありませんが、予告なく商品の公開を停止する可能性があります。 どちらも上から靴まで一式そろっていて、プレハブをアバターに入れるだけで着せられます。 まめふれんず素体であれば着用問題ないかと思われますが、当方キプフェルでしかテストできておりません。申し訳ございませんが、よろしくお願いいたします。 Shearling Blouson Set",
+    "image": "https://booth.pximg.net/c/620x620/a4067074-5bfc-42dd-bc96-62a35283dda0/i/9120337/7f3958d0-1613-4341-a8c1-0d3ae9f87c8e_base_resized.jpg",
+    "icon": "https://raralabo.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "うさぎのキャンディ、12日まで無料",
+   "points": [
+    "うさぎの形のスティックキャンディ",
+    "手に持つだけで、かわいいアクセント",
+    "12日まで無料、そのあと400円"
+   ],
+   "url": "https://booth.pm/ja/items/9114396",
+   "lines": [
+    {
+     "say": "つぎは、手に持つアイテム、うさぎのキャンディステッキ。",
+     "show": "つぎは手持ちアイテム「うさぎのキャンディステッキ」。"
+    },
+    {
+     "say": "うさぎの形をした、スティックキャンディです。手に持つだけで、かわいいアクセントになります。十二日までは無料で、そのあとは四百円です。",
+     "show": "うさぎの形のスティックキャンディ。12日まで無料、その後は400円。"
+    }
+   ],
+   "details": [
+    "ショップはKONBU SHOP。11月12日まで無料配布で、通常価格は400円です。",
+    "Modular Avatarに対応していて、左手で持ちます。Expression MenuでON/OFFを切り替えられます。",
+    "BOOTHのスキは1日で390を超えました。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9114396",
+    "title": "＜11/12まで無料＞うさぎのキャンディステッキ - KONBU SHOP - BOOTH",
+    "site": "booth.pm",
+    "description": "＜＜11/12(木)まで無料配布　（通常価格¥400）＞＞ うさぎの形をしたスティックキャンディ。 手に持つだけで可愛いアクセントになる手持ちアイテムです。 🐰ポイント ・MA対応済み（左手仕様） ・ExMenuでON/OFF切り替え 🐰内容物 ●UnityPackage ●Readme.txt ※アバター・衣装は付属しておりません。 ※PSDデータとUV展開図は付属しておりません。 🐰使用シェーダー lilToon 2.x.x （https://booth.pm/ja/items/3087170） 🐰ポリゴン数 △7521 🐰マテリアル数 2 🐰導入の流れ",
+    "image": "https://booth.pximg.net/c/620x620/bbc6916d-862b-4a28-ab87-b04e77ea162e/i/9114396/efc942c7-aead-49ad-96f1-06055fe41f03_base_resized.jpg",
+    "icon": "https://konbu-shop.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "みんなで消す「麻雀3Dコネクト」",
+   "points": [
+    "同じ絵柄の牌を消していく、ワールド用のゲーム",
+    "牌の状態は同期、みんなで協力できる",
+    "難易度は5種類、400円"
+   ],
+   "url": "https://booth.pm/ja/items/9116190",
+   "lines": [
+    {
+     "say": "つぎは、ワールドに置けるゲーム、麻雀3Dコネクト。",
+     "show": "つぎは、ワールドに置けるゲーム「麻雀3Dコネクト」。"
+    },
+    {
+     "say": "立体に積まれた牌の中から、同じ絵柄の牌を消していきます。牌の状態は同期するので、何人かで協力して遊べます。難易度は五種類で、値段は四百円です。",
+     "show": "立体に積まれた牌から、同じ絵柄の牌を消していく。みんなで協力できて、難易度は5種類。400円。"
+    }
+   ],
+   "details": [
+    "ショップは「だまこや」。同じ絵柄の牌を消していくゲームで、全部消せばクリア、消せる牌がなくなればゲームオーバー。麻雀とは別物です。",
+    "牌の状態は同期するので、複数人で協力できます（回転は同期しません）。リングをつかんで回すと、牌をあらゆる方向から見られます。",
+    "CARRYボタンで持ち運んで、遊ぶときだけテーブルに置けます。ショップのショールームワールドで実物を試せます。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9116190",
+    "title": "【VRC想定】麻雀3Dコネクト / Mahjong 3D Connect - だまこや - BOOTH",
+    "site": "booth.pm",
+    "description": "■商品内容 麻雀3Dコネクトは同じ絵柄の牌を消していくゲームです。 全て消すことができればクリア、消せる牌がなくなったらゲームオーバーです 牌の状態は同期するので複数人で協力して遊ぶこともできます。(※回転は同期しません) 麻雀とは別物です。 ・5種類の難易度選択 牌の数と攻略へのルートで5種類の難易度を用意しました ・持ち運び機能 CARRYボタンを押すと持ち運び状態になり好きなところに移動させ遊ぶことができます。 普段は別のところに収納し遊ぶ時だけテーブルに配置できます。 ・牌の回転機能 版の上にリングがありこれを掴んで回すことで牌群をあらゆる方向から見ることができます。",
+    "image": "https://booth.pximg.net/c/620x620/0697110e-1c98-4d96-91ef-a516c29be14b/i/9116190/85c616cd-7d6a-4270-963c-4e7c1693c241_base_resized.jpg",
+    "icon": "https://kodamaaltanative.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "ej2dOTkskT8",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/ej2dOTkskT8/hqdefault.jpg",
+     "name": "【VRC想定】麻雀3Dコネクト / Mahjong 3D Connect"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "撃てる指輪「指輪型リボルバー」",
+   "points": [
+    "人差し指にはめる、リボルバー型の指輪",
+    "手の形で撃鉄を起こし、構えて、撃つ",
+    "16日まで300円"
+   ],
+   "url": "https://booth.pm/ja/items/9121577",
+   "lines": [
+    {
+     "say": "最後は、撃てる指輪のギミック、指輪型リボルバー。",
+     "show": "最後は、撃てる指輪のギミック「指輪型リボルバー」。"
+    },
+    {
+     "say": "左手の人差し指にはめた指輪に、小さな回転式の銃が付いています。手の形で、撃鉄を起こして、構えて、グーで発砲。六発撃ったら、メニューからリロードします。",
+     "show": "人差し指の指輪に小さなリボルバー。手の形で撃鉄を起こし、構え、グーで発砲。6発でリロード。"
+    },
+    {
+     "say": "十六日までは、発売記念の三百円です。",
+     "show": "16日まで発売記念の300円（その後500円）。"
+    }
+   ],
+   "details": [
+    "ショップは常盤商店。ハンドガンで撃鉄を起こし、サムズアップで構え、グーで発砲。撃つたびにシリンダーが回り、弾が減ります。",
+    "効果音とマズルフラッシュつき。弾に当たり判定はありますが、ダメージはありません。入室時はセーフティがONです。",
+    "色はアンティーク、ゴールドシルバー、ゴシックの3色。PC専用で、11月16日以降は500円になります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9121577",
+    "title": "【VRChat】【リリース記念 11/16まで300円】指輪型リボルバー｜撃てる指輪ギミック（3色セット） - 常盤商店 - BOOTH",
+    "site": "booth.pm",
+    "description": "━━━━━━━━━━━━━━━━━━━━ 　指輪型リボルバー ━━━━━━━━━━━━━━━━━━━━ 【リリース記念 11/16まで300円】　１６日以降は500円になります 左手の人差し指にはめる、リボルバー型の指輪ギミックです。 ハンドガンで撃鉄を起こし、グーで発砲。 6発撃ち切ったら、EXメニューからリロードできます。 アンティークな雰囲気の指輪に、小さな回転式の銃を詰め込みました。 ■ 特徴 ・左手のジェスチャーだけで「撃鉄を起こす → 構える → 撃つ」 ・撃つたびにシリンダーが回り、弾が1発ずつ減る残弾管理（6発） ・射撃準備／発砲／不発／リロードの効果音付き",
+    "image": "https://booth.pximg.net/c/620x620/59750ead-b3dd-4d1c-bfa0-917d775b314b/i/9121577/b3d49f37-24ce-4b25-820a-bf05d6eea8d6_base_resized.jpg",
+    "icon": "https://abies.booth.pm/static-images/pwa/icon_size_180.png"
+   }
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、エックスで話題の、囚人のジレンマから始まりました。",
+   "show": "今日は、Xで話題の「囚人のジレンマ」から始まりました。"
+  },
+  {
+   "say": "うさぎのキャンディステッキの無料配布は、十二日まで。気になる人は、お早めに。",
+   "show": "「うさぎのキャンディステッキ」の無料配布は12日まで。お早めに。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 242.87,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.398,
+   "show": "ぶいらじです。11月10日火曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 5.648,
+   "end": 10.875,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 11.675,
+   "end": 16.252,
+   "show": "まずは、Xで大きな話題の新しいゲームワールド。",
+   "part": 1
+  },
+  {
+   "start": 16.502,
+   "end": 25.978,
+   "show": "「囚人のジレンマ」は、ゲーム理論を体験できるミニゲーム。あなたが信じた相手は、あなたを信じている？",
+   "part": 1
+  },
+  {
+   "start": 26.228,
+   "end": 37.074,
+   "show": "2〜16人（4人以上推奨）、10分ほど。Quest対応。告知ポストは27万回以上表示。",
+   "part": 1
+  },
+  {
+   "start": 37.874,
+   "end": 43.31,
+   "show": "つぎも、Xで話題の新しいワールド。ホラーワールド「霜憑旅館」。",
+   "part": 2
+  },
+  {
+   "start": 43.56,
+   "end": 54.082,
+   "show": "旅館の中を探索するホラーワールド。ボリュームは20分〜1時間半ほど。告知には1,200超えのいいね。",
+   "part": 2
+  },
+  {
+   "start": 54.882,
+   "end": 61.328,
+   "show": "つぎは、7日にお伝えしたVRの強盗ゲーム『PAYDAY: Aces High』の続報。",
+   "part": 3
+  },
+  {
+   "start": 61.578,
+   "end": 70.88,
+   "show": "ミッションのやり直しや、仲間ごと隠れ家に戻る機能を追加。年末までのロードマップも公開。",
+   "part": 3
+  },
+  {
+   "start": 71.13,
+   "end": 79.736,
+   "show": "12月14日に新ミッション「Coup de Grâce」。今後の新ミッションはすべて無料。",
+   "part": 3
+  },
+  {
+   "start": 80.536,
+   "end": 84.509,
+   "show": "つぎは『ラブライブ！サンシャイン!!』のGuilty Kiss。",
+   "part": 4
+  },
+  {
+   "start": 84.759,
+   "end": 99.576,
+   "show": "「Guilty Kiss Musical Performance 漆黒のWanted Ghost」が11月22・23日にVRChatで。全4公演で、演出と結末への視点が変わる。",
+   "part": 4
+  },
+  {
+   "start": 99.826,
+   "end": 107.596,
+   "show": "3人とお揃いのVRChatアイテム7種（ブレード、衣装アクセサリーなど）が16日から発売。",
+   "part": 4
+  },
+  {
+   "start": 108.396,
+   "end": 114.354,
+   "show": "ニュースの最後は、歩き回れる大型VR施設「イマーシブジャーニー」。",
+   "part": 5
+  },
+  {
+   "start": 114.604,
+   "end": 127.668,
+   "show": "150年前のパリで印象派の画家と過ごす『印象派画家と過ごす夜』、国内来場者が3万人突破。今年はモネ没後100年。",
+   "part": 5
+  },
+  {
+   "start": 127.918,
+   "end": 135.606,
+   "show": "施設は横浜・名古屋に続き、12月に大阪・梅田、来年3月に広島で開業予定。",
+   "part": 5
+  },
+  {
+   "start": 136.406,
+   "end": 144.234,
+   "show": "ここからは新作・セールのコーナー。まずは、Xで1,000いいね超えの新作衣装「MBU-002」。",
+   "part": 6
+  },
+  {
+   "start": 144.484,
+   "end": 152.033,
+   "show": "ミリタリーテイストのクールなストリート衣装。黒いジャケットにドッグタグやチェーン。",
+   "part": 6
+  },
+  {
+   "start": 152.283,
+   "end": 158.625,
+   "show": "しなの、ソルト、ミルティナなど9体対応。20日まで1,500円→1,100円。",
+   "part": 6
+  },
+  {
+   "start": 159.425,
+   "end": 162.597,
+   "show": "つぎは、無料の衣装「Blouson Duo」。",
+   "part": 7
+  },
+  {
+   "start": 162.847,
+   "end": 172.242,
+   "show": "ボア襟のムートンレザーと、ファスナーを少しずつ開け閉めできるシャツブルゾン。秋冬の2着、靴まで一式。",
+   "part": 7
+  },
+  {
+   "start": 172.492,
+   "end": 177.65,
+   "show": "キプフェル・まめふれんず向け。フォロワー1,000人記念で無料。",
+   "part": 7
+  },
+  {
+   "start": 178.45,
+   "end": 181.726,
+   "show": "つぎは手持ちアイテム「うさぎのキャンディステッキ」。",
+   "part": 8
+  },
+  {
+   "start": 181.976,
+   "end": 191.197,
+   "show": "うさぎの形のスティックキャンディ。12日まで無料、その後は400円。",
+   "part": 8
+  },
+  {
+   "start": 191.997,
+   "end": 196.005,
+   "show": "つぎは、ワールドに置けるゲーム「麻雀3Dコネクト」。",
+   "part": 9
+  },
+  {
+   "start": 196.255,
+   "end": 207.566,
+   "show": "立体に積まれた牌から、同じ絵柄の牌を消していく。みんなで協力できて、難易度は5種類。400円。",
+   "part": 9
+  },
+  {
+   "start": 208.366,
+   "end": 212.154,
+   "show": "最後は、撃てる指輪のギミック「指輪型リボルバー」。",
+   "part": 10
+  },
+  {
+   "start": 212.404,
+   "end": 224.086,
+   "show": "人差し指の指輪に小さなリボルバー。手の形で撃鉄を起こし、構え、グーで発砲。6発でリロード。",
+   "part": 10
+  },
+  {
+   "start": 224.336,
+   "end": 227.671,
+   "show": "16日まで発売記念の300円（その後500円）。",
+   "part": 10
+  },
+  {
+   "start": 228.471,
+   "end": 232.606,
+   "show": "今日は、Xで話題の「囚人のジレンマ」から始まりました。",
+   "part": 11
+  },
+  {
+   "start": 232.856,
+   "end": 238.443,
+   "show": "「うさぎのキャンディステッキ」の無料配布は12日まで。お早めに。",
+   "part": 11
+  },
+  {
+   "start": 238.693,
+   "end": 242.075,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 11.675
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.675,
+   "end": 37.874
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 37.874,
+   "end": 54.882
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 54.882,
+   "end": 80.536
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 80.536,
+   "end": 108.396
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 108.396,
+   "end": 136.406
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 136.406,
+   "end": 159.425
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 159.425,
+   "end": 178.45
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 178.45,
+   "end": 191.997
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 191.997,
+   "end": 208.366
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 208.366,
+   "end": 228.471
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 228.471,
+   "end": 242.875
+  }
+ ],
+ "made_at": "2026-11-10T10:13:00"
+}

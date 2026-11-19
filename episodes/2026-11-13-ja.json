@@ -1,0 +1,746 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-13",
+ "lang": "ja",
+ "title": "AirPodsでトラッキング、サンリオの初心者ワールドも",
+ "opening": [
+  {
+   "say": "ぶいらじです。十一月十三日、金曜日のブイアールニュースをお届けします。",
+   "show": "ぶいらじです。11月13日金曜日のVRニュースをお届けします。"
+  },
+  {
+   "say": "今日も、五本のニュースと、新作・セールの情報を五つお届けします。",
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "AirPodsでトラッキング、実機テスト",
+   "points": [
+    "AirPodsの動きのセンサーをVRChatのトラッキングに",
+    "USBドングルとVMT経由でSteamVRへ",
+    "テスト映像は6,000いいね・22万回表示"
+   ],
+   "url": "https://x.com/bruh_who_/status/2120927293413654553",
+   "lines": [
+    {
+     "say": "まずは、エックスでいちばん話題になっていた映像です。エアーポッズを使って、ブイアールチャットでトラッキングを試す、実機のテストです。",
+     "show": "まずは、Xでいちばん話題の映像。AirPodsを使ったVRChatのトラッキングの実機テスト。"
+    },
+    {
+     "say": "エアーポッズには、頭の向きを調べる、動きのセンサーが入っています。そのデータを読み出して、スチームブイアールに送っているそうです。",
+     "show": "AirPodsに入っている動きのセンサーのデータを読み出し、SteamVRへ送る。"
+    },
+    {
+     "say": "ウィンドウズでは、そのままではデータを読めないので、予備のUSBのドングルを使った、ひと工夫の仕組みです。映像は、二十二万回以上見られています。",
+     "show": "Windowsでは直接読めないため、予備のUSBドングルで別のBluetoothスタックを動かす工夫。映像は22万回以上表示。"
+    }
+   ],
+   "details": [
+    "投稿したのは@bruh_who_さん。11月12日にXに上げた「AirPods フルトラッキング VRChat実機テスト」の映像は、13日昼の時点で6,000以上のいいねと、22万回以上の表示を集めています。",
+    "AirPodsのヘッドトラッキングを扱うオープンソースのプロジェクト「mousepods」をもとにしています。WindowsはAirPodsのモーションのチャネルを開けないため、予備のUSBドングルでGoogleのBluetoothスタック「Bumble」を動かし、VMT（Virtual Motion Tracker）経由でSteamVRに送っているそうです。",
+    "返信には「AirPodsの良い使い道」という声や、時間がたつとずれていかないか気にする声も寄せられています。"
+   ],
+   "link": {
+    "url": "https://x.com/bruh_who_/status/2120927293413654553",
+    "title": "Xユーザーの̈̈̈̈̈̈（@bruh_who_）さん",
+    "site": "X",
+    "description": "AirPods フルトラッキング\nVRChat実機テスト",
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120926858745368576/img/f2NzELwStQdSxDc0?format=webp&name=large",
+    "icon": "https://x.com/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://github.com/starman-tech/mousepods",
+    "site": "GitHub",
+    "title": "starman-tech/mousepods"
+   }
+  },
+  {
+   "label": "サンリオの初心者向けワールド",
+   "points": [
+    "「Hello VRChat! with Sanrio characters」",
+    "サンリオキャラクターと、遊びながら基本操作を覚える",
+    "11月13日オープン、VRChat公式もおすすめ"
+   ],
+   "url": "https://x.com/SANRIO_Vfes/status/2121060524955983944",
+   "lines": [
+    {
+     "say": "つぎは、きょうオープンした、初心者向けのチュートリアルワールドです。",
+     "show": "つぎは、今日オープンした初心者向けのチュートリアルワールド。"
+    },
+    {
+     "say": "バーチャルサンリオピューロランドの、ハロー ブイアールチャット ウィズ サンリオキャラクターズ。サンリオのキャラクターと一緒に、遊びながら、ブイアールチャットの基本の操作を覚えられます。",
+     "show": "バーチャルサンリオピューロランドの「Hello VRChat! with Sanrio characters」。サンリオキャラクターと遊びながら基本操作を覚えられる。"
+    },
+    {
+     "say": "ブイアールチャットの日本語公式も、デビューは、サンリオキャラクターと一緒に、と紹介していて、ワールドメニューの、初めてにおすすめ、から入れます。",
+     "show": "VRChat日本語公式も紹介。ワールドメニューの「初めてにおすすめ！」から入れる。"
+    }
+   ],
+   "details": [
+    "バーチャルサンリオピューロランドが、11月13日11時に、初心者向けのチュートリアルワールド「Hello VRChat! with Sanrio characters」をオープンしました。告知ポストは13日昼の時点で780以上のいいねと、4.9万回以上の表示を集めています。",
+    "「バーチャルピューロで遊んでみたいけれど、VRChatの遊び方が分からない」という人に向けたワールドです。",
+    "VRChat日本語公式も「VRChatデビューは、サンリオキャラクターと一緒に」と紹介。ワールドメニューの「初めてにおすすめ！」から入れます。"
+   ],
+   "link": {
+    "url": "https://x.com/SANRIO_Vfes/status/2121060524955983944",
+    "title": "XユーザーのVirtual Sanrio Puroland（@SANRIO_Vfes）さん",
+    "site": "X",
+    "description": "／\n⏰11/13(金) 11:00 オープン！\nVRChatの最初の一歩を踏み出そう✨\n＼\n初心者向けのチュートリアルワールドがオープンしたよ🎵\n\n「バーチャルピューロで遊んでみたいけれど、VRChatの遊び方が分からない...」そんなあなたに💡\nサンリオキャラクターと一緒に、VRChatの最初の一歩を踏み出そう！\n\n#はろぶい_VRC\n#バーチャルピューロ\n#VRChat",
+    "image": "https://pbs.twimg.com/media/HW8ziY0aYAAPFHp?format=webp&name=large",
+    "icon": "https://x.com/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/VRChat_JP/status/2121070855111442795",
+    "site": "X",
+    "title": "VRChat 日本語公式（@VRChat_JP）：VRChatデビューは、サンリオキャラクターと一緒に"
+   }
+  },
+  {
+   "label": "4鍵盤の音ゲー「META BEAT」、25日公開",
+   "points": [
+    "VRChatで遊べる本格4鍵盤リズムゲーム",
+    "最大4人のマルチプレイ、Android・VR・デスクトップ対応",
+    "11月25日公開予定、テストプレイヤーも募集中"
+   ],
+   "url": "https://x.com/LilIce20_VRC/status/2120849086622646708",
+   "lines": [
+    {
+     "say": "つぎは、ブイアールチャットに登場する、本格的な音ゲーのワールド、メタビート。新しいPVが公開されました。",
+     "show": "つぎは、VRChatの本格音ゲーワールド「META BEAT」。最新PVが公開。"
+    },
+    {
+     "say": "四つの鍵盤で遊ぶリズムゲームで、最大四人のマルチプレイに対応。アンドロイド、ブイアール、デスクトップのどれでも遊べます。",
+     "show": "4鍵盤のリズムゲーム。最大4人のマルチプレイ、Android・VR・Desktop対応。"
+    },
+    {
+     "say": "公開は、十一月二十五日の予定です。テストプレイヤーや、曲を提供する人、譜面を作る人も募集しています。",
+     "show": "11月25日公開予定。テストプレイヤー・楽曲提供者・譜面制作者を募集中。"
+    }
+   ],
+   "details": [
+    "制作はりる（@LilIce20_VRC）さんたち。11月12日にXで最新PVを公開し、13日昼の時点で900以上のいいねを集めています。",
+    "VRChatで遊べる本格的な4鍵盤の音ゲーです。最大4人のマルチプレイに対応し、Android、VR、デスクトップで遊べます。",
+    "公開は11月25日の予定。テストプレイヤー・楽曲提供者・譜面制作者は、Discordで募集しています。"
+   ],
+   "link": {
+    "url": "https://x.com/LilIce20_VRC/status/2120849086622646708",
+    "title": "Xユーザーのりる（@LilIce20_VRC）さん",
+    "site": "X",
+    "description": "【META BEAT｜最新PV公開】\n\nVRChatに、本格4鍵盤音ゲーが登場！\n\n最大4人のマルチプレイ対応！\nAndroid / VR / Desktop 対応\n\n11月25日 公開予定！\n\n次の一曲は、あなたの番。\n\n🎵 テストプレイヤー・楽曲提供者・譜面制作者、まだまだ募集中！\n詳細・参加はこちら👇\nhttps://t.co/WXeq75giOG\n\n#VRChat #VRChat_world紹介 #音ゲー #META_BEAT",
+    "image": "https://pbs.twimg.com/amplify_video_thumb/2120835204772446208/img/avRW0k61E6uijUW2?format=webp&name=large",
+    "icon": "https://x.com/apple-touch-icon.png",
+    "found_by": "search"
+   }
+  },
+  {
+   "label": "世界を巡るボードゲーム「G20: The Game」",
+   "points": [
+    "サイコロで20か国を巡り、土地を買って建物を建てる",
+    "2〜4人で、イベントカード32枚・勝利条件5つ",
+    "日本語・英語・韓国語・中国語に対応"
+   ],
+   "url": "https://x.com/Yazawa_Miho/status/2120827313499869255",
+   "lines": [
+    {
+     "say": "つぎは、ボードゲームのワールド、ジーにじゅう ザ ゲーム。",
+     "show": "つぎは、ボードゲームのワールド「G20: The Game」。"
+    },
+    {
+     "say": "サイコロをふって世界を巡り、土地を買って、建物を建て、買収で奪い取る。最後まで勝ち残れば、優勝です。",
+     "show": "サイコロで世界を巡り、土地を買って建物を建て、買収で奪え。最後まで勝ち残れ。"
+    },
+    {
+     "say": "二人から四人で遊べて、舞台は世界の二十か国と、四つの観光地。イベントカードは三十二枚、勝ち方も五通りあります。",
+     "show": "2〜4人。世界20か国＋観光地4か所、イベントカード32枚、勝利条件5つ。"
+    }
+   ],
+   "details": [
+    "作者はYazawa Miho（@Yazawa_Miho）さん。11月12日にXでPVを公開し、13日昼の時点で570以上のいいねを集めています。",
+    "ワールドの説明によると、2〜4人で遊ぶボードゲームで、土地に別荘・ビル・ホテル・ランドマークを建てて、ライバルから通行料を集めます。いちばんのお金持ちになるほか、一列を独占するなどの勝ち方があります。",
+    "日本語・English・한국어・中文に対応しています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_c90cfd49-5291-4937-9a3e-c76f79ae778a/info",
+    "title": "G20˸ The Game by Yazawa Miho",
+    "site": "VRChat",
+    "description": "G20˸ The Game is a Monopoly-inspired board game for 2-4 players․ Travel around 20 countries and 4 tourist spots‚ buy land‚ build villas‚ buildings‚ hotels and landmarks‚ and collect tolls from your rivals․ Win by being the richest when the game ends‚ owning a whole line‚ three color groups or all 4 tourist spots‚ or by being the last player standing․ Supports English‚ Korean‚ Japanese and Chinese․",
+    "image": "https://api.vrchat.cloud/api/1/file/file_a88cdd2e-589b-49ff-91bb-2faf985dd1e7/1/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/Yazawa_Miho/status/2120827313499869255",
+    "site": "X",
+    "title": "Yazawa Miho（@Yazawa_Miho）：【VRChatワールド】G20: The Game PV公開！"
+   }
+  },
+  {
+   "label": "歯をみがいてあげる「Just歯磨き」",
+   "points": [
+    "相手の歯をみがく、歯磨きのゲーム",
+    "ミニゲームも",
+    "告知ポストは630いいね"
+   ],
+   "url": "https://x.com/MackonQuest/status/2120803793906618394",
+   "lines": [
+    {
+     "say": "ニュースの最後は、ちょっと変わったワールド。ジャスト歯磨き、おまえやれ、ぎゃく歯科です。",
+     "show": "ニュースの最後は、ちょっと変わったワールド「Just歯磨き -おまえやれ逆歯科-」。"
+    },
+    {
+     "say": "はーい、はみがきしまちょうねー、と、相手の歯をみがいてあげる、歯磨きのゲームが遊べます。ミニゲームもあるそうです。",
+     "show": "「はーい、はみがきちまちょーねー」。歯磨きのゲームが遊べるワールド。ミニゲームも。"
+    }
+   ],
+   "details": [
+    "作者はkani_languageさん。マッコンクエスト（@MackonQuest）さんの紹介ポストは、13日昼の時点で630以上のいいねを集めています。",
+    "ワールドの説明は「はみがきのげーむができるわーるどです。みにげーむもおきました」。紹介ポストには、遊んでいる映像が付いています。"
+   ],
+   "link": {
+    "url": "https://vrchat.com/home/world/wrld_347a21be-721d-49f9-a07f-22a25f70dfc6/info",
+    "title": "Just歯磨き -おまえやれ逆歯科- by kani_language",
+    "site": "VRChat",
+    "description": "はみがきのげーむができるわーるどです。 みにげーむもおきました",
+    "image": "https://api.vrchat.cloud/api/1/file/file_99499123-e7f0-442d-bf20-28cf884cc701/1/file",
+    "icon": "https://assets.vrchat.com/www/favicons/apple-touch-icon.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/MackonQuest/status/2120803793906618394",
+    "site": "X",
+    "title": "マッコンクエスト（@MackonQuest）：「Just歯磨き -おまえやれ逆歯科-」"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "ベルトまみれのストリート「STREET//CODE」",
+   "points": [
+    "ベルトをたくさん使ったストリート衣装",
+    "しなの、まふゆ、まぬかなど15体",
+    "Xで3,000いいね・11万回表示"
+   ],
+   "url": "https://x.com/pkta_VRC/status/2120713204732981410",
+   "lines": [
+    {
+     "say": "ここからは、新作とセールのコーナー。まずは、エックスで三千いいねを超えた新作衣装、ストリートコード。",
+     "show": "ここからは新作・セールのコーナー。まずは、Xで3,000いいね超えの新作衣装「STREET//CODE」。"
+    },
+    {
+     "say": "ベルトをたくさん使った、にぎやかなストリートの衣装です。色を変えられるPSDつきで、ベルトが体を突き抜けにくい設定もしてあります。",
+     "show": "ベルトまみれのストリート衣装。PSDつきで色を変えられ、ベルトが体を貫通しにくい設定済み。"
+    },
+    {
+     "say": "しなの、まふゆ、まぬかなど、十五体に対応。単品は千三百円、フルパックは三千百円です。",
+     "show": "しなの、まふゆ、まぬかなど15体対応。単品1,300円、フルパック3,100円。"
+    }
+   ],
+   "details": [
+    "ショップはぽた屋。11月12日に発売しました。発売記念のプレゼント企画のポストは、13日昼の時点で3,000以上のいいねと、11万回以上の表示を集めています。",
+    "対応は、しなの、まふゆ、まぬか、ミルフィ／エク、ルルネ／かぐや、まお／ちゆ、うらら、デルタフレア、シフォン、むんき、いちご、しお、まよなど。Modular Avatar設定済みです。",
+    "プレゼント企画の締め切りは11月15日23時59分です。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9125022",
+    "title": "【3D衣装】STREET//CODE　15アバター対応 - ぽた屋 - BOOTH",
+    "site": "booth.pm",
+    "description": "✂--おそろストリートなら何もない日だって最高じゃん！--- ベルトまみれでたのしい！ PSDが付いてるのでオリジナルのカラーで！！ コライダー設定済みなのでベルトが身体を貫通しにくい！！！ △45,050 ポリゴン Modular Avatar設定済み！アバターにﾎﾟﾝｯでOK オブジェクトは計4つに分かれています （Heiro/Top/pants/Shoes） 胸のシェイプキーはBig/Smallある子はあります。 (Big2みたいなのもある子もあります。安心してください) (詳しくはサムネの左側に書いてあります。) 写真に写ってる他作品 ・キズダラケ -絆創膏-【3D小物】 (",
+    "image": "https://booth.pximg.net/c/620x620/b6109713-0e61-441f-b39b-0561ac0a0eb2/i/9125022/61cef28f-bf11-46e6-a7c3-71384ff74386_base_resized.jpg",
+    "icon": "https://pokotaaa.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/pkta_VRC/status/2120713204732981410",
+    "site": "X",
+    "title": "ぽ（@pkta_VRC）：発売記念 新作衣装が抽選で3名様に当たります！"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "変形するメカの腕、無料",
+   "points": [
+    "部品がひとつずつガチャガチャ付くメカ腕",
+    "オーバーヒートで蒸気、崩れ落ちても戻る",
+    "ミルティナ向け、無料"
+   ],
+   "url": "https://x.com/hoshiinoAgeru/status/2120701343547748637",
+   "lines": [
+    {
+     "say": "つぎは、無料のギミック、ミルティナ向けのメカの腕。",
+     "show": "つぎは、無料のギミック「ミルティナ対応メカ腕」。"
+    },
+    {
+     "say": "付けるときは、部品がひとつずつ、ガチャガチャと付いていきます。オーバーヒートのボタンを押すと、腕が赤く熱くなって、装甲が開いて、蒸気をふいて、ひえます。",
+     "show": "付けるときは部品がひとつずつガチャガチャ。オーバーヒートで腕が赤くなり、装甲が開いて蒸気。"
+    },
+    {
+     "say": "崩れ落ちるボタンでは、部品が床にばらばらに落ちて、しばらくすると、飛んで戻ってきます。全部、音つきですよ。",
+     "show": "「崩れ落ちる」で部品が床に落ち、しばらくして飛んで戻る。すべて音つき。"
+    }
+   ],
+   "details": [
+    "ショップはelpisageru。作者の星井野アゲルさんのXのポストは、13日昼の時点で860以上のいいねを集めています。",
+    "左右の腕を別々に付け外しでき、メカの腕はアバターの腕と指の動きについてきます。生身の腕と服の袖は、メカの腕の中にしまわれます。",
+    "前腕の「AGERU」の文字は好きな文字に変えられ、装甲と光の色もVRChatの中で変えられます。紹介動画もあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9135002",
+    "title": "ミルティナ対応メカ腕 変形、オーバーヒート、崩れ落ちギミック 音あり　色替え　ラベル替え - elpisageru - BOOTH",
+    "site": "booth.pm",
+    "description": "初配布なので動かなかったら教えてください。 ・左腕／右腕をべつべつにつけたりはずしたりできます（片腕だけもOK）。 ・つける時は部品がひとつずつガチャガチャついていき、はずす時は逆の順にはずれます（音つき）。 ・「オーバーヒート」ボタンで、腕が赤く熱くなって装甲がひらき、蒸気をふいて冷えます（音つき）。 ・メカの腕はアバターの腕と指の骨にそって動きます（ジェスチャー・指のトラッキングにもついてきます）。 ・つけている側の生身の腕と服のそでは、メカの腕の中にしまわれるので、つき出しません。 ・前腕の「AGERU」の文字は、好きな文字に変えられます。色も変えられます。",
+    "image": "https://booth.pximg.net/c/620x620/63d136cb-4878-4b63-b4df-45db62905aef/i/9135002/92135dae-67ff-4304-aca6-937f8254ab1f_base_resized.jpg",
+    "icon": "https://elpisageru.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/hoshiinoAgeru/status/2120701343547748637",
+    "site": "X",
+    "title": "星井野アゲル（@hoshiinoAgeru）：腕配布 無料"
+   },
+   "videos": [
+    {
+     "youtube": "CWXoVlWVl_c",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/CWXoVlWVl_c/hqdefault.jpg",
+     "name": "v14 all cut"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ワールドに置ける「ガラスの自動販売機」",
+   "points": [
+    "ボタンを押すと、選んだ飲み物が1本出てくる",
+    "ガラス越しに中の動きが見える",
+    "発売セールで40%オフ、1,000円"
+   ],
+   "url": "https://x.com/crystivo/status/2120889248324948112",
+   "lines": [
+    {
+     "say": "つぎは、ワールドに置ける、ガラスの自動販売機。",
+     "show": "つぎは、ワールドに置ける「ガラスの自動販売機」。"
+    },
+    {
+     "say": "実物大の、飲み物の自販機です。商品のボタンを押すと、ガラス越しに見えるゲートが開いて、選んだ缶やペットボトルが一本、取り出し口に届きます。",
+     "show": "実物大の飲料自販機。ボタンを押すと、ガラス越しのゲートが開き、選んだ缶やペットボトルが1本届く。"
+    },
+    {
+     "say": "買ったり、補充したりするギミック付き。いまは、発売セールで四十パーセントオフの、千円です。",
+     "show": "購入・補充ギミック付き。発売セールで40%OFFの1,000円。"
+    }
+   ],
+   "details": [
+    "ショップはCrystivo。VRChatのPCワールド向けです。発売記念のプレゼント企画のポストは、13日昼の時点で870以上のいいねを集めています。",
+    "紹介動画もあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9138466",
+    "title": "✨発売セール40%OFF✨【購入/補充ギミック付き】ガラスの自動販売機 - Crystivo - BOOTH",
+    "site": "booth.pm",
+    "description": "VRChatのPCワールドに置ける実物大の飲料自販機です。商品ボタンを押すと、ガラス越しに見えるゲートが開き、選んだ缶やペットボトルが1本、取出口に届きます。",
+    "image": "https://booth.pximg.net/c/620x620/7ca828dc-698d-41f9-a1ff-bf35286a5fba/i/9138466/ddd82bed-ff4f-4a4e-9570-1c78383f00f8_base_resized.jpg",
+    "icon": "https://crystivo.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/crystivo/status/2120889248324948112",
+    "site": "X",
+    "title": "Crystivo（@crystivo）：「ガラスの自動販売機」発売記念ギフト企画"
+   },
+   "videos": [
+    {
+     "youtube": "1AmpISRtoPo",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/1AmpISRtoPo/hqdefault.jpg",
+     "name": "CRYSTIVO GlassVendingMachine PV"
+    }
+   ]
+  },
+  {
+   "corner": "shop",
+   "label": "ハイポニーテール、公開から3日間無料",
+   "points": [
+    "高めの位置で結んだハイポニーテール",
+    "毛先に向かって色が変わる、全8色",
+    "公開から3日間は無料、その後400円"
+   ],
+   "url": "https://x.com/mimiate_902/status/2120884845257838947",
+   "lines": [
+    {
+     "say": "つぎは、髪型のハイポニーテール。いまは、無料です。",
+     "show": "つぎは、髪型「HighPony」。いまは無料。"
+    },
+    {
+     "say": "高めの位置で結んだ、すっきりとしたポニーテール。毛先に向かって色が変わるグラデーションで、全部で八色あります。",
+     "show": "高めの位置で結んだ、すっきりしたハイポニーテール。毛先に向かって色が変わる、全8色。"
+    },
+    {
+     "say": "エックスの開設記念で、公開から三日間は無料。そのあとは、四百円になる予定です。",
+     "show": "X開設記念で、公開から3日間は無料。その後は400円の予定。"
+    }
+   ],
+   "details": [
+    "ショップはshigu工房。アルエ（Alué）を基準に作られていて、ほかのアバターでは位置と大きさを調整して使います。lilToonとModular Avatarが必要です。",
+    "200円の「応援版」もありますが、中身は無料版と同じです。",
+    "ほたて（@mimiate_902）さんの紹介ポストは、13日昼の時点で1,000以上のいいねを集めています。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9126080",
+    "title": "【3日間 無料/free】HighPony ハイポニーテール髪型【VRChat】 - shigu工房 - BOOTH",
+    "site": "booth.pm",
+    "description": "ツイッター（X）開設記念！公開から3日間は無料！11月15日は400円で販売します。 有料「応援版」の内容物は無料版と同じです。 ━━━━━━━━━━━━━━━━━━━━ HighPony ハイポニーテール髪型 ━━━━━━━━━━━━━━━━━━━━ ■ 概要 高めの位置で結んだ、すっきりとしたハイポニーテールの髪型です。 毛先に向かって色が変わるグラデーションで、全8色をご用意しました。 ■ 内容物 ・HighPony_v1.0.unitypackage（プレハブ8色・FBX・マテリアル・テクスチャ） ・readme.txt（導入方法・よくある質問） ■ 基準アバター ・アルエ（Alué）",
+    "image": "https://booth.pximg.net/c/620x620/cdbb0022-7d17-4c2d-960f-dbd0c609cae0/i/9126080/5c59ae6e-79f4-405f-96df-d72a865ded4f_base_resized.jpg",
+    "icon": "https://shigurena.booth.pm/static-images/pwa/icon_size_180.png",
+    "found_by": "search"
+   },
+   "source_link": {
+    "url": "https://x.com/mimiate_902/status/2120884845257838947",
+    "site": "X",
+    "title": "ほたて（@mimiate_902）：【3日間 無料/free】HighPony ハイポニーテール髪型"
+   }
+  },
+  {
+   "corner": "shop",
+   "label": "カメラ2台でフルトラ「トラッキングでき～る」",
+   "points": [
+    "Webカメラ2台で、腰と足をトラッキング",
+    "スマホをWebカメラにしてもOK",
+    "年内は7,000円、その後9,000円"
+   ],
+   "url": "https://booth.pm/ja/items/9106073",
+   "lines": [
+    {
+     "say": "最後は、トラッカーを使わない、フルトラのソフト、トラッキングできーる。",
+     "show": "最後は、トラッカーなしのフルトラソフト「トラッキングでき～る」。"
+    },
+    {
+     "say": "部屋に置いた、二台のウェブカメラで、アバターの腰と足を、自分の動きに合わせて動かします。スマホを、ウェブカメラ代わりに使うこともできます。",
+     "show": "部屋に置いたWebカメラ2台で、アバターの腰と足を動かす。スマホをWebカメラにしてもOK。"
+    },
+    {
+     "say": "販売記念で、年内は七千円。そのあとは、九千円になります。",
+     "show": "販売記念セールで、年内は7,000円（その後9,000円）。"
+    }
+   ],
+   "details": [
+    "ショップははむ屋。英語名はDualCam FBT。Windows用のソフトです。",
+    "BOOTHのスキは、13日昼の時点で280を超えています。紹介動画もあります。"
+   ],
+   "link": {
+    "url": "https://booth.pm/ja/items/9106073",
+    "title": "「トラッキングでき～る」- VRChatフルトラッキングをカメラ2台で - - はむ屋 - BOOTH",
+    "site": "booth.pm",
+    "description": "「販売記念セール」7000円 今年いっぱいまで！ その後は9000円になります Webカメラ2台でVRChatのフルトラトラッキング。 トラッキングでき～る（DualCam FBT）は、部屋に置いたWebカメラ2台で、VRChatのアバターの腰と足をあなたの動きに合わせて動かすWindows用のソフトです。スマホをWebカメラとして使うこともできます。",
+    "image": "https://booth.pximg.net/c/620x620/fd001770-a3e0-441a-bfb1-91fe942a33d4/i/9106073/cbd65fa8-f22f-4b4d-8d9f-f3f0c616d6f4_base_resized.jpg",
+    "icon": "https://hamnchu.booth.pm/static-images/pwa/icon_size_180.png"
+   },
+   "videos": [
+    {
+     "youtube": "SHo2xsyFhao",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/SHo2xsyFhao/hqdefault.jpg",
+     "name": "トラッキングでき～る紹介動画"
+    }
+   ]
+  }
+ ],
+ "highlight": 0,
+ "closing": [
+  {
+   "say": "今日は、エックスで話題の、エアーポッズのトラッキングから始まりました。",
+   "show": "今日は、Xで話題の「AirPodsでトラッキング」から始まりました。"
+  },
+  {
+   "say": "メタビートの公開は、二十五日の予定。ハイポニーテールの無料配布は、公開から三日間です。",
+   "show": "「META BEAT」は25日公開予定。「HighPony」の無料配布は公開から3日間。"
+  },
+  {
+   "say": "それではまた、バーチャルの世界で。ぶいらじでした。",
+   "show": "それではまた、バーチャルの世界で。"
+  }
+ ],
+ "seconds": 253.92,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.885,
+   "show": "ぶいらじです。11月13日金曜日のVRニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 6.135,
+   "end": 11.362,
+   "show": "今日も、5本のニュースと、新作・セール情報5本です。",
+   "part": 0
+  },
+  {
+   "start": 12.162,
+   "end": 20.373,
+   "show": "まずは、Xでいちばん話題の映像。AirPodsを使ったVRChatのトラッキングの実機テスト。",
+   "part": 1
+  },
+  {
+   "start": 20.623,
+   "end": 29.368,
+   "show": "AirPodsに入っている動きのセンサーのデータを読み出し、SteamVRへ送る。",
+   "part": 1
+  },
+  {
+   "start": 29.618,
+   "end": 39.629,
+   "show": "Windowsでは直接読めないため、予備のUSBドングルで別のBluetoothスタックを動かす工夫。映像は22万回以上表示。",
+   "part": 1
+  },
+  {
+   "start": 40.429,
+   "end": 44.53,
+   "show": "つぎは、今日オープンした初心者向けのチュートリアルワールド。",
+   "part": 2
+  },
+  {
+   "start": 44.78,
+   "end": 56.102,
+   "show": "バーチャルサンリオピューロランドの「Hello VRChat! with Sanrio characters」。サンリオキャラクターと遊びながら基本操作を覚えられる。",
+   "part": 2
+  },
+  {
+   "start": 56.352,
+   "end": 65.956,
+   "show": "VRChat日本語公式も紹介。ワールドメニューの「初めてにおすすめ！」から入れる。",
+   "part": 2
+  },
+  {
+   "start": 66.756,
+   "end": 74.665,
+   "show": "つぎは、VRChatの本格音ゲーワールド「META BEAT」。最新PVが公開。",
+   "part": 3
+  },
+  {
+   "start": 74.915,
+   "end": 83.23,
+   "show": "4鍵盤のリズムゲーム。最大4人のマルチプレイ、Android・VR・Desktop対応。",
+   "part": 3
+  },
+  {
+   "start": 83.48,
+   "end": 91.54,
+   "show": "11月25日公開予定。テストプレイヤー・楽曲提供者・譜面制作者を募集中。",
+   "part": 3
+  },
+  {
+   "start": 92.34,
+   "end": 96.523,
+   "show": "つぎは、ボードゲームのワールド「G20: The Game」。",
+   "part": 4
+  },
+  {
+   "start": 96.773,
+   "end": 104.705,
+   "show": "サイコロで世界を巡り、土地を買って建物を建て、買収で奪え。最後まで勝ち残れ。",
+   "part": 4
+  },
+  {
+   "start": 104.955,
+   "end": 113.549,
+   "show": "2〜4人。世界20か国＋観光地4か所、イベントカード32枚、勝利条件5つ。",
+   "part": 4
+  },
+  {
+   "start": 114.349,
+   "end": 119.878,
+   "show": "ニュースの最後は、ちょっと変わったワールド「Just歯磨き -おまえやれ逆歯科-」。",
+   "part": 5
+  },
+  {
+   "start": 120.128,
+   "end": 127.909,
+   "show": "「はーい、はみがきちまちょーねー」。歯磨きのゲームが遊べるワールド。ミニゲームも。",
+   "part": 5
+  },
+  {
+   "start": 128.709,
+   "end": 135.933,
+   "show": "ここからは新作・セールのコーナー。まずは、Xで3,000いいね超えの新作衣装「STREET//CODE」。",
+   "part": 6
+  },
+  {
+   "start": 136.183,
+   "end": 145.102,
+   "show": "ベルトまみれのストリート衣装。PSDつきで色を変えられ、ベルトが体を貫通しにくい設定済み。",
+   "part": 6
+  },
+  {
+   "start": 145.352,
+   "end": 152.75,
+   "show": "しなの、まふゆ、まぬかなど15体対応。単品1,300円、フルパック3,100円。",
+   "part": 6
+  },
+  {
+   "start": 153.55,
+   "end": 157.233,
+   "show": "つぎは、無料のギミック「ミルティナ対応メカ腕」。",
+   "part": 7
+  },
+  {
+   "start": 157.483,
+   "end": 168.086,
+   "show": "付けるときは部品がひとつずつガチャガチャ。オーバーヒートで腕が赤くなり、装甲が開いて蒸気。",
+   "part": 7
+  },
+  {
+   "start": 168.336,
+   "end": 176.245,
+   "show": "「崩れ落ちる」で部品が床に落ち、しばらくして飛んで戻る。すべて音つき。",
+   "part": 7
+  },
+  {
+   "start": 177.045,
+   "end": 180.6,
+   "show": "つぎは、ワールドに置ける「ガラスの自動販売機」。",
+   "part": 8
+  },
+  {
+   "start": 180.85,
+   "end": 191.209,
+   "show": "実物大の飲料自販機。ボタンを押すと、ガラス越しのゲートが開き、選んだ缶やペットボトルが1本届く。",
+   "part": 8
+  },
+  {
+   "start": 191.459,
+   "end": 197.94,
+   "show": "購入・補充ギミック付き。発売セールで40%OFFの1,000円。",
+   "part": 8
+  },
+  {
+   "start": 198.74,
+   "end": 202.69,
+   "show": "つぎは、髪型「HighPony」。いまは無料。",
+   "part": 9
+  },
+  {
+   "start": 202.94,
+   "end": 210.292,
+   "show": "高めの位置で結んだ、すっきりしたハイポニーテール。毛先に向かって色が変わる、全8色。",
+   "part": 9
+  },
+  {
+   "start": 210.542,
+   "end": 216.814,
+   "show": "X開設記念で、公開から3日間は無料。その後は400円の予定。",
+   "part": 9
+  },
+  {
+   "start": 217.614,
+   "end": 222.33,
+   "show": "最後は、トラッカーなしのフルトラソフト「トラッキングでき～る」。",
+   "part": 10
+  },
+  {
+   "start": 222.58,
+   "end": 231.952,
+   "show": "部屋に置いたWebカメラ2台で、アバターの腰と足を動かす。スマホをWebカメラにしてもOK。",
+   "part": 10
+  },
+  {
+   "start": 232.202,
+   "end": 237.208,
+   "show": "販売記念セールで、年内は7,000円（その後9,000円）。",
+   "part": 10
+  },
+  {
+   "start": 238.008,
+   "end": 242.423,
+   "show": "今日は、Xで話題の「AirPodsでトラッキング」から始まりました。",
+   "part": 11
+  },
+  {
+   "start": 242.673,
+   "end": 249.491,
+   "show": "「META BEAT」は25日公開予定。「HighPony」の無料配布は公開から3日間。",
+   "part": 11
+  },
+  {
+   "start": 249.741,
+   "end": 253.122,
+   "show": "それではまた、バーチャルの世界で。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.162
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.162,
+   "end": 40.429
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 40.429,
+   "end": 66.756
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 66.756,
+   "end": 92.34
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 92.34,
+   "end": 114.349
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 114.349,
+   "end": 128.709
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 128.709,
+   "end": 153.55
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 153.55,
+   "end": 177.045
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 177.045,
+   "end": 198.74
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 198.74,
+   "end": 217.614
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 217.614,
+   "end": 238.008
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 238.008,
+   "end": 253.922
+  }
+ ],
+ "made_at": "2026-11-13T14:23:06"
+}
